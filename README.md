@@ -7,8 +7,8 @@
 
 My name is Thomas Poignant. I live in Paris 🇫🇷 and my timezone is UTC+2.
 The open source projects that I'm currently focusing on are:
-- [`go-feature-flag`](https://github.com/thomaspoignant/go-feature-flag)
-- [`scim-patch`](https://github.com/thomaspoignant/scim-patch)
-- [`scim2-parse-filter`](https://github.com/thomaspoignant/scim2-parse-filter)
+- [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag)
+- [scim-patch](https://github.com/thomaspoignant/scim-patch)
+- [scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter)
 
 If you find my open source contributions valuable, please consider [sponsoring me on GitHub](https://github.com/sponsors/thomaspoignant/).
