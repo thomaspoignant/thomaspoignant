@@ -16,6 +16,6 @@ The open source projects that I'm currently focusing on are:
 If you find my open source contributions valuable, please consider [sponsoring me on GitHub](https://github.com/sponsors/thomaspoignant/).
 -----------
 
-# 📚 Latest Blog posts
+### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
