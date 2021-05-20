@@ -14,6 +14,7 @@ The open source projects that I'm currently focusing on are:
 - [mac-dev-setup](https://github.com/thomaspoignant/mac-dev-setup)
 
 If you find my open source contributions valuable, please consider [sponsoring me on GitHub](https://github.com/sponsors/thomaspoignant/).
+
 -----------
 
 ### 📚 Latest Blog posts
