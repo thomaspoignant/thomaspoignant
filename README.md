@@ -6,6 +6,7 @@
 -----------
 
 My name is Thomas Poignant. I live in Paris 🇫🇷 and my timezone is UTC+2.
+I am an AWS Community Builder.
 
 The open source projects that I'm currently focusing on are:
 - [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag)
