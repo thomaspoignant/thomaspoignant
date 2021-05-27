@@ -24,7 +24,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automate Your Product Release Cycles Using Go-Feature-Flag](https://betterprogramming.pub/automate-your-product-release-cycles-using-go-feature-flag-6ab73f869f?source=rss-9a58464dd8e9------2)
+- [Golang: Automate Your Product Release Cycles Using Go-Feature-Flag](https://betterprogramming.pub/automate-your-product-release-cycles-using-go-feature-flag-6ab73f869f?source=rss-9a58464dd8e9------2)
 - [Switch easily between multiple kubernetes version on MacOs](https://faun.pub/switch-easily-between-multiple-kubernetes-version-on-macos-9d61b9bc8287?source=rss-9a58464dd8e9------2)
 - [Build a Configurable Chain of Responsibility in Go](https://betterprogramming.pub/build-a-configurable-chain-of-responsibility-in-go-80a7cdcd1ab2?source=rss-9a58464dd8e9------2)
 - [Supercharge Your Dev Machine by Unleashing the Git Command Line](https://betterprogramming.pub/supercharge-your-mac-by-unleashing-the-git-command-line-e5e9f292f7d7?source=rss-9a58464dd8e9------2)
