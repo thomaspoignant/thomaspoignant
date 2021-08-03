@@ -13,6 +13,7 @@ The open source projects that I'm currently focusing on are:
 - [scim-patch](https://github.com/thomaspoignant/scim-patch)
 - [scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter)
 - [mac-dev-setup](https://github.com/thomaspoignant/mac-dev-setup)
+- [yamllint-checkstyle](https://github.com/thomaspoignant/yamllint-checkstyle)
 
 I've also contribute to:
 - [bitfield/script](https://github.com/bitfield/script)
