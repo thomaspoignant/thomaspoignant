@@ -31,3 +31,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 - [Supercharge Your Dev Machine by Unleashing the Git Command Line](https://betterprogramming.pub/supercharge-your-mac-by-unleashing-the-git-command-line-e5e9f292f7d7?source=rss-9a58464dd8e9------2)
 - [Optimizing for MTTR over MTBF is good for your product](https://medium.com/nerd-for-tech/optimizing-for-mttr-over-mtbf-is-good-for-your-product-c784e1da74e6?source=rss-9a58464dd8e9------2)
 <!-- BLOG-POST-LIST:END -->
+
+-----------
+
+
+### 📈 Stats
+[![thomaspoignant's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaspoignant&show_icons=true&theme=nord&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/thomaspoignant)
