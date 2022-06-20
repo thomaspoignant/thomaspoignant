@@ -10,6 +10,8 @@ I am an AWS Community Builder.
 
 The open source projects that I'm currently focusing on are:
 - [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag)
+- [go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor)
+- [go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy)
 - [scim-patch](https://github.com/thomaspoignant/scim-patch)
 - [scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter)
 - [mac-dev-setup](https://github.com/thomaspoignant/mac-dev-setup)
