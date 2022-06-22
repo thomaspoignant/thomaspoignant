@@ -47,14 +47,6 @@ If you find my open source contributions valuable, please consider [sponsoring m
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-
-
-#### 🔨 My latest Pull Request
-{{range recentPullRequests 1}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-
 #### ⭐ Recent Stars
 {{range recentStars 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
