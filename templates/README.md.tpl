@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 [![Twitter](https://img.shields.io/twitter/follow/thomaspoignant?label=Twitter&style=social)](https://twitter.com/thomaspoignant)
 [![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/poignantthomas/)
 [![Medium](https://img.shields.io/badge/medium--_.svg?style=social&logo=medium)](https://thomaspoignant.medium.com/)
@@ -9,62 +8,65 @@
 My name is Thomas Poignant. I live in Paris 🇫🇷 and my timezone is UTC+2.  
 I am an AWS Community Builder.
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+The open source projects that I'm currently focusing on are:
+- [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) _- SDK to manage feature flags in Golang._
+- [go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) _- UI to create your flags._
+- [go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) _- API to manage your feature flags._
+- [scim-patch](https://github.com/thomaspoignant/scim-patch) _- SCIM Patch library for nodejs._
+- [scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) _- parse and filter SCIM queries._
+- [mac-dev-setup](https://github.com/thomaspoignant/mac-dev-setup) _- script to install your developer environment on your mac._
+- [yamllint-checkstyle](https://github.com/thomaspoignant/yamllint-checkstyle) _- convert yamlint results into checkstyle_.
 
-#### 📜 My recent blog posts
+I've also contribute to:
+- [open-feature](https://github.com/open-feature)
+- [bitfield/script](https://github.com/bitfield/script)
+- [aws/aws-cdk](https://github.com/aws/aws-cdk)
+
+If you find my open source contributions valuable, please consider [sponsoring me on GitHub](https://github.com/sponsors/thomaspoignant/).
+
+-----------
+
+#### 📚 Latest Blog posts
 {{range rss "https://thomaspoignant.medium.com/feed/" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 🌱 My latest projects
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
+#### 🚀 Latest releases I've contributed to
+{{range recentReleases 3}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 3}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+
+#### 🌱 My latest projects
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+
+
+#### 🔨 My latest Pull Request
+{{range recentPullRequests 1}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 
-
-#### 📓 Gists I wrote
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 #### ⭐ Recent Stars
-{{range recentStars 10}}
+{{range recentStars 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
+<!--
 #### ❤️ These awesome people sponsor me (thank you!)
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
-
+-->
 #### 👯 Check out some of my recent followers
-{{range followers 5}}
+{{range followers 3}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
-
