@@ -52,14 +52,14 @@ If you find my open source contributions valuable, please consider [sponsoring m
 - [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website
 - [thomaspoignant/go-feature-flag-demo](https://github.com/thomaspoignant/go-feature-flag-demo) - A quick demo app using go-feature-flag
 - [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK.
-- [thomaspoignant/go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) - 
-- [thomaspoignant/thomaspoignant.github.io](https://github.com/thomaspoignant/thomaspoignant.github.io) - 
+- [thomaspoignant/go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) - UI to configure your go-feature-flag configuration
+- [thomaspoignant/thomaspoignant.github.io](https://github.com/thomaspoignant/thomaspoignant.github.io) - Personal website
 
 #### ⭐ Recent Stars
 
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (today)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 days ago)
 - [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK. (1 week ago)
-- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (1 week ago)
 
 
 #### 👯 Check out some of my recent followers
