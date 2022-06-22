@@ -55,13 +55,6 @@ If you find my open source contributions valuable, please consider [sponsoring m
 - [thomaspoignant/go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) - 
 - [thomaspoignant/thomaspoignant.github.io](https://github.com/thomaspoignant/thomaspoignant.github.io) - 
 
-
-
-#### 🔨 My latest Pull Request
-
-- [Readme CURL for mac](https://github.com/open-feature/flagd/pull/47) on [open-feature/flagd](https://github.com/open-feature/flagd) (1 day ago)
-
-
 #### ⭐ Recent Stars
 
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 days ago)
