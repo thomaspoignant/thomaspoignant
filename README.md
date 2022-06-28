@@ -28,7 +28,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 📚 Latest Blog posts
 
-- [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (6 months ago)
+- [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (7 months ago)
 - [How To Design Pipelines and Sort by Dependencies in Python](https://betterprogramming.pub/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (7 months ago)
 - [Golang: Automate Your Product Release Cycles Using Go-Feature-Flag](https://betterprogramming.pub/automate-your-product-release-cycles-using-go-feature-flag-6ab73f869f?source=rss-9a58464dd8e9------2) (1 year ago)
 - [Switch easily between multiple kubernetes version on MacOs](https://faun.pub/switch-easily-between-multiple-kubernetes-version-on-macos-9d61b9bc8287?source=rss-9a58464dd8e9------2) (1 year ago)
@@ -36,15 +36,15 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) ([v0.2.1](https://github.com/thomaspoignant/go-feature-flag-relay-proxy/releases/tag/v0.2.1), 4 days ago) - A relay proxy to provide an API on top of go-feature-flag SDK.
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v0.25.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v0.25.0), 6 days ago) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
+- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) ([v0.2.1](https://github.com/thomaspoignant/go-feature-flag-relay-proxy/releases/tag/v0.2.1), 5 days ago) - A relay proxy to provide an API on top of go-feature-flag SDK.
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v0.25.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v0.25.0), 1 week ago) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.2-1](https://github.com/open-feature/flagd/releases/tag/v0.0.2-1), 2 weeks ago) - A generic feature flag daemon
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (today)
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (today)
-- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (3 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 day ago)
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (1 day ago)
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (4 days ago)
 
 
 #### 🌱 My latest projects
@@ -57,13 +57,13 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (4 days ago)
-- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (5 days ago)
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (5 days ago)
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (6 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 
 
 #### 👯 Check out some of my recent followers
 
+- [yousef-soliman](https://github.com/yousef-soliman)
 - [teun25](https://github.com/teun25)
 - [beeme1mr](https://github.com/beeme1mr)
-- [toddbaert](https://github.com/toddbaert)
