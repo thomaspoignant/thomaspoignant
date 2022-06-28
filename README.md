@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [open-feature/research](https://github.com/open-feature/research) - A focal point for open-feature research, proposals and requests for comments (today)
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (5 days ago)
 - [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (6 days ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 
 
 #### 👯 Check out some of my recent followers
