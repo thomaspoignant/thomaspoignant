@@ -36,15 +36,15 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) ([v0.2.1](https://github.com/thomaspoignant/go-feature-flag-relay-proxy/releases/tag/v0.2.1), 5 days ago) - A relay proxy to provide an API on top of go-feature-flag SDK.
+- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) ([v0.2.1](https://github.com/thomaspoignant/go-feature-flag-relay-proxy/releases/tag/v0.2.1), 6 days ago) - A relay proxy to provide an API on top of go-feature-flag SDK.
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v0.25.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v0.25.0), 1 week ago) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.2-1](https://github.com/open-feature/flagd/releases/tag/v0.0.2-1), 2 weeks ago) - A generic feature flag daemon
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 day ago)
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (1 day ago)
-- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (4 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (2 days ago)
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (2 days ago)
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (5 days ago)
 
 
 #### 🌱 My latest projects
@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [open-feature/research](https://github.com/open-feature/research) - A focal point for open-feature research, proposals and requests for comments (today)
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (5 days ago)
-- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (6 days ago)
+- [open-feature/research](https://github.com/open-feature/research) - A focal point for open-feature research, proposals and requests for comments (1 day ago)
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (6 days ago)
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (1 week ago)
 
 
 #### 👯 Check out some of my recent followers
