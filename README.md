@@ -36,7 +36,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) ([v0.2.1](https://github.com/thomaspoignant/go-feature-flag-relay-proxy/releases/tag/v0.2.1), 1 week ago) - A relay proxy to provide an API on top of go-feature-flag SDK.
+- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) ([v0.2.2](https://github.com/thomaspoignant/go-feature-flag-relay-proxy/releases/tag/v0.2.2), today) - A relay proxy to provide an API on top of go-feature-flag SDK.
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v0.25.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v0.25.0), 1 week ago) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.2-1](https://github.com/open-feature/flagd/releases/tag/v0.0.2-1), 2 weeks ago) - A generic feature flag daemon
 
