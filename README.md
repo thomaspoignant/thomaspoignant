@@ -36,15 +36,15 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v0.25.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v0.25.1), 2 days ago) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
-- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) ([v0.2.2](https://github.com/thomaspoignant/go-feature-flag-relay-proxy/releases/tag/v0.2.2), 2 days ago) - A relay proxy to provide an API on top of go-feature-flag SDK.
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.2-1](https://github.com/open-feature/flagd/releases/tag/v0.0.2-1), 2 weeks ago) - A generic feature flag daemon
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v0.25.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v0.25.1), 3 days ago) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
+- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) ([v0.2.2](https://github.com/thomaspoignant/go-feature-flag-relay-proxy/releases/tag/v0.2.2), 3 days ago) - A relay proxy to provide an API on top of go-feature-flag SDK.
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.2-1](https://github.com/open-feature/flagd/releases/tag/v0.0.2-1), 3 weeks ago) - A generic feature flag daemon
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (2 days ago)
-- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK. (2 days ago)
-- [thomaspoignant/go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) - UI to configure your go-feature-flag configuration (3 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (3 days ago)
+- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK. (3 days ago)
+- [thomaspoignant/go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) - UI to configure your go-feature-flag configuration (4 days ago)
 
 
 #### 🌱 My latest projects
@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [StaticMania/hugo-apsho](https://github.com/StaticMania/hugo-apsho) -  (4 days ago)
-- [StaticMania/portio-hugo](https://github.com/StaticMania/portio-hugo) - Portio Hugo is a simple, minimal and responsive Portfolio Hugo Theme. Portio Hugo is well organized, well-formatted, and named accordingly so it’s easy to change any and all of the design. Portio is built with Bootstrap 4. You can customize it very easily to fit your needs. (4 days ago)
-- [open-feature/research](https://github.com/open-feature/research) - A focal point for open-feature research, proposals and requests for comments (5 days ago)
+- [StaticMania/hugo-apsho](https://github.com/StaticMania/hugo-apsho) -  (5 days ago)
+- [StaticMania/portio-hugo](https://github.com/StaticMania/portio-hugo) - Portio Hugo is a simple, minimal and responsive Portfolio Hugo Theme. Portio Hugo is well organized, well-formatted, and named accordingly so it’s easy to change any and all of the design. Portio is built with Bootstrap 4. You can customize it very easily to fit your needs. (5 days ago)
+- [open-feature/research](https://github.com/open-feature/research) - A focal point for open-feature research, proposals and requests for comments (6 days ago)
 
 
 #### 👯 Check out some of my recent followers
