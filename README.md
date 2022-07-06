@@ -38,7 +38,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.3](https://github.com/open-feature/flagd/releases/tag/v0.0.3), today) - A generic feature flag daemon
 - [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) ([v0.2.3](https://github.com/thomaspoignant/go-feature-flag-relay-proxy/releases/tag/v0.2.3), 1 day ago) - A relay proxy to provide an API on top of go-feature-flag SDK.
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v0.25.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v0.25.2), 1 day ago) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.6.4](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.6.4), 2 months ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
 
 #### 👷 Check out what I'm currently working on
 
