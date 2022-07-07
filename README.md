@@ -28,23 +28,23 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 📚 Latest Blog posts
 
+- [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (today)
 - [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (7 months ago)
 - [How To Design Pipelines and Sort by Dependencies in Python](https://betterprogramming.pub/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (7 months ago)
 - [Golang: Automate Your Product Release Cycles Using Go-Feature-Flag](https://betterprogramming.pub/automate-your-product-release-cycles-using-go-feature-flag-6ab73f869f?source=rss-9a58464dd8e9------2) (1 year ago)
 - [Switch easily between multiple kubernetes version on MacOs](https://faun.pub/switch-easily-between-multiple-kubernetes-version-on-macos-9d61b9bc8287?source=rss-9a58464dd8e9------2) (1 year ago)
-- [Build a Configurable Chain of Responsibility in Go](https://betterprogramming.pub/build-a-configurable-chain-of-responsibility-in-go-80a7cdcd1ab2?source=rss-9a58464dd8e9------2) (1 year ago)
 
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v0.26.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v0.26.1), today) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.3](https://github.com/open-feature/flagd/releases/tag/v0.0.3), 1 day ago) - A generic feature flag daemon
 - [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) ([v0.2.3](https://github.com/thomaspoignant/go-feature-flag-relay-proxy/releases/tag/v0.2.3), 2 days ago) - A relay proxy to provide an API on top of go-feature-flag SDK.
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.6.4](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.6.4), 2 months ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
 
 #### 👷 Check out what I'm currently working on
 
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (today)
+- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK. (today)
 - [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website (today)
-- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK. (2 days ago)
 
 
 #### 🌱 My latest projects
