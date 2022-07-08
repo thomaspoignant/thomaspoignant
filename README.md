@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (today)
 - [StaticMania/hugo-apsho](https://github.com/StaticMania/hugo-apsho) -  (1 week ago)
 - [StaticMania/portio-hugo](https://github.com/StaticMania/portio-hugo) - Portio Hugo is a simple, minimal and responsive Portfolio Hugo Theme. Portio Hugo is well organized, well-formatted, and named accordingly so it’s easy to change any and all of the design. Portio is built with Bootstrap 4. You can customize it very easily to fit your needs. (1 week ago)
-- [open-feature/research](https://github.com/open-feature/research) - A focal point for OpenFeature research, proposals and requests for comments (1 week ago)
 
 
 #### 👯 Check out some of my recent followers
