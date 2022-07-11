@@ -66,4 +66,4 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 - [spachava753](https://github.com/spachava753)
 - [yousef-soliman](https://github.com/yousef-soliman)
-- [teun25](https://github.com/teun25)
+- [beeme1mr](https://github.com/beeme1mr)
