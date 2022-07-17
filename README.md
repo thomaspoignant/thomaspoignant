@@ -42,9 +42,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) - NodeJS implementation of the OpenFeature SDK (3 days ago)
-- [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website (3 days ago)
-- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (3 days ago)
+- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) - NodeJS implementation of the OpenFeature SDK (4 days ago)
+- [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website (4 days ago)
+- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (4 days ago)
 
 
 #### 🌱 My latest projects
@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) - NodeJS implementation of the OpenFeature SDK (3 days ago)
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (3 days ago)
-- [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR) (3 days ago)
+- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) - NodeJS implementation of the OpenFeature SDK (4 days ago)
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (4 days ago)
+- [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR) (4 days ago)
 
 
 #### 👯 Check out some of my recent followers
