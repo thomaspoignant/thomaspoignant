@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (today)
+- [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (today)
 - [thomaspoignant/go-feature-flag-ui](https://github.com/thomaspoignant/go-feature-flag-ui) -  (1 day ago)
-- [thomaspoignant/go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) - UI to configure your go-feature-flag configuration (1 day ago)
-- [thomaspoignant/go-feature-flag-demo](https://github.com/thomaspoignant/go-feature-flag-demo) - A visual demo app to play with go-feature-flag (1 day ago)
 
 
 #### 👯 Check out some of my recent followers
