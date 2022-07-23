@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (today)
 - [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (1 day ago)
 - [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (1 day ago)
-- [thomaspoignant/go-feature-flag-ui](https://github.com/thomaspoignant/go-feature-flag-ui) -  (2 days ago)
 
 
 #### 👯 Check out some of my recent followers
