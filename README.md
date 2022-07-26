@@ -64,6 +64,6 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [yiippee](https://github.com/yiippee)
 - [teun25](https://github.com/teun25)
 - [spachava753](https://github.com/spachava753)
-- [yousef-soliman](https://github.com/yousef-soliman)
