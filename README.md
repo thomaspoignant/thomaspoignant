@@ -36,15 +36,15 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.1.9](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.1.9), 4 days ago) - NodeJS implementation of the OpenFeature SDK
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.4](https://github.com/open-feature/flagd/releases/tag/v0.0.4), 4 days ago) - A generic feature flag daemon
+- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.1.9](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.1.9), 5 days ago) - NodeJS implementation of the OpenFeature SDK
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.4](https://github.com/open-feature/flagd/releases/tag/v0.0.4), 5 days ago) - A generic feature flag daemon
 - [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) ([v0.3.0](https://github.com/thomaspoignant/go-feature-flag-relay-proxy/releases/tag/v0.3.0), 1 week ago) - A relay proxy to provide an API on top of go-feature-flag SDK.
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (today)
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) - Java implementation of the OpenFeature SDK (2 days ago)
-- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (3 days ago)
+- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (1 day ago)
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) - Java implementation of the OpenFeature SDK (3 days ago)
+- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (4 days ago)
 
 
 #### 🌱 My latest projects
@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (3 days ago)
-- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (4 days ago)
-- [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (4 days ago)
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (4 days ago)
+- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (5 days ago)
+- [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (5 days ago)
 
 
 #### 👯 Check out some of my recent followers
