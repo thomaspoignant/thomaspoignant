@@ -42,9 +42,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (today)
 - [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (1 day ago)
 - [thomaspoignant/openfeature-go-feature-flag-node-demo](https://github.com/thomaspoignant/openfeature-go-feature-flag-node-demo) - Demonstration on how to use GO Feature Flag with the openfeature nodeJS SDK (1 day ago)
-- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (2 days ago)
 
 
 #### 🌱 My latest projects
