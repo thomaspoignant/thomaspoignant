@@ -28,23 +28,23 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 📚 Latest Blog posts
 
-- [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (2 weeks ago)
-- [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (7 months ago)
+- [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (3 weeks ago)
+- [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (8 months ago)
 - [How To Design Pipelines and Sort by Dependencies in Python](https://betterprogramming.pub/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (8 months ago)
 - [Golang: Automate Your Product Release Cycles Using Go-Feature-Flag](https://betterprogramming.pub/automate-your-product-release-cycles-using-go-feature-flag-6ab73f869f?source=rss-9a58464dd8e9------2) (1 year ago)
 - [Switch easily between multiple kubernetes version on MacOs](https://faun.pub/switch-easily-between-multiple-kubernetes-version-on-macos-9d61b9bc8287?source=rss-9a58464dd8e9------2) (1 year ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.1.9](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.1.9), 5 days ago) - NodeJS implementation of the OpenFeature SDK
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.4](https://github.com/open-feature/flagd/releases/tag/v0.0.4), 5 days ago) - A generic feature flag daemon
+- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.1.9](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.1.9), 6 days ago) - NodeJS implementation of the OpenFeature SDK
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.4](https://github.com/open-feature/flagd/releases/tag/v0.0.4), 6 days ago) - A generic feature flag daemon
 - [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) ([v0.3.0](https://github.com/thomaspoignant/go-feature-flag-relay-proxy/releases/tag/v0.3.0), 1 week ago) - A relay proxy to provide an API on top of go-feature-flag SDK.
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (today)
-- [thomaspoignant/openfeature-go-feature-flag-node-demo](https://github.com/thomaspoignant/openfeature-go-feature-flag-node-demo) - Demonstration on how to use GO Feature Flag with the openfeature nodeJS SDK (today)
-- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (1 day ago)
+- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (1 day ago)
+- [thomaspoignant/openfeature-go-feature-flag-node-demo](https://github.com/thomaspoignant/openfeature-go-feature-flag-node-demo) - Demonstration on how to use GO Feature Flag with the openfeature nodeJS SDK (1 day ago)
+- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (2 days ago)
 
 
 #### 🌱 My latest projects
@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (4 days ago)
-- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (5 days ago)
-- [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (5 days ago)
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (5 days ago)
+- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (6 days ago)
+- [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (6 days ago)
 
 
 #### 👯 Check out some of my recent followers
