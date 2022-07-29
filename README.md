@@ -36,15 +36,15 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.1.10](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.1.10), today) - NodeJS implementation of the OpenFeature SDK
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.4](https://github.com/open-feature/flagd/releases/tag/v0.0.4), 6 days ago) - A generic feature flag daemon
+- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.1.10](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.1.10), 1 day ago) - NodeJS implementation of the OpenFeature SDK
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.4](https://github.com/open-feature/flagd/releases/tag/v0.0.4), 1 week ago) - A generic feature flag daemon
 - [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) ([v0.3.0](https://github.com/thomaspoignant/go-feature-flag-relay-proxy/releases/tag/v0.3.0), 1 week ago) - A relay proxy to provide an API on top of go-feature-flag SDK.
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (today)
-- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (1 day ago)
-- [thomaspoignant/openfeature-go-feature-flag-node-demo](https://github.com/thomaspoignant/openfeature-go-feature-flag-node-demo) - Demonstration on how to use GO Feature Flag with the openfeature nodeJS SDK (1 day ago)
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (1 day ago)
+- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (2 days ago)
+- [thomaspoignant/openfeature-go-feature-flag-node-demo](https://github.com/thomaspoignant/openfeature-go-feature-flag-node-demo) - Demonstration on how to use GO Feature Flag with the openfeature nodeJS SDK (2 days ago)
 
 
 #### 🌱 My latest projects
@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (5 days ago)
-- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (6 days ago)
-- [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (6 days ago)
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (6 days ago)
+- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) - OpenFeature Providers and Hooks for NodeJS (1 week ago)
+- [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (1 week ago)
 
 
 #### 👯 Check out some of my recent followers
