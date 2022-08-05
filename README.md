@@ -36,7 +36,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.5](https://github.com/open-feature/flagd/releases/tag/v0.0.5), 4 days ago) - A generic feature flag daemon
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.6](https://github.com/open-feature/flagd/releases/tag/v0.0.6), today) - A generic feature flag daemon
 - [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.1.10](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.1.10), 1 week ago) - NodeJS implementation of the OpenFeature SDK
 - [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) ([v0.3.0](https://github.com/thomaspoignant/go-feature-flag-relay-proxy/releases/tag/v0.3.0), 2 weeks ago) - A relay proxy to provide an API on top of go-feature-flag SDK.
 
