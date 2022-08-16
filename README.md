@@ -36,15 +36,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.6.5](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.6.5), 1 day ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
-- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) ([0.2.5](https://github.com/thomaspoignant/scim2-parse-filter/releases/tag/0.2.5), 1 day ago) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser.
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.6](https://github.com/open-feature/flagd/releases/tag/v0.0.6), 3 days ago) - A generic feature flag daemon
+- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) ([flagd-provider-v0.4.0](https://github.com/open-feature/node-sdk-contrib/releases/tag/flagd-provider-v0.4.0), 1 day ago) - OpenFeature Providers and Hooks for NodeJS
+- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.2.0](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.2.0), 1 day ago) - NodeJS implementation of the OpenFeature SDK
+- [open-feature/spec](https://github.com/open-feature/spec) ([v0.3.1](https://github.com/open-feature/spec/releases/tag/v0.3.1), 1 day ago) - OpenFeature specification
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 day ago)
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (1 day ago)
-- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (6 days ago)
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (1 week ago)
+- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (1 week ago)
+- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (1 week ago)
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (2 weeks ago)
 
 
 #### 🌱 My latest projects
@@ -57,13 +59,13 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (3 days ago)
-- [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers (1 week ago)
-- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (2 weeks ago)
+- [knqyf263/trivy-issue-action](https://github.com/knqyf263/trivy-issue-action) - GitHub Actions for creating GitHub Issues according to the Trivy scanning result (today)
+- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (today)
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (1 week ago)
 
 
 #### 👯 Check out some of my recent followers
 
-- [yiippee](https://github.com/yiippee)
-- [spachava753](https://github.com/spachava753)
-- [yousef-soliman](https://github.com/yousef-soliman)
+- [ethanflower1903](https://github.com/ethanflower1903)
+- [jurrehart](https://github.com/jurrehart)
+- [lbalak50](https://github.com/lbalak50)
