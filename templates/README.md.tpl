@@ -37,7 +37,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 {{- end}}
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 5}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
