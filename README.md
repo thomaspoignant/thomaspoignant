@@ -36,7 +36,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.8](https://github.com/open-feature/flagd/releases/tag/v0.0.8), 1 day ago) - A generic feature flag daemon
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.9](https://github.com/open-feature/flagd/releases/tag/v0.0.9), today) - A generic feature flag daemon
 - [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) ([flagd-provider-v0.4.0](https://github.com/open-feature/node-sdk-contrib/releases/tag/flagd-provider-v0.4.0), 2 days ago) - OpenFeature Providers and Hooks for NodeJS
 - [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.2.0](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.2.0), 2 days ago) - NodeJS implementation of the OpenFeature SDK
 
