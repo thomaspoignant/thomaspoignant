@@ -36,9 +36,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.9](https://github.com/open-feature/flagd/releases/tag/v0.0.9), today) - A generic feature flag daemon
-- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) ([flagd-provider-v0.4.0](https://github.com/open-feature/node-sdk-contrib/releases/tag/flagd-provider-v0.4.0), 2 days ago) - OpenFeature Providers and Hooks for NodeJS
-- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.2.0](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.2.0), 2 days ago) - NodeJS implementation of the OpenFeature SDK
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.9](https://github.com/open-feature/flagd/releases/tag/v0.0.9), 1 day ago) - A generic feature flag daemon
+- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) ([flagd-provider-v0.4.0](https://github.com/open-feature/node-sdk-contrib/releases/tag/flagd-provider-v0.4.0), 3 days ago) - OpenFeature Providers and Hooks for NodeJS
+- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.2.0](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.2.0), 3 days ago) - NodeJS implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
@@ -46,7 +46,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (1 week ago)
 - [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (1 week ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (2 weeks ago)
-- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (2 weeks ago)
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (3 weeks ago)
 
 
 #### 🌱 My latest projects
@@ -59,8 +59,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [knqyf263/trivy-issue-action](https://github.com/knqyf263/trivy-issue-action) - GitHub Actions for creating GitHub Issues according to the Trivy scanning result (1 day ago)
-- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (1 day ago)
+- [knqyf263/trivy-issue-action](https://github.com/knqyf263/trivy-issue-action) - GitHub Actions for creating GitHub Issues according to the Trivy scanning result (2 days ago)
+- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (2 days ago)
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (1 week ago)
 
 
