@@ -59,9 +59,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (today)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (2 days ago)
 - [knqyf263/trivy-issue-action](https://github.com/knqyf263/trivy-issue-action) - GitHub Actions for creating GitHub Issues according to the Trivy scanning result (6 days ago)
-- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (6 days ago)
 
 
 #### 👯 Check out some of my recent followers
