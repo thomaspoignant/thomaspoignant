@@ -36,9 +36,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.9](https://github.com/open-feature/flagd/releases/tag/v0.0.9), 4 days ago) - A generic feature flag daemon
-- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) ([flagd-provider-v0.4.0](https://github.com/open-feature/node-sdk-contrib/releases/tag/flagd-provider-v0.4.0), 6 days ago) - OpenFeature Providers and Hooks for NodeJS
-- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.2.0](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.2.0), 6 days ago) - NodeJS implementation of the OpenFeature SDK
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.9](https://github.com/open-feature/flagd/releases/tag/v0.0.9), 5 days ago) - A generic feature flag daemon
+- [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) ([flagd-provider-v0.4.0](https://github.com/open-feature/node-sdk-contrib/releases/tag/flagd-provider-v0.4.0), 1 week ago) - OpenFeature Providers and Hooks for NodeJS
+- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.2.0](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.2.0), 1 week ago) - NodeJS implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
@@ -59,9 +59,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (1 day ago)
-- [knqyf263/trivy-issue-action](https://github.com/knqyf263/trivy-issue-action) - GitHub Actions for creating GitHub Issues according to the Trivy scanning result (5 days ago)
-- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (5 days ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (2 days ago)
+- [knqyf263/trivy-issue-action](https://github.com/knqyf263/trivy-issue-action) - GitHub Actions for creating GitHub Issues according to the Trivy scanning result (6 days ago)
+- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (6 days ago)
 
 
 #### 👯 Check out some of my recent followers
