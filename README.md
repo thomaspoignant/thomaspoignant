@@ -36,7 +36,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.9](https://github.com/open-feature/flagd/releases/tag/v0.0.9), 5 days ago) - A generic feature flag daemon
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.9](https://github.com/open-feature/flagd/releases/tag/v0.0.9), 6 days ago) - A generic feature flag daemon
 - [open-feature/node-sdk-contrib](https://github.com/open-feature/node-sdk-contrib) ([flagd-provider-v0.4.0](https://github.com/open-feature/node-sdk-contrib/releases/tag/flagd-provider-v0.4.0), 1 week ago) - OpenFeature Providers and Hooks for NodeJS
 - [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.2.0](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.2.0), 1 week ago) - NodeJS implementation of the OpenFeature SDK
 
@@ -59,9 +59,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (today)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (2 days ago)
-- [knqyf263/trivy-issue-action](https://github.com/knqyf263/trivy-issue-action) - GitHub Actions for creating GitHub Issues according to the Trivy scanning result (6 days ago)
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (1 day ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (3 days ago)
+- [knqyf263/trivy-issue-action](https://github.com/knqyf263/trivy-issue-action) - GitHub Actions for creating GitHub Issues according to the Trivy scanning result (1 week ago)
 
 
 #### 👯 Check out some of my recent followers
