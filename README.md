@@ -46,7 +46,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (2 weeks ago)
 - [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (2 weeks ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (3 weeks ago)
-- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (3 weeks ago)
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (4 weeks ago)
 
 
 #### 🌱 My latest projects
@@ -59,8 +59,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (2 days ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (4 days ago)
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (3 days ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (5 days ago)
 - [knqyf263/trivy-issue-action](https://github.com/knqyf263/trivy-issue-action) - GitHub Actions for creating GitHub Issues according to the Trivy scanning result (1 week ago)
 
 
