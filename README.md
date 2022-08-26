@@ -66,6 +66,6 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [louhde](https://github.com/louhde)
 - [jferrl](https://github.com/jferrl)
 - [flaskeer](https://github.com/flaskeer)
-- [ethanflower1903](https://github.com/ethanflower1903)
