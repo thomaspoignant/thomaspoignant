@@ -36,7 +36,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.3.0](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.3.0), 1 day ago) - NodeJS implementation of the OpenFeature SDK
+- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.3.1](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.3.1), today) - NodeJS implementation of the OpenFeature SDK
 - [open-feature/spec](https://github.com/open-feature/spec) ([v0.4.0](https://github.com/open-feature/spec/releases/tag/v0.4.0), 1 day ago) - OpenFeature specification
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.9](https://github.com/open-feature/flagd/releases/tag/v0.0.9), 1 week ago) - A generic feature flag daemon
 
