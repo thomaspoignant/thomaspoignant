@@ -36,8 +36,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.3.0](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.3.0), today) - NodeJS implementation of the OpenFeature SDK
-- [open-feature/spec](https://github.com/open-feature/spec) ([v0.4.0](https://github.com/open-feature/spec/releases/tag/v0.4.0), today) - OpenFeature specification
+- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.3.0](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.3.0), 1 day ago) - NodeJS implementation of the OpenFeature SDK
+- [open-feature/spec](https://github.com/open-feature/spec) ([v0.4.0](https://github.com/open-feature/spec/releases/tag/v0.4.0), 1 day ago) - OpenFeature specification
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.9](https://github.com/open-feature/flagd/releases/tag/v0.0.9), 1 week ago) - A generic feature flag daemon
 
 #### 👷 Check out what I'm currently working on
@@ -59,9 +59,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (today)
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (3 days ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (5 days ago)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (1 day ago)
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (4 days ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (6 days ago)
 
 
 #### 👯 Check out some of my recent followers
