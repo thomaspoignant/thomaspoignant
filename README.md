@@ -29,15 +29,15 @@ If you find my open source contributions valuable, please consider [sponsoring m
 #### 📚 Latest Blog posts
 
 - [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (1 month ago)
-- [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (8 months ago)
+- [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (9 months ago)
 - [How To Design Pipelines and Sort by Dependencies in Python](https://betterprogramming.pub/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (9 months ago)
 - [Golang: Automate Your Product Release Cycles Using Go-Feature-Flag](https://betterprogramming.pub/automate-your-product-release-cycles-using-go-feature-flag-6ab73f869f?source=rss-9a58464dd8e9------2) (1 year ago)
 - [Switch easily between multiple kubernetes version on MacOs](https://faun.pub/switch-easily-between-multiple-kubernetes-version-on-macos-9d61b9bc8287?source=rss-9a58464dd8e9------2) (1 year ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.3.1](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.3.1), today) - NodeJS implementation of the OpenFeature SDK
-- [open-feature/spec](https://github.com/open-feature/spec) ([v0.4.0](https://github.com/open-feature/spec/releases/tag/v0.4.0), 1 day ago) - OpenFeature specification
+- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.3.1](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.3.1), 1 day ago) - NodeJS implementation of the OpenFeature SDK
+- [open-feature/spec](https://github.com/open-feature/spec) ([v0.4.0](https://github.com/open-feature/spec/releases/tag/v0.4.0), 2 days ago) - OpenFeature specification
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.9](https://github.com/open-feature/flagd/releases/tag/v0.0.9), 1 week ago) - A generic feature flag daemon
 
 #### 👷 Check out what I'm currently working on
@@ -46,7 +46,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (2 weeks ago)
 - [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (2 weeks ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (3 weeks ago)
-- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (4 weeks ago)
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (1 month ago)
 
 
 #### 🌱 My latest projects
@@ -59,9 +59,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (1 day ago)
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (4 days ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (6 days ago)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (2 days ago)
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (5 days ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (1 week ago)
 
 
 #### 👯 Check out some of my recent followers
