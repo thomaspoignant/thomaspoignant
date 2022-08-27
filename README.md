@@ -36,15 +36,15 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) ([0.2.6](https://github.com/thomaspoignant/scim2-parse-filter/releases/tag/0.2.6), today) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser.
 - [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.3.1](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.3.1), 1 day ago) - NodeJS implementation of the OpenFeature SDK
 - [open-feature/spec](https://github.com/open-feature/spec) ([v0.4.0](https://github.com/open-feature/spec/releases/tag/v0.4.0), 2 days ago) - OpenFeature specification
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.0.9](https://github.com/open-feature/flagd/releases/tag/v0.0.9), 1 week ago) - A generic feature flag daemon
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (2 weeks ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (today)
+- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (today)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (2 weeks ago)
-- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (2 weeks ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (3 weeks ago)
 - [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (1 month ago)
 
