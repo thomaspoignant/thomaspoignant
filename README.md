@@ -36,14 +36,14 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) ([0.2.6](https://github.com/thomaspoignant/scim2-parse-filter/releases/tag/0.2.6), 1 day ago) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser.
-- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.3.1](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.3.1), 2 days ago) - NodeJS implementation of the OpenFeature SDK
-- [open-feature/spec](https://github.com/open-feature/spec) ([v0.4.0](https://github.com/open-feature/spec/releases/tag/v0.4.0), 3 days ago) - OpenFeature specification
+- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) ([0.2.6](https://github.com/thomaspoignant/scim2-parse-filter/releases/tag/0.2.6), 2 days ago) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser.
+- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.3.1](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.3.1), 3 days ago) - NodeJS implementation of the OpenFeature SDK
+- [open-feature/spec](https://github.com/open-feature/spec) ([v0.4.0](https://github.com/open-feature/spec/releases/tag/v0.4.0), 4 days ago) - OpenFeature specification
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 day ago)
-- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (2 days ago)
+- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (2 days ago)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (3 weeks ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (3 weeks ago)
 - [open-feature/flagd](https://github.com/open-feature/flagd) - A generic feature flag daemon (1 month ago)
@@ -59,8 +59,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (3 days ago)
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (6 days ago)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (4 days ago)
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (1 week ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (1 week ago)
 
 
