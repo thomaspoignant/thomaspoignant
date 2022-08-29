@@ -36,9 +36,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([0.1.0](https://github.com/open-feature/java-sdk/releases/tag/0.1.0), today) - Java implementation of the OpenFeature SDK
 - [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) ([0.2.6](https://github.com/thomaspoignant/scim2-parse-filter/releases/tag/0.2.6), 2 days ago) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser.
 - [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.3.1](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.3.1), 3 days ago) - NodeJS implementation of the OpenFeature SDK
+- [open-feature/spec](https://github.com/open-feature/spec) ([v0.4.0](https://github.com/open-feature/spec/releases/tag/v0.4.0), 4 days ago) - OpenFeature specification
 
 #### 👷 Check out what I'm currently working on
 
