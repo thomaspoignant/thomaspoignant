@@ -36,8 +36,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([0.1.1](https://github.com/open-feature/java-sdk/releases/tag/0.1.1), today) - Java implementation of the OpenFeature SDK
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v0.27.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v0.27.2), 4 days ago) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([0.1.0](https://github.com/open-feature/java-sdk/releases/tag/0.1.0), 5 days ago) - Java implementation of the OpenFeature SDK
 - [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) ([0.2.6](https://github.com/thomaspoignant/scim2-parse-filter/releases/tag/0.2.6), 1 week ago) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser.
 
 #### 👷 Check out what I'm currently working on
