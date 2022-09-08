@@ -36,8 +36,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.1.0](https://github.com/open-feature/flagd/releases/tag/v0.1.0), 1 day ago) - A generic feature flag daemon
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([0.1.1](https://github.com/open-feature/java-sdk/releases/tag/0.1.1), 3 days ago) - Java implementation of the OpenFeature SDK
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.1.0](https://github.com/open-feature/flagd/releases/tag/v0.1.0), 2 days ago) - A generic feature flag daemon
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([0.1.1](https://github.com/open-feature/java-sdk/releases/tag/0.1.1), 4 days ago) - Java implementation of the OpenFeature SDK
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v0.27.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v0.27.2), 1 week ago) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
 
 #### 👷 Check out what I'm currently working on
@@ -59,7 +59,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (1 week ago)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (2 weeks ago)
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (2 weeks ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (2 weeks ago)
 
