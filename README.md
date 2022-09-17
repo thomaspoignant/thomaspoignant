@@ -36,17 +36,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.6.6](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.6.6), 2 days ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([dev.openfeature.javasdk-v0.2.1](https://github.com/open-feature/java-sdk/releases/tag/dev.openfeature.javasdk-v0.2.1), 3 days ago) - Java implementation of the OpenFeature SDK
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.6.6](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.6.6), 3 days ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([dev.openfeature.javasdk-v0.2.1](https://github.com/open-feature/java-sdk/releases/tag/dev.openfeature.javasdk-v0.2.1), 4 days ago) - Java implementation of the OpenFeature SDK
 - [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.3.2](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.3.2), 1 week ago) - NodeJS implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (today)
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) - Java implementation of the OpenFeature SDK (today)
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (2 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 day ago)
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) - Java implementation of the OpenFeature SDK (1 day ago)
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (3 days ago)
 - [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK. (2 weeks ago)
-- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (2 weeks ago)
+- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (3 weeks ago)
 
 
 #### 🌱 My latest projects
@@ -61,7 +61,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (3 weeks ago)
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (3 weeks ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (3 weeks ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (4 weeks ago)
 
 
 #### 👯 Check out some of my recent followers
