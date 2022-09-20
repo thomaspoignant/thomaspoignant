@@ -36,9 +36,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([js-sdk-v0.4.0](https://github.com/open-feature/js-sdk/releases/tag/js-sdk-v0.4.0), today) - JavaScript SDK for OpenFeature
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.6.6](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.6.6), 6 days ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
 - [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([dev.openfeature.javasdk-v0.2.1](https://github.com/open-feature/java-sdk/releases/tag/dev.openfeature.javasdk-v0.2.1), 1 week ago) - Java implementation of the OpenFeature SDK
-- [open-feature/node-sdk](https://github.com/open-feature/node-sdk) ([nodejs-sdk-v0.3.2](https://github.com/open-feature/node-sdk/releases/tag/nodejs-sdk-v0.3.2), 1 week ago) - NodeJS implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
