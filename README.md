@@ -36,17 +36,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([dev.openfeature.javasdk-v0.2.2](https://github.com/open-feature/java-sdk/releases/tag/dev.openfeature.javasdk-v0.2.2), today) - Java implementation of the OpenFeature SDK
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.1.1](https://github.com/open-feature/flagd/releases/tag/v0.1.1), today) - A generic feature flag daemon
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-provider-v0.5.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-provider-v0.5.1), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([dev.openfeature.javasdk-v0.2.2](https://github.com/open-feature/java-sdk/releases/tag/dev.openfeature.javasdk-v0.2.2), 1 day ago) - Java implementation of the OpenFeature SDK
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.1.1](https://github.com/open-feature/flagd/releases/tag/v0.1.1), 1 day ago) - A generic feature flag daemon
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-provider-v0.5.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-provider-v0.5.1), 2 days ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (2 days ago)
 - [open-feature/java-sdk](https://github.com/open-feature/java-sdk) - Java implementation of the OpenFeature SDK (1 week ago)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (1 week ago)
 - [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK. (3 weeks ago)
-- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (3 weeks ago)
+- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (4 weeks ago)
 
 
 #### 🌱 My latest projects
@@ -59,8 +59,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. (3 days ago)
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (4 weeks ago)
+- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. (4 days ago)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (1 month ago)
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (1 month ago)
 
 
