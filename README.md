@@ -36,9 +36,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([js-sdk-v0.5.0](https://github.com/open-feature/js-sdk/releases/tag/js-sdk-v0.5.0), today) - JavaScript SDK for OpenFeature
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.6.7](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.6.7), today) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
 - [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) ([0.2.7](https://github.com/thomaspoignant/scim2-parse-filter/releases/tag/0.2.7), today) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser.
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.2.1](https://github.com/open-feature/flagd/releases/tag/v0.2.1), 6 days ago) - A generic feature flag daemon
 
 #### 👷 Check out what I'm currently working on
 
