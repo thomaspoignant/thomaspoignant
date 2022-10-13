@@ -66,6 +66,6 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [skyerus](https://github.com/skyerus)
 - [Kwynto](https://github.com/Kwynto)
 - [Rampage0131](https://github.com/Rampage0131)
-- [joshm91](https://github.com/joshm91)
