@@ -36,7 +36,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.hooks.otel-v0.3.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.hooks.otel-v0.3.0), today) - Community contributions for hooks and reference providers
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.hooks.otel-v0.3.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.hooks.otel-v0.3.1), today) - Community contributions for hooks and reference providers
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.2.3](https://github.com/open-feature/flagd/releases/tag/v0.2.3), today) - A generic feature flag daemon
 - [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v0.3.0](https://github.com/open-feature/java-sdk/releases/tag/v0.3.0), today) - Java implementation of the OpenFeature SDK
 
