@@ -59,7 +59,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [ixtendio/gofre](https://github.com/ixtendio/gofre) - A simple GO web framework  (1 week ago)
+- [ixtendio/gofre](https://github.com/ixtendio/gofre) - A Sweet Web Framework for Go (1 week ago)
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. (3 weeks ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (1 month ago)
 
