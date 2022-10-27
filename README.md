@@ -36,13 +36,13 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.0.0](https://github.com/open-feature/java-sdk/releases/tag/v1.0.0), 1 day ago) - Java implementation of the OpenFeature SDK
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.2.5](https://github.com/open-feature/flagd/releases/tag/v0.2.5), 6 days ago) - A feature flag daemon with a Unix philosophy
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.0.0](https://github.com/open-feature/java-sdk/releases/tag/v1.0.0), 2 days ago) - Java implementation of the OpenFeature SDK
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.2.5](https://github.com/open-feature/flagd/releases/tag/v0.2.5), 1 week ago) - A feature flag daemon with a Unix philosophy
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-provider-v0.7.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-provider-v0.7.0), 1 week ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (2 days ago)
 - [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website (3 weeks ago)
 - [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (3 weeks ago)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (3 weeks ago)
@@ -59,7 +59,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [ixtendio/gofre](https://github.com/ixtendio/gofre) - A Sweet Web Framework for Go (2 weeks ago)
+- [ixtendio/gofre](https://github.com/ixtendio/gofre) - A Sweet Web Framework for Go (3 weeks ago)
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. (1 month ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (2 months ago)
 
