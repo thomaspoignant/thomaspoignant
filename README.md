@@ -59,9 +59,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. (today)
 - [ixtendio/gofre](https://github.com/ixtendio/gofre) - A Sweet Web Framework for Go (3 weeks ago)
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. (1 month ago)
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (2 months ago)
 
 
 #### 👯 Check out some of my recent followers
