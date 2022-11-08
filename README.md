@@ -42,7 +42,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 week ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (today)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (1 month ago)
 - [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (1 month ago)
 - [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website (1 month ago)
