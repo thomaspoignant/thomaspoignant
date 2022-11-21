@@ -60,7 +60,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 #### ⭐ Recent Stars
 
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. (3 weeks ago)
-- [ixtendio/gofre](https://github.com/ixtendio/gofre) - A web framework for Go with middleware support and without third-party dependencies (1 month ago)
+- [ixtendio/gofre](https://github.com/ixtendio/gofre) - A fast and low memory consumption web framework for Go with middleware support and without third-party dependencies (1 month ago)
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. (2 months ago)
 
 
