@@ -29,14 +29,14 @@ If you find my open source contributions valuable, please consider [sponsoring m
 #### 📚 Latest Blog posts
 
 - [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (4 months ago)
-- [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (11 months ago)
+- [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (1 year ago)
 - [How To Design Pipelines and Sort by Dependencies in Python](https://betterprogramming.pub/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (1 year ago)
 - [Golang: Automate Your Product Release Cycles Using Go-Feature-Flag](https://betterprogramming.pub/automate-your-product-release-cycles-using-go-feature-flag-6ab73f869f?source=rss-9a58464dd8e9------2) (2 years ago)
 - [Switch easily between multiple kubernetes version on MacOs](https://faun.pub/switch-easily-between-multiple-kubernetes-version-on-macos-9d61b9bc8287?source=rss-9a58464dd8e9------2) (2 years ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.5.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.5.2), 1 day ago) - Community contributions for hooks and reference providers
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.5.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.5.2), 2 days ago) - Community contributions for hooks and reference providers
 - [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.0.0](https://github.com/open-feature/java-sdk/releases/tag/v1.0.0), 1 month ago) - Java implementation of the OpenFeature SDK
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.2.5](https://github.com/open-feature/flagd/releases/tag/v0.2.5), 1 month ago) - A feature flag daemon with a Unix philosophy
 
