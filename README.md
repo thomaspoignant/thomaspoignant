@@ -66,6 +66,6 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [teun25](https://github.com/teun25)
 - [mariamihai](https://github.com/mariamihai)
 - [evalsocket](https://github.com/evalsocket)
-- [jgquinn](https://github.com/jgquinn)
