@@ -28,7 +28,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 📚 Latest Blog posts
 
-- [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (4 months ago)
+- [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (5 months ago)
 - [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (1 year ago)
 - [How To Design Pipelines and Sort by Dependencies in Python](https://betterprogramming.pub/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (1 year ago)
 - [Golang: Automate Your Product Release Cycles Using Go-Feature-Flag](https://betterprogramming.pub/automate-your-product-release-cycles-using-go-feature-flag-6ab73f869f?source=rss-9a58464dd8e9------2) (2 years ago)
@@ -36,13 +36,13 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.GOFeatureFlag-v0.1.1](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.GOFeatureFlag-v0.1.1), 2 days ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.0.1](https://github.com/open-feature/java-sdk/releases/tag/v1.0.1), 3 days ago) - Java implementation of the OpenFeature SDK
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.5.3](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.5.3), 5 days ago) - Community contributions for hooks and reference providers
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.GOFeatureFlag-v0.1.1](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.GOFeatureFlag-v0.1.1), 3 days ago) - OpenFeature Providers and Hooks for .NET
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.0.1](https://github.com/open-feature/java-sdk/releases/tag/v1.0.1), 4 days ago) - Java implementation of the OpenFeature SDK
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.5.3](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.5.3), 6 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (2 days ago)
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (3 days ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (2 weeks ago)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (2 weeks ago)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (2 months ago)
