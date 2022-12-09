@@ -36,7 +36,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.1.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.1.1), today) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.1.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.1.2), today) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.0.1](https://github.com/open-feature/go-sdk/releases/tag/v1.0.1), today) - Go SDK for OpenFeature
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.2.7](https://github.com/open-feature/flagd/releases/tag/v0.2.7), 4 days ago) - A feature flag daemon with a Unix philosophy
 
