@@ -59,9 +59,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership (today)
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. (1 month ago)
 - [ixtendio/gofre](https://github.com/ixtendio/gofre) - A fast and low memory consumption web framework for Go with middleware support and without third-party dependencies (2 months ago)
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. (2 months ago)
 
 
 #### 👯 Check out some of my recent followers
