@@ -36,13 +36,13 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.1.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.1.2), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.0.1](https://github.com/open-feature/go-sdk/releases/tag/v1.0.1), 1 day ago) - Go SDK for OpenFeature
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.2.7](https://github.com/open-feature/flagd/releases/tag/v0.2.7), 5 days ago) - A feature flag daemon with a Unix philosophy
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.1.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.1.2), 2 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.0.1](https://github.com/open-feature/go-sdk/releases/tag/v1.0.1), 2 days ago) - Go SDK for OpenFeature
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.2.7](https://github.com/open-feature/flagd/releases/tag/v0.2.7), 6 days ago) - A feature flag daemon with a Unix philosophy
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (1 day ago)
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (2 days ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 week ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (3 weeks ago)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (3 weeks ago)
@@ -59,8 +59,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (1 day ago)
-- [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership (1 day ago)
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (2 days ago)
+- [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership (2 days ago)
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. (1 month ago)
 
 
