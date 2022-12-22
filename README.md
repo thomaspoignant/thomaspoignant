@@ -36,17 +36,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.0.7](https://github.com/open-feature/python-sdk/releases/tag/v0.0.7), 2 days ago) - Python SDK for OpenFeature
+- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.0.7](https://github.com/open-feature/python-sdk/releases/tag/v0.0.7), 3 days ago) - Python SDK for OpenFeature
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.1.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.1.2), 1 week ago) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.0.1](https://github.com/open-feature/go-sdk/releases/tag/v1.0.1), 1 week ago) - Go SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) - Python SDK for OpenFeature (2 days ago)
-- [thomaspoignant/gofeatureflag-python-provider](https://github.com/thomaspoignant/gofeatureflag-python-provider) - An OpenFeature provider in python for GO Feature Flag (5 days ago)
+- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) - Python SDK for OpenFeature (3 days ago)
+- [thomaspoignant/gofeatureflag-python-provider](https://github.com/thomaspoignant/gofeatureflag-python-provider) - An OpenFeature provider in python for GO Feature Flag (6 days ago)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 week ago)
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (1 week ago)
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (2 weeks ago)
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (3 weeks ago)
 
 
 #### 🌱 My latest projects
