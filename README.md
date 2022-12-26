@@ -36,16 +36,16 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([v1.0.1](https://github.com/open-feature/js-sdk/releases/tag/v1.0.1), 2 days ago) - JavaScript SDK for OpenFeature
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.hooks.otel-v1.0.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.hooks.otel-v1.0.0), 3 days ago) - Community contributions for hooks and reference providers
-- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.0.7](https://github.com/open-feature/python-sdk/releases/tag/v0.0.7), 6 days ago) - Python SDK for OpenFeature
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([v1.0.1](https://github.com/open-feature/js-sdk/releases/tag/v1.0.1), 3 days ago) - JavaScript SDK for OpenFeature
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.hooks.otel-v1.0.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.hooks.otel-v1.0.0), 4 days ago) - Community contributions for hooks and reference providers
+- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.0.7](https://github.com/open-feature/python-sdk/releases/tag/v0.0.7), 1 week ago) - Python SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) - UI to configure your go-feature-flag configuration (3 days ago)
-- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) - Python SDK for OpenFeature (6 days ago)
+- [thomaspoignant/go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) - UI to configure your go-feature-flag configuration (4 days ago)
+- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) - Python SDK for OpenFeature (1 week ago)
 - [thomaspoignant/gofeatureflag-python-provider](https://github.com/thomaspoignant/gofeatureflag-python-provider) - An OpenFeature provider in python for GO Feature Flag (1 week ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 week ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (2 weeks ago)
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (2 weeks ago)
 
 
@@ -61,7 +61,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (2 weeks ago)
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership (2 weeks ago)
-- [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. (1 month ago)
+- [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. (2 months ago)
 
 
 #### 👯 Check out some of my recent followers
