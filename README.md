@@ -36,16 +36,16 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v0.28.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v0.28.2), today) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
 - [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.0.8](https://github.com/open-feature/python-sdk/releases/tag/v0.0.8), 1 day ago) - Python SDK for OpenFeature
 - [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([v1.0.1](https://github.com/open-feature/js-sdk/releases/tag/v1.0.1), 6 days ago) - JavaScript SDK for OpenFeature
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.hooks.otel-v1.0.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.hooks.otel-v1.0.0), 1 week ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (today)
 - [thomaspoignant/go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) - UI to configure your go-feature-flag configuration (1 week ago)
 - [open-feature/python-sdk](https://github.com/open-feature/python-sdk) - Python SDK for OpenFeature (1 week ago)
 - [thomaspoignant/gofeatureflag-python-provider](https://github.com/thomaspoignant/gofeatureflag-python-provider) - An OpenFeature provider in python for GO Feature Flag (1 week ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (2 weeks ago)
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (2 weeks ago)
 
 
