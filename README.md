@@ -36,15 +36,15 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.1.3](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.1.3), 6 days ago) - OpenFeature Providers and Hooks for JavaScript
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v0.28.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v0.28.2), 6 days ago) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.1.3](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.1.3), 1 week ago) - OpenFeature Providers and Hooks for JavaScript
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v0.28.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v0.28.2), 1 week ago) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
 - [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.0.8](https://github.com/open-feature/python-sdk/releases/tag/v0.0.8), 1 week ago) - Python SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (6 days ago)
-- [thomaspoignant/go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) - UI to configure your go-feature-flag configuration (1 week ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 week ago)
+- [thomaspoignant/go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) - UI to configure your go-feature-flag configuration (2 weeks ago)
 - [open-feature/python-sdk](https://github.com/open-feature/python-sdk) - Python SDK for OpenFeature (2 weeks ago)
 - [thomaspoignant/gofeatureflag-python-provider](https://github.com/thomaspoignant/gofeatureflag-python-provider) - An OpenFeature provider in python for GO Feature Flag (2 weeks ago)
 
