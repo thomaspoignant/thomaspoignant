@@ -34,7 +34,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.0.0-rc.3](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.0.0-rc.3), today) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.0.0-rc.4](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.0.0-rc.4), today) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.3.0](https://github.com/open-feature/flagd/releases/tag/v0.3.0), today) - A feature flag daemon with a Unix philosophy
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.1.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.1.1), today) - Community maintained OpenFeature Providers and Hooks for Go
 
