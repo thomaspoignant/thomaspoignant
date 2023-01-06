@@ -10,8 +10,6 @@ I am an AWS Community Builder.
 
 The open source projects that I'm currently focusing on are:
 - [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) _- SDK to manage feature flags in Golang._
-- [go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) _- UI to create your flags._
-- [go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) _- API to manage your feature flags._
 - [scim-patch](https://github.com/thomaspoignant/scim-patch) _- SCIM Patch library for nodejs._
 - [scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) _- parse and filter SCIM queries._
 - [mac-dev-setup](https://github.com/thomaspoignant/mac-dev-setup) _- script to install your developer environment on your mac._
