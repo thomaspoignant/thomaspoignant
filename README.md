@@ -42,11 +42,11 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 day ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 days ago)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 week ago)
 - [thomaspoignant/go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) - UI to configure your go-feature-flag configuration (2 weeks ago)
 - [open-feature/python-sdk](https://github.com/open-feature/python-sdk) - Python SDK for OpenFeature (2 weeks ago)
-- [thomaspoignant/gofeatureflag-python-provider](https://github.com/thomaspoignant/gofeatureflag-python-provider) - An OpenFeature provider in python for GO Feature Flag (2 weeks ago)
+- [thomaspoignant/gofeatureflag-python-provider](https://github.com/thomaspoignant/gofeatureflag-python-provider) - An OpenFeature provider in python for GO Feature Flag (3 weeks ago)
 
 
 #### 🌱 My latest projects
@@ -59,8 +59,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (3 weeks ago)
-- [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership (3 weeks ago)
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (4 weeks ago)
+- [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership (4 weeks ago)
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. (2 months ago)
 
 
