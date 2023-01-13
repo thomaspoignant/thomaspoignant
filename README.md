@@ -34,17 +34,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/spec](https://github.com/open-feature/spec) ([v0.5.2](https://github.com/open-feature/spec/releases/tag/v0.5.2), today) - OpenFeature specification
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.3.1](https://github.com/open-feature/flagd/releases/tag/v0.3.1), today) - A feature flag daemon with a Unix philosophy
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.1.0](https://github.com/open-feature/go-sdk/releases/tag/v1.1.0), 2 days ago) - Go SDK for OpenFeature
+- [open-feature/spec](https://github.com/open-feature/spec) ([v0.5.2](https://github.com/open-feature/spec/releases/tag/v0.5.2), 1 day ago) - OpenFeature specification
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.3.1](https://github.com/open-feature/flagd/releases/tag/v0.3.1), 1 day ago) - A feature flag daemon with a Unix philosophy
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.1.0](https://github.com/open-feature/go-sdk/releases/tag/v1.1.0), 3 days ago) - Go SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (1 day ago)
-- [thomaspoignant/go-feature-flag-demo](https://github.com/thomaspoignant/go-feature-flag-demo) - A visual demo app to play with go-feature-flag (6 days ago)
-- [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website (6 days ago)
-- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK. (6 days ago)
-- [thomaspoignant/go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) - UI to configure your go-feature-flag configuration (6 days ago)
+- [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (2 days ago)
+- [thomaspoignant/go-feature-flag-demo](https://github.com/thomaspoignant/go-feature-flag-demo) - A visual demo app to play with go-feature-flag (1 week ago)
+- [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website (1 week ago)
+- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK. (1 week ago)
+- [thomaspoignant/go-feature-flag-editor](https://github.com/thomaspoignant/go-feature-flag-editor) - UI to configure your go-feature-flag configuration (1 week ago)
 
 
 #### 🌱 My latest projects
