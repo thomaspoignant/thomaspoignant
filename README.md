@@ -34,14 +34,14 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.0.0-rc.5](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.0.0-rc.5), 2 days ago) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
-- [open-feature/spec](https://github.com/open-feature/spec) ([v0.5.2](https://github.com/open-feature/spec/releases/tag/v0.5.2), 3 days ago) - OpenFeature specification
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.3.1](https://github.com/open-feature/flagd/releases/tag/v0.3.1), 3 days ago) - A feature flag daemon with a Unix philosophy
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.0.0-rc.5](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.0.0-rc.5), 3 days ago) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
+- [open-feature/spec](https://github.com/open-feature/spec) ([v0.5.2](https://github.com/open-feature/spec/releases/tag/v0.5.2), 4 days ago) - OpenFeature specification
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.3.1](https://github.com/open-feature/flagd/releases/tag/v0.3.1), 4 days ago) - A feature flag daemon with a Unix philosophy
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (2 days ago)
-- [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (4 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (3 days ago)
+- [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (5 days ago)
 - [thomaspoignant/go-feature-flag-demo](https://github.com/thomaspoignant/go-feature-flag-demo) - A visual demo app to play with go-feature-flag (1 week ago)
 - [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website (1 week ago)
 - [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK. (1 week ago)
