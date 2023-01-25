@@ -34,9 +34,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.1.0](https://github.com/open-feature/java-sdk/releases/tag/v1.1.0), today) - Java implementation of the OpenFeature SDK
 - [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([v1.1.0](https://github.com/open-feature/js-sdk/releases/tag/v1.1.0), 2 days ago) - JavaScript SDK for OpenFeature
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.1.4](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.1.4), 6 days ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagsmith-v0.0.3](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagsmith-v0.0.3), 6 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
