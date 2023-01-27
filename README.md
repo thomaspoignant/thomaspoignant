@@ -34,17 +34,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v1.0.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v1.0.1), today) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.3.2](https://github.com/open-feature/flagd/releases/tag/v0.3.2), today) - A feature flag daemon with a Unix philosophy
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.1.0](https://github.com/open-feature/java-sdk/releases/tag/v1.1.0), 1 day ago) - Java implementation of the OpenFeature SDK
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v1.0.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v1.0.1), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.3.2](https://github.com/open-feature/flagd/releases/tag/v0.3.2), 1 day ago) - A feature flag daemon with a Unix philosophy
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.1.0](https://github.com/open-feature/java-sdk/releases/tag/v1.1.0), 2 days ago) - Java implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 week ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (2 weeks ago)
 - [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (2 weeks ago)
-- [thomaspoignant/go-feature-flag-demo](https://github.com/thomaspoignant/go-feature-flag-demo) - A visual demo app to play with go-feature-flag (2 weeks ago)
-- [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website (2 weeks ago)
-- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK. (2 weeks ago)
+- [thomaspoignant/go-feature-flag-demo](https://github.com/thomaspoignant/go-feature-flag-demo) - A visual demo app to play with go-feature-flag (3 weeks ago)
+- [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website (3 weeks ago)
+- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK. (3 weeks ago)
 
 
 #### 🌱 My latest projects
