@@ -34,9 +34,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.3.3](https://github.com/open-feature/flagd/releases/tag/v0.3.3), today) - A feature flag daemon with a Unix philosophy
 - [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.0.9](https://github.com/open-feature/python-sdk/releases/tag/v0.0.9), 1 day ago) - Python SDK for OpenFeature
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v1.0.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v1.0.1), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.3.2](https://github.com/open-feature/flagd/releases/tag/v0.3.2), 2 days ago) - A feature flag daemon with a Unix philosophy
 
 #### 👷 Check out what I'm currently working on
 
