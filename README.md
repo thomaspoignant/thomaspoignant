@@ -34,13 +34,13 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.3.4](https://github.com/open-feature/flagd/releases/tag/v0.3.4), 2 days ago) - A feature flag daemon with a Unix philosophy
-- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.0.9](https://github.com/open-feature/python-sdk/releases/tag/v0.0.9), 3 days ago) - Python SDK for OpenFeature
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v1.0.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v1.0.1), 4 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.3.4](https://github.com/open-feature/flagd/releases/tag/v0.3.4), 3 days ago) - A feature flag daemon with a Unix philosophy
+- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.0.9](https://github.com/open-feature/python-sdk/releases/tag/v0.0.9), 4 days ago) - Python SDK for OpenFeature
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v1.0.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v1.0.1), 5 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (3 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (4 days ago)
 - [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (2 weeks ago)
 - [thomaspoignant/go-feature-flag-demo](https://github.com/thomaspoignant/go-feature-flag-demo) - A visual demo app to play with go-feature-flag (3 weeks ago)
 - [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website (3 weeks ago)
@@ -57,7 +57,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data. (1 week ago)
+- [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data. (2 weeks ago)
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (1 month ago)
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership (1 month ago)
 
