@@ -64,6 +64,6 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [evrenguden](https://github.com/evrenguden)
 - [yashasolutions](https://github.com/yashasolutions)
 - [mariamihai](https://github.com/mariamihai)
-- [evalsocket](https://github.com/evalsocket)
