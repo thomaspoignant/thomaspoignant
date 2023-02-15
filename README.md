@@ -34,13 +34,13 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flagd-v0.1.2](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flagd-v0.1.2), 1 day ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.3.7](https://github.com/open-feature/flagd/releases/tag/v0.3.7), 1 day ago) - A feature flag daemon with a Unix philosophy
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.2.0](https://github.com/open-feature/java-sdk/releases/tag/v1.2.0), 4 days ago) - Java implementation of the OpenFeature SDK
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flagd-v0.1.2](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flagd-v0.1.2), 2 days ago) - OpenFeature Providers and Hooks for .NET
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([v0.3.7](https://github.com/open-feature/flagd/releases/tag/v0.3.7), 2 days ago) - A feature flag daemon with a Unix philosophy
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.2.0](https://github.com/open-feature/java-sdk/releases/tag/v1.2.0), 5 days ago) - Java implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (2 days ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 week ago)
 - [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (1 month ago)
 - [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website (1 month ago)
