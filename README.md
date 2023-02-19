@@ -40,20 +40,20 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
+- [thomaspoignant/test-gha](https://github.com/thomaspoignant/test-gha) -  (today)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (2 days ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 weeks ago)
 - [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (1 month ago)
 - [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website (1 month ago)
-- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK. (1 month ago)
 
 
 #### 🌱 My latest projects
 
+- [thomaspoignant/test-gha](https://github.com/thomaspoignant/test-gha) - 
 - [thomaspoignant/gofeatureflag-python-provider](https://github.com/thomaspoignant/gofeatureflag-python-provider) - An OpenFeature provider in python for GO Feature Flag
 - [thomaspoignant/openfeature-go-feature-flag-node-demo](https://github.com/thomaspoignant/openfeature-go-feature-flag-node-demo) - Demonstration on how to use GO Feature Flag with the openfeature nodeJS SDK
 - [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website
 - [thomaspoignant/go-feature-flag-demo](https://github.com/thomaspoignant/go-feature-flag-demo) - A visual demo app to play with go-feature-flag
-- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK.
 
 #### ⭐ Recent Stars
 
