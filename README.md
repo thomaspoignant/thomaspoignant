@@ -34,8 +34,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.3.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.3.0), today) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v1.2.0](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v1.2.0), today) - Community maintained OpenFeature Providers and Hooks for Go
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.2.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.2.2), 3 days ago) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
 - [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) ([0.2.8](https://github.com/thomaspoignant/scim2-parse-filter/releases/tag/0.2.8), 4 days ago) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser.
 
 #### 👷 Check out what I'm currently working on
