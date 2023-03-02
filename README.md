@@ -34,9 +34,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.1.10](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.1.10), today) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.3.0](https://github.com/open-feature/go-sdk/releases/tag/v1.3.0), today) - Go SDK for OpenFeature
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.7.0](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.7.0), 1 day ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v1.2.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v1.2.1), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.4.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.4.0), 3 days ago) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
