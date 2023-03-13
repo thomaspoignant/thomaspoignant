@@ -34,8 +34,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v0.1.0-experimental](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v0.1.0-experimental), today) - JavaScript SDK for OpenFeature
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.4.4](https://github.com/open-feature/flagd/releases/tag/core/v0.4.4), 3 days ago) - A feature flag daemon with a Unix philosophy
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([shared-v0.0.2](https://github.com/open-feature/js-sdk/releases/tag/shared-v0.0.2), 4 days ago) - JavaScript SDK for OpenFeature
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([in-memory-provider-v0.1.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/in-memory-provider-v0.1.1), 4 days ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
