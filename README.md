@@ -34,16 +34,16 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.4.4](https://github.com/open-feature/flagd/releases/tag/core/v0.4.4), 2 days ago) - A feature flag daemon with a Unix philosophy
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([shared-v0.0.2](https://github.com/open-feature/js-sdk/releases/tag/shared-v0.0.2), 3 days ago) - JavaScript SDK for OpenFeature
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([in-memory-provider-v0.1.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/in-memory-provider-v0.1.1), 3 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.4.4](https://github.com/open-feature/flagd/releases/tag/core/v0.4.4), 3 days ago) - A feature flag daemon with a Unix philosophy
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([shared-v0.0.2](https://github.com/open-feature/js-sdk/releases/tag/shared-v0.0.2), 4 days ago) - JavaScript SDK for OpenFeature
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([in-memory-provider-v0.1.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/in-memory-provider-v0.1.1), 4 days ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (2 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (3 days ago)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (1 week ago)
-- [go-feature-flag/helm-charts](https://github.com/go-feature-flag/helm-charts) - Repository to store go-feature-flag helm-charts (1 week ago)
-- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (2 weeks ago)
+- [go-feature-flag/helm-charts](https://github.com/go-feature-flag/helm-charts) - Repository to store go-feature-flag helm-charts (2 weeks ago)
+- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (3 weeks ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 month ago)
 
 
