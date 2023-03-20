@@ -34,9 +34,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.4.5](https://github.com/open-feature/flagd/releases/tag/core/v0.4.5), today) - A feature flag daemon with a Unix philosophy
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.2.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.2.0), today) - OpenFeature Providers and Hooks for JavaScript
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.5.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.5.0), 3 days ago) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagsmith/v0.1.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagsmith/v0.1.1), 5 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.3.0](https://github.com/open-feature/java-sdk/releases/tag/v1.3.0), 1 week ago) - Java implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
