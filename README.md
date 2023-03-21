@@ -34,17 +34,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.hooks.otel-v1.0.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.hooks.otel-v1.0.2), today) - Community contributions for hooks and reference providers
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.5.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.5.1), today) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.4.5](https://github.com/open-feature/flagd/releases/tag/core/v0.4.5), 1 day ago) - A feature flag daemon with a Unix philosophy
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.2.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.2.0), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (today)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (today)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (2 weeks ago)
 - [go-feature-flag/helm-charts](https://github.com/go-feature-flag/helm-charts) - Repository to store go-feature-flag helm-charts (3 weeks ago)
 - [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (4 weeks ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 month ago)
 
 
 #### 🌱 My latest projects
