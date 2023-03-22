@@ -34,9 +34,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v0.2.0-experimental](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v0.2.0-experimental), today) - JavaScript SDK for OpenFeature
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flagd-v0.1.3](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flagd-v0.1.3), today) - OpenFeature Providers and Hooks for .NET
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.5](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.5), today) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.hooks.otel-v1.0.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.hooks.otel-v1.0.2), 1 day ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
