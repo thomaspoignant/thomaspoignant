@@ -35,7 +35,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 #### 🚀 Latest releases I've contributed to
 
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.3.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.3.1), today) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v0.2.0-experimental](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v0.2.0-experimental), 1 day ago) - JavaScript SDK for OpenFeature
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v0.2.0-experimental](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v0.2.0-experimental), 1 day ago) - JavaScript SDK for OpenFeature/
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flagd-v0.1.3](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flagd-v0.1.3), 1 day ago) - OpenFeature Providers and Hooks for .NET
 
 #### 👷 Check out what I'm currently working on
