@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss. (today)
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/ (3 weeks ago)
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts (1 month ago)
-- [go-feature-flag/helm-charts](https://github.com/go-feature-flag/helm-charts) - Repository to store go-feature-flag helm-charts (1 month ago)
 
 
 #### 👯 Check out some of my recent followers
