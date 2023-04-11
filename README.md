@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [community/maintainers](https://github.com/community/maintainers) - The Maintainer Community is a private space for maintainers to connect with peers, preview GitHub features, and help us support the open source community. (today)
 - [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss. (3 days ago)
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/ (3 weeks ago)
-- [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts (1 month ago)
 
 
 #### 👯 Check out some of my recent followers
