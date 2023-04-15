@@ -34,14 +34,14 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.5.2](https://github.com/open-feature/flagd/releases/tag/core/v0.5.2), 1 day ago) - A feature flag daemon with a Unix philosophy
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([hooks/open-telemetry/v0.2.4](https://github.com/open-feature/go-sdk-contrib/releases/tag/hooks/open-telemetry/v0.2.4), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.jsonlogic-v1.0.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.jsonlogic-v1.0.0), 1 day ago) - Community contributions for hooks and reference providers
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.5.2](https://github.com/open-feature/flagd/releases/tag/core/v0.5.2), 2 days ago) - A feature flag daemon with a Unix philosophy
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([hooks/open-telemetry/v0.2.4](https://github.com/open-feature/go-sdk-contrib/releases/tag/hooks/open-telemetry/v0.2.4), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.jsonlogic-v1.0.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.jsonlogic-v1.0.0), 2 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (today)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (6 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (1 day ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 week ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 week ago)
@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [community/maintainers](https://github.com/community/maintainers) - The Maintainer Community is a private space for maintainers to connect with peers, preview GitHub features, and help us support the open source community. (3 days ago)
-- [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss. (6 days ago)
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/ (3 weeks ago)
+- [community/maintainers](https://github.com/community/maintainers) - The Maintainer Community is a private space for maintainers to connect with peers, preview GitHub features, and help us support the open source community. (4 days ago)
+- [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss. (1 week ago)
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/ (4 weeks ago)
 
 
 #### 👯 Check out some of my recent followers
