@@ -34,9 +34,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.8.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.8.0), today) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
 - [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.5.2](https://github.com/open-feature/flagd/releases/tag/core/v0.5.2), 5 days ago) - A feature flag daemon with a Unix philosophy
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([hooks/open-telemetry/v0.2.4](https://github.com/open-feature/go-sdk-contrib/releases/tag/hooks/open-telemetry/v0.2.4), 5 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.jsonlogic-v1.0.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.jsonlogic-v1.0.0), 5 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
