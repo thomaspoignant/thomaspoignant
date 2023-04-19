@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [korrel8r/korrel8r](https://github.com/korrel8r/korrel8r) - Correlation of observability signals. (today)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (3 days ago)
 - [community/maintainers](https://github.com/community/maintainers) - The Maintainer Community is a private space for maintainers to connect with peers, preview GitHub features, and help us support the open source community. (1 week ago)
-- [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss. (1 week ago)
 
 
 #### 👯 Check out some of my recent followers
