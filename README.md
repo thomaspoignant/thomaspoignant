@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
 - [korrel8r/korrel8r](https://github.com/korrel8r/korrel8r) - Correlation of observability signals. (2 days ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (5 days ago)
-- [community/maintainers](https://github.com/community/maintainers) - The Maintainer Community is a private space for maintainers to connect with peers, preview GitHub features, and help us support the open source community. (1 week ago)
 
 
 #### 👯 Check out some of my recent followers
