@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [sarvsav/go-feature-flag-lint-action](https://github.com/sarvsav/go-feature-flag-lint-action) - This action will perform the linting of the gofeatureflag 🏁 yaml file (today)
 - [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (3 days ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
-- [korrel8r/korrel8r](https://github.com/korrel8r/korrel8r) - Correlation of observability signals. (1 week ago)
 
 
 #### 👯 Check out some of my recent followers
