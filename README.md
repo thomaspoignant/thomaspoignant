@@ -44,7 +44,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 - [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag configuration file. (today)
 - [go-feature-flag/.github-private](https://github.com/go-feature-flag/.github-private) - GO Feature Flag organisation private ✨special ✨ repository (today)
 - [go-feature-flag/.github](https://github.com/go-feature-flag/.github) - GO Feature Flag organisation ✨special ✨ repository (today)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 days ago)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (today)
 
 
 #### 🌱 My latest projects
