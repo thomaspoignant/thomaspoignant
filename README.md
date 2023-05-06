@@ -41,8 +41,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 #### 👷 Check out what I'm currently working on
 
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (today)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️ (today)
 - [go-feature-flag/.github](https://github.com/go-feature-flag/.github) - GO Feature Flag organisation ✨special ✨ repository (2 days ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️ (2 days ago)
 - [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (2 days ago)
 - [go-feature-flag/.github-private](https://github.com/go-feature-flag/.github-private) - GO Feature Flag organisation private ✨special ✨ repository (5 days ago)
 
@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [pelikan-io/pelikan](https://github.com/pelikan-io/pelikan) - Pelikan is a framework for building local or distributed caches. It comes with a highly extensible architecture, best-in-class performance, and superb operational ergonomics. You can use it to replace most of Memcached or a subset of Redis features. (today)
 - [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (2 days ago)
 - [sarvsav/go-feature-flag-lint-action](https://github.com/sarvsav/go-feature-flag-lint-action) - This action will perform the linting of the gofeatureflag 🏁 yaml file (6 days ago)
-- [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 week ago)
 
 
 #### 👯 Check out some of my recent followers
