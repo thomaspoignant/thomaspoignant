@@ -34,17 +34,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v0.2.6](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v0.2.6), today) - Community contributions for hooks and reference providers
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.5.3](https://github.com/open-feature/flagd/releases/tag/core/v0.5.3), 2 days ago) - A feature flag daemon with a Unix philosophy
-- [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) ([v1](https://github.com/go-feature-flag/gofeatureflag-lint-action/releases/tag/v1), 2 days ago) - GitHub Action to lint your GO Feature Flag 🏁 configuration file.
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v0.2.6](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v0.2.6), 1 day ago) - Community contributions for hooks and reference providers
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.5.3](https://github.com/open-feature/flagd/releases/tag/core/v0.5.3), 3 days ago) - A feature flag daemon with a Unix philosophy
+- [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) ([v1](https://github.com/go-feature-flag/gofeatureflag-lint-action/releases/tag/v1), 3 days ago) - GitHub Action to lint your GO Feature Flag 🏁 configuration file.
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️ (today)
-- [go-feature-flag/.github](https://github.com/go-feature-flag/.github) - GO Feature Flag organisation ✨special ✨ repository (2 days ago)
-- [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (2 days ago)
-- [go-feature-flag/.github-private](https://github.com/go-feature-flag/.github-private) - GO Feature Flag organisation private ✨special ✨ repository (5 days ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [go-feature-flag/.github](https://github.com/go-feature-flag/.github) - GO Feature Flag organisation ✨special ✨ repository (3 days ago)
+- [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (3 days ago)
+- [go-feature-flag/.github-private](https://github.com/go-feature-flag/.github-private) - GO Feature Flag organisation private ✨special ✨ repository (6 days ago)
 
 
 #### 🌱 My latest projects
@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [pelikan-io/pelikan](https://github.com/pelikan-io/pelikan) - Pelikan is a framework for building local or distributed caches. It comes with a highly extensible architecture, best-in-class performance, and superb operational ergonomics. You can use it to replace most of Memcached or a subset of Redis features. (today)
-- [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (2 days ago)
-- [sarvsav/go-feature-flag-lint-action](https://github.com/sarvsav/go-feature-flag-lint-action) - This action will perform the linting of the gofeatureflag 🏁 yaml file (6 days ago)
+- [pelikan-io/pelikan](https://github.com/pelikan-io/pelikan) - Pelikan is a framework for building local or distributed caches. It comes with a highly extensible architecture, best-in-class performance, and superb operational ergonomics. You can use it to replace most of Memcached or a subset of Redis features. (1 day ago)
+- [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (3 days ago)
+- [sarvsav/go-feature-flag-lint-action](https://github.com/sarvsav/go-feature-flag-lint-action) - This action will perform the linting of the gofeatureflag 🏁 yaml file (1 week ago)
 
 
 #### 👯 Check out some of my recent followers
