@@ -57,9 +57,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [go-feature-flag/scoop](https://github.com/go-feature-flag/scoop) -  (today)
 - [pelikan-io/pelikan](https://github.com/pelikan-io/pelikan) - Pelikan is a framework for building local or distributed caches. It comes with a highly extensible architecture, best-in-class performance, and superb operational ergonomics. You can use it to replace most of Memcached or a subset of Redis features. (1 week ago)
 - [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (1 week ago)
-- [sarvsav/go-feature-flag-lint-action](https://github.com/sarvsav/go-feature-flag-lint-action) - This action will perform the linting of the gofeatureflag 🏁 yaml file (2 weeks ago)
 
 
 #### 👯 Check out some of my recent followers
