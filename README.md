@@ -34,16 +34,16 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.10.3](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.10.3), today) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagsmith-v0.0.5](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagsmith-v0.0.5), 4 days ago) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v1.2.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v1.2.2), 4 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.10.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.10.2), 1 week ago) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (today)
+- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (today)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️ (today)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (5 days ago)
-- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (1 week ago)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 week ago)
 - [go-feature-flag/scoop](https://github.com/go-feature-flag/scoop) -  (1 week ago)
 
 
