@@ -34,9 +34,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.16](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.16), today) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagsmith-v0.0.6](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagsmith-v0.0.6), 3 days ago) - Community contributions for hooks and reference providers
 - [open-feature/spec](https://github.com/open-feature/spec) ([v0.6.0](https://github.com/open-feature/spec/releases/tag/v0.6.0), 6 days ago) - OpenFeature specification
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.15](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.15), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
