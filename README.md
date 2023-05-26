@@ -34,9 +34,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.4.0](https://github.com/open-feature/go-sdk/releases/tag/v1.4.0), today) - Go SDK for OpenFeature
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v0.2.8](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v0.2.8), today) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.17](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.17), today) - Community maintained OpenFeature Providers and Hooks for Go
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.10.4](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.10.4), 2 days ago) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
