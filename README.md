@@ -34,9 +34,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([js-sdk-v1.3.0](https://github.com/open-feature/js-sdk/releases/tag/js-sdk-v1.3.0), 1 day ago) - JavaScript SDK for OpenFeature
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.19](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.19), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v0.2.9](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v0.2.9), 1 week ago) - Community contributions for hooks and reference providers
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.5.4](https://github.com/open-feature/flagd/releases/tag/core/v0.5.4), 1 day ago) - A feature flag daemon with a Unix philosophy
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([js-sdk-v1.3.0](https://github.com/open-feature/js-sdk/releases/tag/js-sdk-v1.3.0), 2 days ago) - JavaScript SDK for OpenFeature
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.19](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.19), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
