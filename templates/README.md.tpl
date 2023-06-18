@@ -23,12 +23,6 @@ I've also contribute to:
 If you find my open source contributions valuable, please consider [sponsoring me on GitHub](https://github.com/sponsors/thomaspoignant/).
 
 -----------
-
-#### 📚 Latest Blog posts
-{{range rss "https://thomaspoignant.medium.com/feed/" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
 #### 🚀 Latest releases I've contributed to
 {{range recentReleases 3}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
@@ -38,7 +32,6 @@ If you find my open source contributions valuable, please consider [sponsoring m
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
-
 
 #### 🌱 My latest projects
 {{range recentRepos 5}}
@@ -50,12 +43,16 @@ If you find my open source contributions valuable, please consider [sponsoring m
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-<!--
+#### 📚 Latest Blog posts
+{{range rss "https://thomaspoignant.medium.com/feed/" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
 #### ❤️ These awesome people sponsor me (thank you!)
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
--->
+
 #### 👯 Check out some of my recent followers
 {{range followers 3}}
 - [{{.Login}}]({{.URL}})
