@@ -23,15 +23,6 @@ I've also contribute to:
 If you find my open source contributions valuable, please consider [sponsoring me on GitHub](https://github.com/sponsors/thomaspoignant/).
 
 -----------
-
-#### 📚 Latest Blog posts
-
-- [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (11 months ago)
-- [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (2 years ago)
-- [How To Design Pipelines and Sort by Dependencies in Python](https://betterprogramming.pub/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (2 years ago)
-- [Golang: Automate Your Product Release Cycles Using Go-Feature-Flag](https://betterprogramming.pub/automate-your-product-release-cycles-using-go-feature-flag-6ab73f869f?source=rss-9a58464dd8e9------2) (2 years ago)
-- [Switch easily between multiple kubernetes version on MacOs](https://faun.pub/switch-easily-between-multiple-kubernetes-version-on-macos-9d61b9bc8287?source=rss-9a58464dd8e9------2) (2 years ago)
-
 #### 🚀 Latest releases I've contributed to
 
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.20](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.20), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
@@ -46,7 +37,6 @@ If you find my open source contributions valuable, please consider [sponsoring m
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 month ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (1 month ago)
 
-
 #### 🌱 My latest projects
 
 - [thomaspoignant/gofeatureflag-python-provider](https://github.com/thomaspoignant/gofeatureflag-python-provider) - An OpenFeature provider in python for GO Feature Flag
@@ -60,6 +50,16 @@ If you find my open source contributions valuable, please consider [sponsoring m
 - [DylanPiercey/receptacle](https://github.com/DylanPiercey/receptacle) - 🏪 Multi purpose in memory lru cache with ttl support. (1 week ago)
 - [go-feature-flag/scoop](https://github.com/go-feature-flag/scoop) -  (1 month ago)
 - [pelikan-io/pelikan](https://github.com/pelikan-io/pelikan) - Pelikan is a framework for building local or distributed caches. It comes with a highly extensible architecture, best-in-class performance, and superb operational ergonomics. You can use it to replace most of Memcached or a subset of Redis features. (1 month ago)
+
+#### 📚 Latest Blog posts
+
+- [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (11 months ago)
+- [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (2 years ago)
+- [How To Design Pipelines and Sort by Dependencies in Python](https://betterprogramming.pub/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (2 years ago)
+- [Golang: Automate Your Product Release Cycles Using Go-Feature-Flag](https://betterprogramming.pub/automate-your-product-release-cycles-using-go-feature-flag-6ab73f869f?source=rss-9a58464dd8e9------2) (2 years ago)
+- [Switch easily between multiple kubernetes version on MacOs](https://faun.pub/switch-easily-between-multiple-kubernetes-version-on-macos-9d61b9bc8287?source=rss-9a58464dd8e9------2) (2 years ago)
+
+#### ❤️ These awesome people sponsor me (thank you!)
 
 
 #### 👯 Check out some of my recent followers
