@@ -25,16 +25,16 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.21](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.21), today) - Community maintained OpenFeature Providers and Hooks for Go
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.12.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.12.0), today) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([hooks/open-telemetry/v0.2.6](https://github.com/open-feature/go-sdk-contrib/releases/tag/hooks/open-telemetry/v0.2.6), 6 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v0.3.4-experimental](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v0.3.4-experimental), 2 weeks ago) - JavaScript SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️ (today)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (today)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (today)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 month ago)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 month ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (1 month ago)
 
 #### 🌱 My latest projects
