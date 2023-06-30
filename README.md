@@ -65,5 +65,5 @@ If you find my open source contributions valuable, please consider [sponsoring m
 #### 👯 Check out some of my recent followers
 
 - [tungntpham](https://github.com/tungntpham)
-- [DanielO928](https://github.com/DanielO928)
+- [dannorgas](https://github.com/dannorgas)
 - [tillknuesting](https://github.com/tillknuesting)
