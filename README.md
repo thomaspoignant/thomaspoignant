@@ -25,14 +25,14 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([js-sdk-v1.3.2](https://github.com/open-feature/js-sdk/releases/tag/js-sdk-v1.3.2), 1 day ago) - JavaScript SDK for OpenFeature
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.22](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.22), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([js-sdk-v1.3.3](https://github.com/open-feature/js-sdk/releases/tag/js-sdk-v1.3.3), 1 day ago) - JavaScript SDK for OpenFeature
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.22](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.22), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.12.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.12.0), 1 week ago) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️ (today)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (3 days ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 month ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 month ago)
@@ -47,8 +47,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [spotify/openfeature-kotlin-sdk](https://github.com/spotify/openfeature-kotlin-sdk) -  (1 day ago)
-- [spotify/openfeature-swift-sdk](https://github.com/spotify/openfeature-swift-sdk) -  Swift implementation of the OpenFeature SDK (1 day ago)
+- [spotify/openfeature-kotlin-sdk](https://github.com/spotify/openfeature-kotlin-sdk) -  (2 days ago)
+- [spotify/openfeature-swift-sdk](https://github.com/spotify/openfeature-swift-sdk) -  Swift implementation of the OpenFeature SDK (2 days ago)
 - [DylanPiercey/receptacle](https://github.com/DylanPiercey/receptacle) - 🏪 Multi purpose in memory lru cache with ttl support. (3 weeks ago)
 
 #### 📚 Latest Blog posts
