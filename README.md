@@ -25,14 +25,14 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([js-sdk-v1.3.3](https://github.com/open-feature/js-sdk/releases/tag/js-sdk-v1.3.3), 5 days ago) - JavaScript SDK for OpenFeature
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([js-sdk-v1.3.3](https://github.com/open-feature/js-sdk/releases/tag/js-sdk-v1.3.3), 6 days ago) - JavaScript SDK for OpenFeature
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.22](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.22), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.12.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.12.0), 1 week ago) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.12.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.12.0), 2 weeks ago) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️ (today)
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (4 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (5 days ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 week ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 month ago)
@@ -47,8 +47,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [spotify/openfeature-kotlin-sdk](https://github.com/spotify/openfeature-kotlin-sdk) -  (6 days ago)
-- [spotify/openfeature-swift-sdk](https://github.com/spotify/openfeature-swift-sdk) -  Swift implementation of the OpenFeature SDK (6 days ago)
+- [spotify/openfeature-kotlin-sdk](https://github.com/spotify/openfeature-kotlin-sdk) -  (1 week ago)
+- [spotify/openfeature-swift-sdk](https://github.com/spotify/openfeature-swift-sdk) -  Swift implementation of the OpenFeature SDK (1 week ago)
 - [DylanPiercey/receptacle](https://github.com/DylanPiercey/receptacle) - 🏪 Multi purpose in memory lru cache with ttl support. (1 month ago)
 
 #### 📚 Latest Blog posts
