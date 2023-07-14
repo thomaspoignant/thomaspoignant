@@ -25,9 +25,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.6.0](https://github.com/open-feature/flagd/releases/tag/core/v0.6.0), today) - A feature flag daemon with a Unix philosophy
 - [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.4.0](https://github.com/open-feature/java-sdk/releases/tag/v1.4.0), 1 day ago) - Java implementation of the OpenFeature SDK
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([open-telemetry-hooks-v0.2.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/open-telemetry-hooks-v0.2.1), 2 days ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.22](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.22), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
