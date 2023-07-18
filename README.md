@@ -25,9 +25,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([hooks/validator/v0.1.4](https://github.com/open-feature/go-sdk-contrib/releases/tag/hooks/validator/v0.1.4), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.5.0](https://github.com/open-feature/go-sdk/releases/tag/v1.5.0), 1 day ago) - Go SDK for OpenFeature
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.hooks.otel-v2.0.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.hooks.otel-v2.0.0), 4 days ago) - Community contributions for hooks and reference providers
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.5.1](https://github.com/open-feature/go-sdk/releases/tag/v1.5.1), today) - Go SDK for OpenFeature
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/launchdarkly/v0.1.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/launchdarkly/v0.1.2), today) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagsmith-v0.0.7](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagsmith-v0.0.7), today) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
