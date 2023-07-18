@@ -64,6 +64,6 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [bassistdev](https://github.com/bassistdev)
 - [islooper](https://github.com/islooper)
 - [tungntpham](https://github.com/tungntpham)
-- [dannorgas](https://github.com/dannorgas)
