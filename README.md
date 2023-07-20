@@ -25,15 +25,15 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v1.2.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v1.2.3), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.5.1](https://github.com/open-feature/go-sdk/releases/tag/v1.5.1), 1 day ago) - Go SDK for OpenFeature
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagsmith-v0.0.7](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagsmith-v0.0.7), 1 day ago) - Community contributions for hooks and reference providers
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([open-telemetry-hooks-v0.2.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/open-telemetry-hooks-v0.2.2), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v1.2.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v1.2.3), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.5.1](https://github.com/open-feature/go-sdk/releases/tag/v1.5.1), 2 days ago) - Go SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) - Java implementation of the OpenFeature SDK (2 days ago)
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) - Java implementation of the OpenFeature SDK (3 days ago)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️ (1 week ago)
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (1 week ago)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (2 weeks ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (2 weeks ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 weeks ago)
 
