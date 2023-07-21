@@ -25,25 +25,25 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.12.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.12.1), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([open-telemetry-hooks-v0.2.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/open-telemetry-hooks-v0.2.2), 2 days ago) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v1.2.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v1.2.3), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.5.1](https://github.com/open-feature/go-sdk/releases/tag/v1.5.1), 3 days ago) - Go SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
+- [thomaspoignant/demo-goff](https://github.com/thomaspoignant/demo-goff) -  (today)
 - [open-feature/java-sdk](https://github.com/open-feature/java-sdk) - Java implementation of the OpenFeature SDK (4 days ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (2 weeks ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (2 weeks ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [thomaspoignant/demo-goff](https://github.com/thomaspoignant/demo-goff) - 
 - [thomaspoignant/gofeatureflag-python-provider](https://github.com/thomaspoignant/gofeatureflag-python-provider) - An OpenFeature provider in python for GO Feature Flag
 - [thomaspoignant/openfeature-go-feature-flag-node-demo](https://github.com/thomaspoignant/openfeature-go-feature-flag-node-demo) - Demonstration on how to use GO Feature Flag with the openfeature nodeJS SDK
 - [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website
 - [thomaspoignant/go-feature-flag-demo](https://github.com/thomaspoignant/go-feature-flag-demo) - A visual demo app to play with go-feature-flag
-- [thomaspoignant/go-feature-flag-relay-proxy](https://github.com/thomaspoignant/go-feature-flag-relay-proxy) - A relay proxy to provide an API on top of go-feature-flag SDK.
 
 #### ⭐ Recent Stars
 
