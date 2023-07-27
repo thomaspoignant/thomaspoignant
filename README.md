@@ -25,17 +25,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.4.1](https://github.com/open-feature/java-sdk/releases/tag/v1.4.1), 3 days ago) - Java implementation of the OpenFeature SDK
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.23](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.23), 5 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.12.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.12.1), 6 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.6.1](https://github.com/open-feature/flagd/releases/tag/core/v0.6.1), today) - A feature flag daemon with a Unix philosophy
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([config-cat-provider-v0.3.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/config-cat-provider-v0.3.0), today) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.6.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.6.0), today) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (today)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (3 days ago)
 - [thomaspoignant/demo-goff](https://github.com/thomaspoignant/demo-goff) -  (4 days ago)
 - [open-feature/java-sdk](https://github.com/open-feature/java-sdk) - Java implementation of the OpenFeature SDK (1 week ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (3 weeks ago)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 weeks ago)
 
 #### 🌱 My latest projects
 
