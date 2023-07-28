@@ -25,17 +25,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.7.1](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.7.1), today) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.3.5](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.3.5), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.6.1](https://github.com/open-feature/flagd/releases/tag/core/v0.6.1), 1 day ago) - A feature flag daemon with a Unix philosophy
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.13.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.13.0), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/flagd](https://github.com/open-feature/flagd) ([core/v0.6.2](https://github.com/open-feature/flagd/releases/tag/core/v0.6.2), today) - A feature flag daemon with a Unix philosophy
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.6.0](https://github.com/open-feature/go-sdk/releases/tag/v1.6.0), today) - Go SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (today)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (today)
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (today)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 day ago)
-- [thomaspoignant/demo-goff](https://github.com/thomaspoignant/demo-goff) -  (5 days ago)
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) - Java implementation of the OpenFeature SDK (1 week ago)
 
 #### 🌱 My latest projects
 
