@@ -25,17 +25,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.13.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.13.0), 3 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.6.0](https://github.com/open-feature/go-sdk/releases/tag/v1.6.0), 3 days ago) - Go SDK for OpenFeature
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.7.1](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.7.1), 3 days ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.13.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.13.0), 4 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.6.0](https://github.com/open-feature/go-sdk/releases/tag/v1.6.0), 4 days ago) - Go SDK for OpenFeature
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.7.1](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.7.1), 4 days ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (today)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (3 days ago)
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (3 days ago)
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (3 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 day ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (4 days ago)
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (4 days ago)
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -47,8 +47,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [spotify/openfeature-kotlin-sdk](https://github.com/spotify/openfeature-kotlin-sdk) -  (3 weeks ago)
-- [spotify/openfeature-swift-sdk](https://github.com/spotify/openfeature-swift-sdk) -  Swift implementation of the OpenFeature SDK (3 weeks ago)
+- [spotify/openfeature-kotlin-sdk](https://github.com/spotify/openfeature-kotlin-sdk) -  (4 weeks ago)
+- [spotify/openfeature-swift-sdk](https://github.com/spotify/openfeature-swift-sdk) -  Swift implementation of the OpenFeature SDK (4 weeks ago)
 - [DylanPiercey/receptacle](https://github.com/DylanPiercey/receptacle) - 🏪 Multi purpose in memory lru cache with ttl support. (1 month ago)
 
 #### 📚 Latest Blog posts
