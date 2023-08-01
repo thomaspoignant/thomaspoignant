@@ -25,9 +25,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.1.0](https://github.com/open-feature/python-sdk/releases/tag/v0.1.0), today) - Python SDK for OpenFeature
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.13.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.13.0), 4 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.6.0](https://github.com/open-feature/go-sdk/releases/tag/v1.6.0), 4 days ago) - Go SDK for OpenFeature
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.7.1](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.7.1), 4 days ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
 
 #### 👷 Check out what I'm currently working on
 
