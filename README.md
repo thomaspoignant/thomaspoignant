@@ -25,17 +25,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagsmith/v0.1.4](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagsmith/v0.1.4), today) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.1.0](https://github.com/open-feature/python-sdk/releases/tag/v0.1.0), 1 day ago) - Python SDK for OpenFeature
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.13.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.13.0), 5 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v0.2.10](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v0.2.10), 1 day ago) - Community contributions for hooks and reference providers
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.25](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.25), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.1.0](https://github.com/open-feature/python-sdk/releases/tag/v0.1.0), 2 days ago) - Python SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (today)
-- [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 day ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (2 days ago)
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (5 days ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 day ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 day ago)
+- [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (2 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -47,8 +47,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [spotify/openfeature-kotlin-sdk](https://github.com/spotify/openfeature-kotlin-sdk) -  (4 weeks ago)
-- [spotify/openfeature-swift-sdk](https://github.com/spotify/openfeature-swift-sdk) -  Swift implementation of the OpenFeature SDK (4 weeks ago)
+- [spotify/openfeature-kotlin-sdk](https://github.com/spotify/openfeature-kotlin-sdk) -  (1 month ago)
+- [spotify/openfeature-swift-sdk](https://github.com/spotify/openfeature-swift-sdk) -  Swift implementation of the OpenFeature SDK (1 month ago)
 - [DylanPiercey/receptacle](https://github.com/DylanPiercey/receptacle) - 🏪 Multi purpose in memory lru cache with ttl support. (1 month ago)
 
 #### 📚 Latest Blog posts
