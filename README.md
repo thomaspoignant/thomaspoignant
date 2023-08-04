@@ -47,9 +47,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [spotify/openfeature-kotlin-sdk](https://github.com/spotify/openfeature-kotlin-sdk) -  (1 month ago)
-- [spotify/openfeature-swift-sdk](https://github.com/spotify/openfeature-swift-sdk) -  Swift implementation of the OpenFeature SDK (1 month ago)
-- [DylanPiercey/receptacle](https://github.com/DylanPiercey/receptacle) - 🏪 Multi purpose in memory lru cache with ttl support. (1 month ago)
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (today)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (today)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (today)
 
 #### 📚 Latest Blog posts
 
