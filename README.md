@@ -25,17 +25,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.14.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.14.1), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v0.2.11](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v0.2.11), 1 day ago) - Community contributions for hooks and reference providers
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.26](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.26), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flagd-v0.1.6](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flagd-v0.1.6), 1 day ago) - OpenFeature Providers and Hooks for .NET
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.14.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.14.1), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v0.2.11](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v0.2.11), 2 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop. (today)
-- [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 day ago)
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (6 days ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (6 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop. (1 day ago)
+- [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (2 days ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -47,9 +47,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (4 days ago)
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (4 days ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (4 days ago)
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (5 days ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (5 days ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (5 days ago)
 
 #### 📚 Latest Blog posts
 
