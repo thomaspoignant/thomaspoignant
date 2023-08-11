@@ -25,7 +25,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.4.2](https://github.com/open-feature/java-sdk/releases/tag/v1.4.2), 1 day ago) - Java implementation of the OpenFeature SDK
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.4.3](https://github.com/open-feature/java-sdk/releases/tag/v1.4.3), today) - Java implementation of the OpenFeature SDK
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flagd-v0.1.6](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flagd-v0.1.6), 3 days ago) - OpenFeature Providers and Hooks for .NET
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.14.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.14.1), 3 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 
@@ -47,9 +47,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [krismuniz/js-to-json-logic](https://github.com/krismuniz/js-to-json-logic) - Generate JSON Logic objects using JavaScript syntax. (today)
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A feature flag daemon with a Unix philosophy (today)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 week ago)
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 week ago)
 
 #### 📚 Latest Blog posts
 
