@@ -25,17 +25,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.15.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.15.0), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.7.0](https://github.com/open-feature/go-sdk/releases/tag/v1.7.0), 2 days ago) - Go SDK for OpenFeature
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.4.3](https://github.com/open-feature/java-sdk/releases/tag/v1.4.3), 2 days ago) - Java implementation of the OpenFeature SDK
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.15.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.15.0), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.7.0](https://github.com/open-feature/go-sdk/releases/tag/v1.7.0), 3 days ago) - Go SDK for OpenFeature
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.4.3](https://github.com/open-feature/java-sdk/releases/tag/v1.4.3), 3 days ago) - Java implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments (2 days ago)
-- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop. (5 days ago)
-- [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (6 days ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 week ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments (3 days ago)
+- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop. (6 days ago)
+- [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 week ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -47,9 +47,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [dyladan/component-owners](https://github.com/dyladan/component-owners) - Automatically add component owners as assignees and approvers to pull requests (1 day ago)
-- [krismuniz/js-to-json-logic](https://github.com/krismuniz/js-to-json-logic) - Generate JSON Logic objects using JavaScript syntax. (2 days ago)
-- [open-feature/flagd](https://github.com/open-feature/flagd) - A feature flag daemon with a Unix philosophy (2 days ago)
+- [AloisReitbauer/open-source-canvas](https://github.com/AloisReitbauer/open-source-canvas) -  (1 day ago)
+- [dyladan/component-owners](https://github.com/dyladan/component-owners) - Automatically add component owners as assignees and approvers to pull requests (2 days ago)
+- [krismuniz/js-to-json-logic](https://github.com/krismuniz/js-to-json-logic) - Generate JSON Logic objects using JavaScript syntax. (3 days ago)
 
 #### 📚 Latest Blog posts
 
