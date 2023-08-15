@@ -25,17 +25,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagsmith-v0.0.8](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagsmith-v0.0.8), today) - Community contributions for hooks and reference providers
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.15.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.15.0), 2 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.7.0](https://github.com/open-feature/go-sdk/releases/tag/v1.7.0), 4 days ago) - Go SDK for OpenFeature
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.4.3](https://github.com/open-feature/java-sdk/releases/tag/v1.4.3), 4 days ago) - Java implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
+- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (today)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
 - [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments (4 days ago)
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop. (1 week ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 week ago)
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
 
 #### 🌱 My latest projects
 
