@@ -53,11 +53,11 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 📚 Latest Blog posts
 
+- [Implement Vendor Agnostic Feature Flags in your Node.js Application using OpenFeature ](https://faun.pub/implement-vendor-agnostic-feature-flags-in-your-node-js-application-using-openfeature-b89fde448f6c?source=rss-9a58464dd8e9------2) (today)
 - [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (1 year ago)
 - [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (2 years ago)
 - [How To Design Pipelines and Sort by Dependencies in Python](https://betterprogramming.pub/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (2 years ago)
 - [Golang: Automate Your Product Release Cycles Using Go-Feature-Flag](https://betterprogramming.pub/automate-your-product-release-cycles-using-go-feature-flag-6ab73f869f?source=rss-9a58464dd8e9------2) (2 years ago)
-- [Switch easily between multiple kubernetes version on MacOs](https://faun.pub/switch-easily-between-multiple-kubernetes-version-on-macos-9d61b9bc8287?source=rss-9a58464dd8e9------2) (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
