@@ -25,13 +25,13 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ([1.0.0](https://github.com/awesome-selfhosted/awesome-selfhosted/releases/tag/1.0.0), 3 days ago) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([hooks/open-telemetry/v0.3.0](https://github.com/open-feature/go-sdk-contrib/releases/tag/hooks/open-telemetry/v0.3.0), 4 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.hooks.otel-v2.1.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.hooks.otel-v2.1.0), 4 days ago) - Community contributions for hooks and reference providers
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ([1.0.0](https://github.com/awesome-selfhosted/awesome-selfhosted/releases/tag/1.0.0), 4 days ago) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([hooks/open-telemetry/v0.3.0](https://github.com/open-feature/go-sdk-contrib/releases/tag/hooks/open-telemetry/v0.3.0), 5 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.hooks.otel-v2.1.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.hooks.otel-v2.1.0), 5 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (4 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (5 days ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (1 week ago)
 - [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments (2 weeks ago)
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop. (2 weeks ago)
@@ -49,7 +49,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 - [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸 (1 week ago)
 - [AloisReitbauer/open-source-canvas](https://github.com/AloisReitbauer/open-source-canvas) -  (1 week ago)
-- [dyladan/component-owners](https://github.com/dyladan/component-owners) - Automatically add component owners as assignees and approvers to pull requests (1 week ago)
+- [dyladan/component-owners](https://github.com/dyladan/component-owners) - Automatically add component owners as assignees and approvers to pull requests (2 weeks ago)
 
 #### 📚 Latest Blog posts
 
