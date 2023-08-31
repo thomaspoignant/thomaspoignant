@@ -47,13 +47,13 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (4 days ago)
+- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (5 days ago)
 - [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸 (2 weeks ago)
 - [AloisReitbauer/open-source-canvas](https://github.com/AloisReitbauer/open-source-canvas) -  (2 weeks ago)
 
 #### 📚 Latest Blog posts
 
-- [Implement Vendor Agnostic Feature Flags in your Node.js Application using OpenFeature ](https://faun.pub/implement-vendor-agnostic-feature-flags-in-your-node-js-application-using-openfeature-b89fde448f6c?source=rss-9a58464dd8e9------2) (1 week ago)
+- [Implement Vendor Agnostic Feature Flags in your Node.js Application using OpenFeature ](https://faun.pub/implement-vendor-agnostic-feature-flags-in-your-node-js-application-using-openfeature-b89fde448f6c?source=rss-9a58464dd8e9------2) (2 weeks ago)
 - [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (1 year ago)
 - [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (2 years ago)
 - [How To Design Pipelines and Sort by Dependencies in Python](https://betterprogramming.pub/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (2 years ago)
