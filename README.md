@@ -65,5 +65,5 @@ If you find my open source contributions valuable, please consider [sponsoring m
 #### 👯 Check out some of my recent followers
 
 - [Irishgeoff12](https://github.com/Irishgeoff12)
-- [bassistdev](https://github.com/bassistdev)
+- [williandandrade](https://github.com/williandandrade)
 - [islooper](https://github.com/islooper)
