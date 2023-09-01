@@ -31,9 +31,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 week ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (2 weeks ago)
-- [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments (2 weeks ago)
+- [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments (3 weeks ago)
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop. (3 weeks ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (3 weeks ago)
 
@@ -47,7 +47,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (5 days ago)
+- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (6 days ago)
 - [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸 (2 weeks ago)
 - [AloisReitbauer/open-source-canvas](https://github.com/AloisReitbauer/open-source-canvas) -  (2 weeks ago)
 
