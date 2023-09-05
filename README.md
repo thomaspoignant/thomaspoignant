@@ -25,9 +25,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.28](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.28), today) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.6.0](https://github.com/open-feature/java-sdk/releases/tag/v1.6.0), 1 day ago) - Java implementation of the OpenFeature SDK
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.15.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.15.1), 4 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ([1.0.0](https://github.com/awesome-selfhosted/awesome-selfhosted/releases/tag/1.0.0), 2 weeks ago) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 #### 👷 Check out what I'm currently working on
 
