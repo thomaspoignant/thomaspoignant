@@ -25,15 +25,15 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.28](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.28), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.6.0](https://github.com/open-feature/java-sdk/releases/tag/v1.6.0), 3 days ago) - Java implementation of the OpenFeature SDK
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.15.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.15.1), 6 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.28](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.28), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.6.0](https://github.com/open-feature/java-sdk/releases/tag/v1.6.0), 4 days ago) - Java implementation of the OpenFeature SDK
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.15.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.15.1), 1 week ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (3 weeks ago)
-- [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments (3 weeks ago)
+- [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments (4 weeks ago)
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop. (1 month ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 month ago)
 
