@@ -25,9 +25,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v1.3.0](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v1.3.0), today) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.6.1](https://github.com/open-feature/java-sdk/releases/tag/v1.6.1), today) - Java implementation of the OpenFeature SDK
 - [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.2.0](https://github.com/open-feature/python-sdk/releases/tag/v0.2.0), 1 day ago) - Python SDK for OpenFeature
-- [open-feature/spec](https://github.com/open-feature/spec) ([v0.7.0](https://github.com/open-feature/spec/releases/tag/v0.7.0), 3 days ago) - OpenFeature specification
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.28](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.28), 6 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
