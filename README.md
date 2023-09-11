@@ -25,13 +25,13 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.2.0](https://github.com/open-feature/python-sdk/releases/tag/v0.2.0), today) - Python SDK for OpenFeature
-- [open-feature/spec](https://github.com/open-feature/spec) ([v0.7.0](https://github.com/open-feature/spec/releases/tag/v0.7.0), 2 days ago) - OpenFeature specification
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.28](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.28), 5 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.2.0](https://github.com/open-feature/python-sdk/releases/tag/v0.2.0), 1 day ago) - Python SDK for OpenFeature
+- [open-feature/spec](https://github.com/open-feature/spec) ([v0.7.0](https://github.com/open-feature/spec/releases/tag/v0.7.0), 3 days ago) - OpenFeature specification
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.28](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.28), 6 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (4 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (5 days ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (3 weeks ago)
 - [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments (1 month ago)
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop. (1 month ago)
@@ -48,7 +48,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 #### ⭐ Recent Stars
 
 - [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (2 weeks ago)
-- [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸 (3 weeks ago)
+- [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸 (4 weeks ago)
 - [AloisReitbauer/open-source-canvas](https://github.com/AloisReitbauer/open-source-canvas) -  (4 weeks ago)
 
 #### 📚 Latest Blog posts
