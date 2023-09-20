@@ -48,7 +48,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 #### ⭐ Recent Stars
 
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 day ago)
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (3 weeks ago)
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (3 weeks ago)
 - [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸 (1 month ago)
 
 #### 📚 Latest Blog posts
