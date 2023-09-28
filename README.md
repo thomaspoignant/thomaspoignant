@@ -25,9 +25,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.6.4](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.6.4), today) - Community contributions for hooks and reference providers
 - [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.3.1](https://github.com/open-feature/python-sdk/releases/tag/v0.3.1), today) - Python SDK for OpenFeature
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.8.0](https://github.com/open-feature/go-sdk/releases/tag/v1.8.0), 1 day ago) - Go SDK for OpenFeature
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.15.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.15.2), 3 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
@@ -61,9 +61,10 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [andrebenedetti](https://github.com/andrebenedetti) (today)
 
 #### 👯 Check out some of my recent followers
 
+- [andrebenedetti](https://github.com/andrebenedetti)
 - [karanrn](https://github.com/karanrn)
 - [Irishgeoff12](https://github.com/Irishgeoff12)
-- [williandandrade](https://github.com/williandandrade)
