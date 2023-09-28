@@ -25,15 +25,15 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.15.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.15.2), 2 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.3.0](https://github.com/open-feature/python-sdk/releases/tag/v0.3.0), 2 days ago) - Python SDK for OpenFeature
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.6.3](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.6.3), 5 days ago) - Community contributions for hooks and reference providers
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.8.0](https://github.com/open-feature/go-sdk/releases/tag/v1.8.0), 1 day ago) - Go SDK for OpenFeature
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.15.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.15.2), 3 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.3.0](https://github.com/open-feature/python-sdk/releases/tag/v0.3.0), 3 days ago) - Python SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (2 days ago)
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (6 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (3 days ago)
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (3 days ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification (1 month ago)
 
@@ -47,7 +47,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs (4 days ago)
+- [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs (5 days ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 week ago)
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 month ago)
 
