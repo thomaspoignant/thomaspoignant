@@ -25,8 +25,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.6.5](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.6.5), 1 day ago) - Community contributions for hooks and reference providers
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.29](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.29), 6 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.6.6](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.6.6), today) - Community contributions for hooks and reference providers
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/unleash/v0.0.2-alpha](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/unleash/v0.0.2-alpha), today) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.3.1](https://github.com/open-feature/python-sdk/releases/tag/v0.3.1), 1 week ago) - Python SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
