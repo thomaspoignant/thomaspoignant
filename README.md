@@ -25,9 +25,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.17.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.17.0), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.4.0](https://github.com/open-feature/python-sdk/releases/tag/v0.4.0), 2 days ago) - Python SDK for OpenFeature
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/harness/v0.0.3-alpha](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/harness/v0.0.3-alpha), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.jsonlogic-v1.0.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.jsonlogic-v1.0.1), 1 week ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
@@ -47,9 +47,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) - Swift implementation of the OpenFeature SDK for iOS clients (today)
 - [Unleash/yggdrasil](https://github.com/Unleash/yggdrasil) -  (1 week ago)
 - [google/cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go) (1 week ago)
-- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability. (2 weeks ago)
 
 #### 📚 Latest Blog posts
 
