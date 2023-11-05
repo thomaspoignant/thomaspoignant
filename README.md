@@ -61,7 +61,6 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [andrebenedetti](https://github.com/andrebenedetti) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
