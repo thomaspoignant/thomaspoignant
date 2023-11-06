@@ -25,7 +25,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([kotlin-provider-v0.0.1-beta.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/kotlin-provider-v0.0.1-beta.2), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([python-provider-v0.0.2-beta.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/python-provider-v0.0.2-beta.1), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.4.0](https://github.com/open-feature/python-sdk/releases/tag/v0.4.0), 5 days ago) - Python SDK for OpenFeature
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/harness/v0.0.3-alpha](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/harness/v0.0.3-alpha), 5 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 
