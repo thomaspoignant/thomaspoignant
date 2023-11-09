@@ -47,9 +47,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [efugier/pipelm](https://github.com/efugier/pipelm) - [WIP] Integrating language models in the Unix commands ecosystem  (today)
 - [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) - Swift implementation of the OpenFeature SDK for iOS clients (6 days ago)
 - [Unleash/yggdrasil](https://github.com/Unleash/yggdrasil) -  (1 week ago)
-- [google/cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go) (2 weeks ago)
 
 #### 📚 Latest Blog posts
 
