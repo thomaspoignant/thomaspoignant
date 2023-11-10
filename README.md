@@ -47,7 +47,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [efugier/pipelm](https://github.com/efugier/pipelm) - [WIP] Integrating language models in the Unix commands ecosystem  (1 day ago)
+- [efugier/smartcat](https://github.com/efugier/smartcat) - [WIP] Integrating language models in the Unix commands ecosystem  (1 day ago)
 - [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) - Swift implementation of the OpenFeature SDK for iOS clients (1 week ago)
 - [Unleash/yggdrasil](https://github.com/Unleash/yggdrasil) -  (2 weeks ago)
 
