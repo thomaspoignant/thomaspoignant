@@ -25,13 +25,13 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.4.1](https://github.com/open-feature/python-sdk/releases/tag/v0.4.1), 3 days ago) - Python SDK for OpenFeature
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([python-provider-v0.0.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/python-provider-v0.0.2), 5 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.4.1](https://github.com/open-feature/python-sdk/releases/tag/v0.4.1), 4 days ago) - Python SDK for OpenFeature
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([python-provider-v0.0.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/python-provider-v0.0.2), 6 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/harness/v0.0.3-alpha](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/harness/v0.0.3-alpha), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (3 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (4 days ago)
 - [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) - Kotlin implementation of the OpenFeature SDK for Android clients (1 week ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (2 weeks ago)
@@ -47,7 +47,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind cat🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams. (2 days ago)
+- [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind cat🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams. (3 days ago)
 - [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) - Swift implementation of the OpenFeature SDK for iOS clients (1 week ago)
 - [Unleash/yggdrasil](https://github.com/Unleash/yggdrasil) -  (2 weeks ago)
 
