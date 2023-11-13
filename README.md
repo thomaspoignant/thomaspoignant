@@ -25,9 +25,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) ([v0.1.0](https://github.com/open-feature/kotlin-sdk/releases/tag/v0.1.0), today) - Kotlin implementation of the OpenFeature SDK for Android clients
 - [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.4.1](https://github.com/open-feature/python-sdk/releases/tag/v0.4.1), 5 days ago) - Python SDK for OpenFeature
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/harness/v0.0.3-alpha](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/harness/v0.0.3-alpha), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.jsonlogic-v1.0.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.jsonlogic-v1.0.1), 2 weeks ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
@@ -47,7 +47,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind cat🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams. (4 days ago)
+- [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams. (4 days ago)
 - [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) - Swift implementation of the OpenFeature SDK for iOS clients (1 week ago)
 - [Unleash/yggdrasil](https://github.com/Unleash/yggdrasil) -  (2 weeks ago)
 
