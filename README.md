@@ -25,17 +25,17 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) ([v0.1.0](https://github.com/open-feature/kotlin-sdk/releases/tag/v0.1.0), 1 day ago) - Kotlin implementation of the OpenFeature SDK for Android clients
-- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.4.1](https://github.com/open-feature/python-sdk/releases/tag/v0.4.1), 6 days ago) - Python SDK for OpenFeature
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/harness/v0.0.3-alpha](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/harness/v0.0.3-alpha), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.1.18](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.1.18), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) ([v0.1.0](https://github.com/open-feature/kotlin-sdk/releases/tag/v0.1.0), 2 days ago) - Kotlin implementation of the OpenFeature SDK for Android clients
+- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) ([v0.4.1](https://github.com/open-feature/python-sdk/releases/tag/v0.4.1), 1 week ago) - Python SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
 - [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) - Kotlin implementation of the OpenFeature SDK for Android clients (1 week ago)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (2 weeks ago)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (3 weeks ago)
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -47,13 +47,13 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) - Kotlin implementation of the OpenFeature SDK for Android clients (1 day ago)
-- [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams. (5 days ago)
+- [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) - Kotlin implementation of the OpenFeature SDK for Android clients (2 days ago)
+- [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams. (6 days ago)
 - [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) - Swift implementation of the OpenFeature SDK for iOS clients (1 week ago)
 
 #### 📚 Latest Blog posts
 
-- [Implement Vendor Agnostic Feature Flags in your Node.js Application using OpenFeature ](https://faun.pub/implement-vendor-agnostic-feature-flags-in-your-node-js-application-using-openfeature-b89fde448f6c?source=rss-9a58464dd8e9------2) (2 months ago)
+- [Implement Vendor Agnostic Feature Flags in your Node.js Application using OpenFeature ](https://faun.pub/implement-vendor-agnostic-feature-flags-in-your-node-js-application-using-openfeature-b89fde448f6c?source=rss-9a58464dd8e9------2) (3 months ago)
 - [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (1 year ago)
 - [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (2 years ago)
 - [How To Design Pipelines and Sort by Dependencies in Python](https://betterprogramming.pub/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (2 years ago)
