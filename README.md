@@ -25,7 +25,7 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flipt/v0.1.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flipt/v0.1.1), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.31](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.31), today) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.configcat-v0.0.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.configcat-v0.0.2), 1 day ago) - Community contributions for hooks and reference providers
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.18.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.18.2), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 
@@ -64,6 +64,6 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [stanislavpol00](https://github.com/stanislavpol00)
 - [andrebenedetti](https://github.com/andrebenedetti)
 - [karanrn](https://github.com/karanrn)
-- [Irishgeoff12](https://github.com/Irishgeoff12)
