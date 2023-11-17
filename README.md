@@ -25,15 +25,15 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.configcat-v0.0.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.configcat-v0.0.2), today) - Community contributions for hooks and reference providers
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.18.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.18.2), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.1.18](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.1.18), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flipt/v0.1.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flipt/v0.1.1), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.configcat-v0.0.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.configcat-v0.0.2), 1 day ago) - Community contributions for hooks and reference providers
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.18.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.18.2), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 days ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (3 days ago)
 - [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) - Kotlin implementation of the OpenFeature SDK for Android clients (1 week ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (2 weeks ago)
 
@@ -47,9 +47,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) - Kotlin implementation of the OpenFeature SDK for Android clients (3 days ago)
+- [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) - Kotlin implementation of the OpenFeature SDK for Android clients (4 days ago)
 - [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams. (1 week ago)
-- [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) - Swift implementation of the OpenFeature SDK for iOS clients (1 week ago)
+- [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) - Swift implementation of the OpenFeature SDK for iOS clients (2 weeks ago)
 
 #### 📚 Latest Blog posts
 
