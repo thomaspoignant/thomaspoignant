@@ -47,9 +47,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [andrewdmaclean/awesome-feature-flag-management](https://github.com/andrewdmaclean/awesome-feature-flag-management) - A curated list of awesome resources related to feature flagging &amp; management 🚩 (today)
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (1 week ago)
 - [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) - Kotlin implementation of the OpenFeature SDK for Android clients (3 weeks ago)
-- [efugier/smartcat](https://github.com/efugier/smartcat) - Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams. (1 month ago)
 
 #### 📚 Latest Blog posts
 
