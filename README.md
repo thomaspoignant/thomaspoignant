@@ -25,9 +25,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) ([v0.2.0](https://github.com/open-feature/kotlin-sdk/releases/tag/v0.2.0), today) - Kotlin implementation of the OpenFeature SDK for Android clients
 - [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.7.2](https://github.com/open-feature/java-sdk/releases/tag/v1.7.2), 5 days ago) - Java implementation of the OpenFeature SDK
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.32](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.32), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.9.0](https://github.com/open-feature/go-sdk/releases/tag/v1.9.0), 1 week ago) - Go SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
