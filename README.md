@@ -25,8 +25,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.env-var-v0.0.5](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.env-var-v0.0.5), today) - Community contributions for hooks and reference providers
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.GOFeatureFlag-v0.1.5](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.GOFeatureFlag-v0.1.5), 1 day ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v0.2.18](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v0.2.18), 1 day ago) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.1.20](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.1.20), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
