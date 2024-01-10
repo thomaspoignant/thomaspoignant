@@ -64,6 +64,6 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [a-ushakov-31293](https://github.com/a-ushakov-31293)
 - [lukas-reining](https://github.com/lukas-reining)
 - [stanislavpol00](https://github.com/stanislavpol00)
-- [andrebenedetti](https://github.com/andrebenedetti)
