@@ -25,9 +25,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.configcat-v0.0.3](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.configcat-v0.0.3), today) - Community contributions for hooks and reference providers
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.22.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.22.0), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Hooks.Otel-v0.1.4](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Hooks.Otel-v0.1.4), 4 days ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.1.21](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.1.21), 4 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
@@ -47,9 +47,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (today)
 - [andrewdmaclean/awesome-feature-flag-management](https://github.com/andrewdmaclean/awesome-feature-flag-management) - A curated list of awesome resources related to feature flagging &amp; management 🚩 (1 month ago)
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (2 months ago)
-- [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) - Kotlin implementation of the OpenFeature SDK for Android clients (2 months ago)
 
 #### 📚 Latest Blog posts
 
