@@ -47,9 +47,9 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [spotify/confidence-openfeature-provider-swift](https://github.com/spotify/confidence-openfeature-provider-swift) -  (today)
 - [open-feature/python-sdk-contrib](https://github.com/open-feature/python-sdk-contrib) - Community contributions for hooks and reference providers in python (2 days ago)
 - [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (3 days ago)
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (1 week ago)
 
 #### 📚 Latest Blog posts
 
