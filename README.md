@@ -25,14 +25,14 @@ If you find my open source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.statsig-v0.0.3](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.statsig-v0.0.3), 2 days ago) - Community contributions for hooks and reference providers
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.7.4](https://github.com/open-feature/java-sdk/releases/tag/v1.7.4), 4 days ago) - Java implementation of the OpenFeature SDK
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/configcat/v0.2.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/configcat/v0.2.1), 5 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.statsig-v0.0.3](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.statsig-v0.0.3), 3 days ago) - Community contributions for hooks and reference providers
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.7.4](https://github.com/open-feature/java-sdk/releases/tag/v1.7.4), 5 days ago) - Java implementation of the OpenFeature SDK
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/configcat/v0.2.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/configcat/v0.2.1), 6 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (1 day ago)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 day ago)
+- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (2 days ago)
+- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 days ago)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 week ago)
 - [thomaspoignant/curriculum-vitae](https://github.com/thomaspoignant/curriculum-vitae) - CV in French and English (1 week ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 month ago)
