@@ -8,19 +8,19 @@
 My name is Thomas Poignant. I live in Paris 🇫🇷 and my timezone is UTC+2.  
 I am an AWS Community Builder.
 
-The open source projects that I'm currently focusing on are:
+The open-source projects that I'm currently focusing on are:
 - [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) _- Feature flags solution written in Golang._
+- [open-feature](https://github.com/open-feature) _- OpenFeature is an open specification that provides a vendor-agnostic, community-driven API for feature flagging that works with your favorite feature flag management tool or in-house solution._
 - [scim-patch](https://github.com/thomaspoignant/scim-patch) _- SCIM Patch library for nodejs._
+
+I've also contributed to:
 - [scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) _- parse and filter SCIM queries._
 - [mac-dev-setup](https://github.com/thomaspoignant/mac-dev-setup) _- script to install your developer environment on your mac._
 - [yamllint-checkstyle](https://github.com/thomaspoignant/yamllint-checkstyle) _- convert yamlint results into checkstyle_.
-
-I've also contribute to:
-- [open-feature](https://github.com/open-feature)
 - [bitfield/script](https://github.com/bitfield/script)
 - [aws/aws-cdk](https://github.com/aws/aws-cdk)
 
-If you find my open source contributions valuable, please consider [sponsoring me on GitHub](https://github.com/sponsors/thomaspoignant/).
+If you find my open-source contributions valuable, please consider [sponsoring me on GitHub](https://github.com/sponsors/thomaspoignant/).
 
 -----------
 #### 🚀 Latest releases I've contributed to
@@ -31,8 +31,8 @@ If you find my open source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (3 days ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (3 days ago)
+- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (3 days ago)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 week ago)
 - [thomaspoignant/curriculum-vitae](https://github.com/thomaspoignant/curriculum-vitae) - CV in French and English (1 week ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 month ago)
