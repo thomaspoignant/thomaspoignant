@@ -31,8 +31,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (2 days ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (5 days ago)
+- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (3 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (6 days ago)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (2 weeks ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (3 weeks ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (2 months ago)
