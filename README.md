@@ -64,6 +64,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
-- [Thalfish](https://github.com/Thalfish)
 - [shakibHossain](https://github.com/shakibHossain)
 - [samuelgiorno](https://github.com/samuelgiorno)
+- [christophesube](https://github.com/christophesube)
