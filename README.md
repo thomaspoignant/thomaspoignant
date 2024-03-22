@@ -31,11 +31,11 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
+- [open-feature/contribfest-eu-24](https://github.com/open-feature/contribfest-eu-24) - contribfest-eu-24 (today)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
 - [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (2 weeks ago)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 month ago)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -47,9 +47,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [open-feature/kubecon-eu-2024-demo](https://github.com/open-feature/kubecon-eu-2024-demo) -  (today)
 - [pablor21/echo-etag](https://github.com/pablor21/echo-etag) - Etag middleware for Echo Framework (1 week ago)
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows. (3 weeks ago)
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) (3 weeks ago)
 
 #### 📚 Latest Blog posts
 
