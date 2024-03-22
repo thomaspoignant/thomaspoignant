@@ -47,9 +47,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [open-feature/contribfest-eu-24](https://github.com/open-feature/contribfest-eu-24) - contribfest-eu-24 (today)
 - [open-feature/kubecon-eu-2024-demo](https://github.com/open-feature/kubecon-eu-2024-demo) -  (today)
 - [pablor21/echo-etag](https://github.com/pablor21/echo-etag) - Etag middleware for Echo Framework (1 week ago)
-- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows. (3 weeks ago)
 
 #### 📚 Latest Blog posts
 
