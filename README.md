@@ -25,15 +25,15 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/from-env/v0.1.4](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/from-env/v0.1.4), today) - Community maintained OpenFeature Providers and Hooks for Go
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.24.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.24.1), 2 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.7.6](https://github.com/open-feature/java-sdk/releases/tag/v1.7.6), 4 days ago) - Java implementation of the OpenFeature SDK
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/from-env/v0.1.4](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/from-env/v0.1.4), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.24.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.24.1), 3 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.7.6](https://github.com/open-feature/java-sdk/releases/tag/v1.7.6), 5 days ago) - Java implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 day ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
-- [open-feature/contribfest-eu-24](https://github.com/open-feature/contribfest-eu-24) - contribfest-eu-24 (4 days ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (2 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [open-feature/contribfest-eu-24](https://github.com/open-feature/contribfest-eu-24) - contribfest-eu-24 (5 days ago)
 - [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (2 weeks ago)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 month ago)
 
@@ -47,9 +47,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [open-feature/contribfest-eu-24](https://github.com/open-feature/contribfest-eu-24) - contribfest-eu-24 (4 days ago)
-- [open-feature/kubecon-eu-2024-demo](https://github.com/open-feature/kubecon-eu-2024-demo) -  (4 days ago)
-- [pablor21/echo-etag](https://github.com/pablor21/echo-etag) - Etag middleware for Echo Framework (1 week ago)
+- [open-feature/contribfest-eu-24](https://github.com/open-feature/contribfest-eu-24) - contribfest-eu-24 (5 days ago)
+- [open-feature/kubecon-eu-2024-demo](https://github.com/open-feature/kubecon-eu-2024-demo) -  (5 days ago)
+- [pablor21/echo-etag](https://github.com/pablor21/echo-etag) - Etag middleware for Echo Framework (2 weeks ago)
 
 #### 📚 Latest Blog posts
 
