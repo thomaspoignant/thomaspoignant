@@ -25,17 +25,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Statsig-v0.0.3](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Statsig-v0.0.3), 1 day ago) - OpenFeature Providers and Hooks for .NET
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.8.2](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.8.2), 2 days ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
-- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) ([0.2.9](https://github.com/thomaspoignant/scim2-parse-filter/releases/tag/0.2.9), 3 days ago) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser.
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Statsig-v0.0.3](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Statsig-v0.0.3), 2 days ago) - OpenFeature Providers and Hooks for .NET
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.8.2](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.8.2), 3 days ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
+- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) ([0.2.9](https://github.com/thomaspoignant/scim2-parse-filter/releases/tag/0.2.9), 4 days ago) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser.
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (2 days ago)
-- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (3 days ago)
-- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (5 days ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (3 days ago)
+- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (4 days ago)
+- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -47,9 +47,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [open-feature/contribfest-eu-24](https://github.com/open-feature/contribfest-eu-24) - contribfest-eu-24 (1 week ago)
-- [open-feature/kubecon-eu-2024-demo](https://github.com/open-feature/kubecon-eu-2024-demo) -  (1 week ago)
-- [pablor21/echo-etag](https://github.com/pablor21/echo-etag) - Etag middleware for Echo Framework (3 weeks ago)
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development (1 day ago)
+- [open-feature/contribfest-eu-24](https://github.com/open-feature/contribfest-eu-24) - contribfest-eu-24 (2 weeks ago)
+- [open-feature/kubecon-eu-2024-demo](https://github.com/open-feature/kubecon-eu-2024-demo) -  (2 weeks ago)
 
 #### 📚 Latest Blog posts
 
