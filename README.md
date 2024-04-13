@@ -25,16 +25,16 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.35](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.35), today) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.8.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.8.0), 1 day ago) - Community contributions for hooks and reference providers
-- [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) ([v0.3.0](https://github.com/open-feature/kotlin-sdk/releases/tag/v0.3.0), 2 days ago) - Kotlin implementation of the OpenFeature SDK for Android clients
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.35](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.35), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.8.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.8.0), 2 days ago) - Community contributions for hooks and reference providers
+- [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) ([v0.3.0](https://github.com/open-feature/kotlin-sdk/releases/tag/v0.3.0), 3 days ago) - Kotlin implementation of the OpenFeature SDK for Android clients
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (3 days ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (3 days ago)
-- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) - .NET implementation of the OpenFeature SDK (3 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (3 days ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (4 days ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (4 days ago)
+- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) - .NET implementation of the OpenFeature SDK (4 days ago)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (1 week ago)
 
 #### 🌱 My latest projects
@@ -47,13 +47,13 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (3 days ago)
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (4 days ago)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (4 days ago)
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (5 days ago)
 - [openflagr/flagr](https://github.com/openflagr/flagr) - Flagr is a feature flagging, A/B testing and dynamic configuration microservice (1 week ago)
 
 #### 📚 Latest Blog posts
 
-- [Implement Vendor Agnostic Feature Flags in your Node.js Application using OpenFeature ](https://faun.pub/implement-vendor-agnostic-feature-flags-in-your-node-js-application-using-openfeature-b89fde448f6c?source=rss-9a58464dd8e9------2) (7 months ago)
+- [Implement Vendor Agnostic Feature Flags in your Node.js Application using OpenFeature ](https://faun.pub/implement-vendor-agnostic-feature-flags-in-your-node-js-application-using-openfeature-b89fde448f6c?source=rss-9a58464dd8e9------2) (8 months ago)
 - [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (2 years ago)
 - [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (2 years ago)
 - [How To Design Pipelines and Sort by Dependencies in Python](https://betterprogramming.pub/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (2 years ago)
