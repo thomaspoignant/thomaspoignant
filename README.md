@@ -25,16 +25,16 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.35](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.35), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.8.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.8.0), 3 days ago) - Community contributions for hooks and reference providers
-- [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) ([v0.3.0](https://github.com/open-feature/kotlin-sdk/releases/tag/v0.3.0), 4 days ago) - Kotlin implementation of the OpenFeature SDK for Android clients
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.35](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.35), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.8.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.8.0), 4 days ago) - Community contributions for hooks and reference providers
+- [open-feature/kotlin-sdk](https://github.com/open-feature/kotlin-sdk) ([v0.3.0](https://github.com/open-feature/kotlin-sdk/releases/tag/v0.3.0), 5 days ago) - Kotlin implementation of the OpenFeature SDK for Android clients
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (4 days ago)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (5 days ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (5 days ago)
-- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) - .NET implementation of the OpenFeature SDK (5 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (5 days ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (6 days ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (6 days ago)
+- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) - .NET implementation of the OpenFeature SDK (6 days ago)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (1 week ago)
 
 #### 🌱 My latest projects
@@ -47,9 +47,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization (1 day ago)
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (5 days ago)
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (6 days ago)
+- [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization (2 days ago)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (6 days ago)
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (1 week ago)
 
 #### 📚 Latest Blog posts
 
