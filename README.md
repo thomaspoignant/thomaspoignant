@@ -25,14 +25,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Statsig-v0.0.4](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Statsig-v0.0.4), today) - OpenFeature Providers and Hooks for .NET
-- [open-feature/playground](https://github.com/open-feature/playground) ([v0.15.0](https://github.com/open-feature/playground/releases/tag/v0.15.0), today) - OpenFeature SDK demos and experimentation
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.25.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.25.1), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Statsig-v0.0.4](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Statsig-v0.0.4), 1 day ago) - OpenFeature Providers and Hooks for .NET
+- [open-feature/playground](https://github.com/open-feature/playground) ([v0.15.0](https://github.com/open-feature/playground/releases/tag/v0.15.0), 1 day ago) - OpenFeature SDK demos and experimentation
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.25.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.25.1), 2 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/playground](https://github.com/open-feature/playground) - OpenFeature SDK demos and experimentation (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [open-feature/playground](https://github.com/open-feature/playground) - OpenFeature SDK demos and experimentation (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 week ago)
 - [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) - .NET implementation of the OpenFeature SDK (1 week ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
@@ -47,7 +47,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization (3 days ago)
+- [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization (4 days ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (1 week ago)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (1 week ago)
 
