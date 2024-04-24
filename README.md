@@ -25,16 +25,16 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/playground](https://github.com/open-feature/playground) ([v0.15.2](https://github.com/open-feature/playground/releases/tag/v0.15.2), 2 days ago) - OpenFeature SDK demos and experimentation
-- [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) ([v1.0.1](https://github.com/go-feature-flag/gofeatureflag-lint-action/releases/tag/v1.0.1), 4 days ago) - GitHub Action to lint your GO Feature Flag 🏁 configuration file.
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.26.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.26.0), 5 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/playground](https://github.com/open-feature/playground) ([v0.15.2](https://github.com/open-feature/playground/releases/tag/v0.15.2), 3 days ago) - OpenFeature SDK demos and experimentation
+- [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) ([v1.0.1](https://github.com/go-feature-flag/gofeatureflag-lint-action/releases/tag/v1.0.1), 5 days ago) - GitHub Action to lint your GO Feature Flag 🏁 configuration file.
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.26.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.26.0), 6 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
-- [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (4 days ago)
-- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (4 days ago)
-- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (5 days ago)
+- [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (5 days ago)
+- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (5 days ago)
+- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (6 days ago)
 - [open-feature/playground](https://github.com/open-feature/playground) - OpenFeature SDK demos and experimentation (1 week ago)
 
 #### 🌱 My latest projects
