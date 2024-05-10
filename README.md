@@ -64,6 +64,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [dylanj](https://github.com/dylanj)
 - [sammorozov](https://github.com/sammorozov)
 - [aliykh](https://github.com/aliykh)
-- [shakibHossain](https://github.com/shakibHossain)
