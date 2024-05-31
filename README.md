@@ -25,16 +25,16 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.12.0](https://github.com/open-feature/go-sdk/releases/tag/v1.12.0), 1 day ago) - Go SDK for OpenFeature
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.29.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.29.0), 3 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.37](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.37), 4 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.12.0](https://github.com/open-feature/go-sdk/releases/tag/v1.12.0), 2 days ago) - Go SDK for OpenFeature
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.29.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.29.0), 4 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.37](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.37), 5 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (3 days ago)
 - [go-feature-flag/helm-charts](https://github.com/go-feature-flag/helm-charts) - Repository to store go-feature-flag helm-charts (1 week ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (3 weeks ago)
-- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (3 weeks ago)
+- [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (4 weeks ago)
 - [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (1 month ago)
 
 #### 🌱 My latest projects
