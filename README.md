@@ -64,6 +64,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [shashank-priyadarshi](https://github.com/shashank-priyadarshi)
 - [kevalthakarar](https://github.com/kevalthakarar)
 - [vzip](https://github.com/vzip)
-- [erka](https://github.com/erka)
