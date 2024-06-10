@@ -25,9 +25,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Statsig-v0.0.6](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Statsig-v0.0.6), 1 day ago) - OpenFeature Providers and Hooks for .NET
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.12.0](https://github.com/open-feature/go-sdk/releases/tag/v1.12.0), 1 week ago) - Go SDK for OpenFeature
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.29.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.29.0), 1 week ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.1.37](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.1.37), 2 weeks ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.29.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.29.0), 2 weeks ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
@@ -47,7 +47,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [samber/slog-zap](https://github.com/samber/slog-zap) - 🚨 slog: Zap handler (2 days ago)
+- [samber/slog-zap](https://github.com/samber/slog-zap) - 🚨 slog: Zap handler (3 days ago)
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization (1 month ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (2 months ago)
 
@@ -64,6 +64,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [leovolpatto](https://github.com/leovolpatto)
 - [shashank-priyadarshi](https://github.com/shashank-priyadarshi)
 - [kevalthakarar](https://github.com/kevalthakarar)
-- [vzip](https://github.com/vzip)
