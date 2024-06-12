@@ -25,9 +25,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.30.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.30.0), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Statsig-v0.0.6](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Statsig-v0.0.6), 3 days ago) - OpenFeature Providers and Hooks for .NET
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.12.0](https://github.com/open-feature/go-sdk/releases/tag/v1.12.0), 2 weeks ago) - Go SDK for OpenFeature
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.29.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.29.0), 2 weeks ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
