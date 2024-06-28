@@ -25,9 +25,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.9.0](https://github.com/open-feature/java-sdk/releases/tag/v1.9.0), today) - Java implementation of the OpenFeature SDK
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.ConfigCat-v0.0.3](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.ConfigCat-v0.0.3), 1 day ago) - OpenFeature Providers and Hooks for .NET
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v0.2.22](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v0.2.22), 1 week ago) - Community contributions for hooks and reference providers
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([hooks/open-telemetry/v0.3.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/hooks/open-telemetry/v0.3.3), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
