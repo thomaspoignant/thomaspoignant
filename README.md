@@ -25,9 +25,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) ([v0.1.1](https://github.com/go-feature-flag/openfeature-swift-provider/releases/tag/v0.1.1), today) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.31.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.31.0), 4 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v0.2.23](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v0.2.23), 4 days ago) - Community contributions for hooks and reference providers
-- [open-feature/java-sdk](https://github.com/open-feature/java-sdk) ([v1.9.0](https://github.com/open-feature/java-sdk/releases/tag/v1.9.0), 1 week ago) - Java implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
