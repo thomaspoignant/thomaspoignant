@@ -47,9 +47,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source. (today)
 - [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (1 week ago)
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions. (2 weeks ago)
-- [samber/slog-zap](https://github.com/samber/slog-zap) - 🚨 slog: Zap handler (1 month ago)
 
 #### 📚 Latest Blog posts
 
