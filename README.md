@@ -64,6 +64,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [nicklasl](https://github.com/nicklasl)
 - [myjyby](https://github.com/myjyby)
 - [aepfli](https://github.com/aepfli)
-- [WarDroid23](https://github.com/WarDroid23)
