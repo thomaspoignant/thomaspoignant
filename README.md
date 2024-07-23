@@ -25,8 +25,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.GOFeatureFlag-v0.1.7](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.GOFeatureFlag-v0.1.7), today) - OpenFeature Providers and Hooks for .NET
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.31.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.31.2), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Hooks.Otel-v0.1.5](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Hooks.Otel-v0.1.5), 3 days ago) - OpenFeature Providers and Hooks for .NET
 - [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) ([v0.2.0](https://github.com/go-feature-flag/openfeature-swift-provider/releases/tag/v0.2.0), 2 weeks ago) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻
 
 #### 👷 Check out what I'm currently working on
