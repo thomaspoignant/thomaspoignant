@@ -61,6 +61,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [cybozu](https://github.com/cybozu) (today)
 
 #### 👯 Check out some of my recent followers
 
