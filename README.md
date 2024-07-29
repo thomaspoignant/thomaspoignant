@@ -25,8 +25,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/ofrep/v0.1.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/ofrep/v0.1.3), today) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v1.5.2](https://github.com/open-feature/dotnet-sdk/releases/tag/v1.5.2), 3 days ago) - .NET implementation of the OpenFeature SDK
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/ofrep/v0.1.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/ofrep/v0.1.2), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Hooks.Otel-v0.1.6](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Hooks.Otel-v0.1.6), 4 days ago) - OpenFeature Providers and Hooks for .NET
 
 #### 👷 Check out what I'm currently working on
