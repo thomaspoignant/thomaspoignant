@@ -25,15 +25,15 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.8.3](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.8.3), 1 day ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.32.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.32.0), 2 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/ofrep/v0.1.4](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/ofrep/v0.1.4), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.8.3](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.8.3), 2 days ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.32.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.32.0), 3 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/ofrep/v0.1.4](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/ofrep/v0.1.4), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (1 day ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (2 days ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (3 days ago)
 - [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (1 week ago)
 - [go-feature-flag/flags-config-deployer](https://github.com/go-feature-flag/flags-config-deployer) - A simple repository in charge of publishing to S3 the latest version of your flag configuration (2 weeks ago)
 
@@ -47,8 +47,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! (today)
-- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source. (2 weeks ago)
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! (1 day ago)
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source. (3 weeks ago)
 - [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (4 weeks ago)
 
 #### 📚 Latest Blog posts
