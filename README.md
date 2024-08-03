@@ -65,6 +65,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [fals](https://github.com/fals)
 - [sleelin](https://github.com/sleelin)
 - [zhouxinyu](https://github.com/zhouxinyu)
-- [nicklasl](https://github.com/nicklasl)
