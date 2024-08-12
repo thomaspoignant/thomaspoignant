@@ -65,6 +65,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [afasari](https://github.com/afasari)
 - [vitanovs](https://github.com/vitanovs)
 - [tanvirraj](https://github.com/tanvirraj)
-- [mostafamsallam](https://github.com/mostafamsallam)
