@@ -25,17 +25,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.8.5](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.8.5), 1 week ago) - Community contributions for hooks and reference providers
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.GOFeatureFlag-v0.1.8](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.GOFeatureFlag-v0.1.8), 1 week ago) - OpenFeature Providers and Hooks for .NET
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.8.3](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.8.3), 1 week ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/statsig/v0.0.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/statsig/v0.0.3), today) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.configcat-v0.0.4](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.configcat-v0.0.4), today) - Community contributions for hooks and reference providers
+- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.1](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.1), today) - Community contributions for hooks and reference providers in Ruby
 
 #### 👷 Check out what I'm currently working on
 
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (1 week ago)
+- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) - Community contributions for hooks and reference providers in Ruby (today)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
+- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (1 week ago)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (1 week ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 weeks ago)
 
 #### 🌱 My latest projects
 
