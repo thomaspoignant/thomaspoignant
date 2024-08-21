@@ -47,9 +47,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [open-feature/codegen](https://github.com/open-feature/codegen) - Generate strongly typed flag accessors for OpenFeature (1 day ago)
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model (5 days ago)
 - [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) - Community contributions for hooks and reference providers in Ruby (1 week ago)
+- [open-feature/elixir-sdk](https://github.com/open-feature/elixir-sdk) - Elixir SDK for OpenFeature (2 weeks ago)
 
 #### 📚 Latest Blog posts
 
