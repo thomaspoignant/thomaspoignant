@@ -25,9 +25,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.ConfigCat-v0.1.0](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.ConfigCat-v0.1.0), 1 day ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.0.0](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.0.0), 2 days ago) - .NET implementation of the OpenFeature SDK
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flipt/v0.1.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flipt/v0.1.2), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.ConfigCat-v0.1.0](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.ConfigCat-v0.1.0), 2 days ago) - OpenFeature Providers and Hooks for .NET
+- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.0.0](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.0.0), 3 days ago) - .NET implementation of the OpenFeature SDK
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flipt/v0.1.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flipt/v0.1.2), 4 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
@@ -49,7 +49,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model (1 week ago)
 - [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) - Community contributions for hooks and reference providers in Ruby (1 week ago)
-- [open-feature/elixir-sdk](https://github.com/open-feature/elixir-sdk) - Elixir SDK for OpenFeature (2 weeks ago)
+- [open-feature/elixir-sdk](https://github.com/open-feature/elixir-sdk) - Elixir SDK for OpenFeature (3 weeks ago)
 
 #### 📚 Latest Blog posts
 
@@ -61,7 +61,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [cybozu](https://github.com/cybozu) (4 weeks ago)
+- [cybozu](https://github.com/cybozu) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
