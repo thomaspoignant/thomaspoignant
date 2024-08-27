@@ -25,17 +25,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.ConfigCat-v0.1.0](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.ConfigCat-v0.1.0), 4 days ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.0.0](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.0.0), 5 days ago) - .NET implementation of the OpenFeature SDK
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flipt/v0.1.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flipt/v0.1.2), 6 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.ConfigCat-v0.1.0](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.ConfigCat-v0.1.0), 5 days ago) - OpenFeature Providers and Hooks for .NET
+- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.0.0](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.0.0), 6 days ago) - .NET implementation of the OpenFeature SDK
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flipt/v0.1.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flipt/v0.1.2), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
 - [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (1 week ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 week ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 week ago)
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) - Community contributions for hooks and reference providers in Ruby (1 week ago)
+- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) - Community contributions for hooks and reference providers in Ruby (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -48,7 +48,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 #### ⭐ Recent Stars
 
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model (1 week ago)
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) - Community contributions for hooks and reference providers in Ruby (1 week ago)
+- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) - Community contributions for hooks and reference providers in Ruby (2 weeks ago)
 - [open-feature/elixir-sdk](https://github.com/open-feature/elixir-sdk) - Elixir SDK for OpenFeature (3 weeks ago)
 
 #### 📚 Latest Blog posts
