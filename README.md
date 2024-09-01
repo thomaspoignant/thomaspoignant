@@ -65,6 +65,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [foreverLoveWisdom](https://github.com/foreverLoveWisdom)
 - [ntk221](https://github.com/ntk221)
 - [afasari](https://github.com/afasari)
-- [vitanovs](https://github.com/vitanovs)
