@@ -25,14 +25,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/go-feature-flag-provider-0.1.0](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/go-feature-flag-provider-0.1.0), 1 day ago) - OpenFeature Providers and Hooks for PHP
+- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/otel-hook-1.0.0](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/otel-hook-1.0.0), today) - OpenFeature Providers and Hooks for PHP
 - [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-flagd-provider/v0.1.2](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-flagd-provider/v0.1.2), 5 days ago) - Community contributions for hooks and reference providers in Ruby
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.8.7](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.8.7), 6 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
-- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) - OpenFeature Providers and Hooks for PHP (1 day ago)
+- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) - OpenFeature Providers and Hooks for PHP (today)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
 - [go-feature-flag/helm-charts](https://github.com/go-feature-flag/helm-charts) - Repository to store go-feature-flag helm-charts (2 days ago)
 - [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (2 weeks ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (3 weeks ago)
