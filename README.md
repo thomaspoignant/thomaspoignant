@@ -25,9 +25,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.8.8](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.8.8), today) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.13.0](https://github.com/open-feature/go-sdk/releases/tag/v1.13.0), 1 day ago) - Go SDK for OpenFeature
 - [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/otel-hook-1.0.0](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/otel-hook-1.0.0), 6 days ago) - OpenFeature Providers and Hooks for PHP
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-flagd-provider/v0.1.2](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-flagd-provider/v0.1.2), 1 week ago) - Community contributions for hooks and reference providers in Ruby
 
 #### 👷 Check out what I'm currently working on
 
