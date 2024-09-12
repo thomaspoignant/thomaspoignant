@@ -25,14 +25,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.2.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.2.1), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.8.8](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.8.8), 1 day ago) - Community contributions for hooks and reference providers
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.13.0](https://github.com/open-feature/go-sdk/releases/tag/v1.13.0), 2 days ago) - Go SDK for OpenFeature
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.2.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.2.1), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.8.8](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.8.8), 2 days ago) - Community contributions for hooks and reference providers
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.13.0](https://github.com/open-feature/go-sdk/releases/tag/v1.13.0), 3 days ago) - Go SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 days ago)
 - [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) - OpenFeature Providers and Hooks for PHP (1 week ago)
 - [go-feature-flag/flags-config-deployer](https://github.com/go-feature-flag/flags-config-deployer) - A simple repository in charge of publishing to S3 the latest version of your flag configuration (1 week ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 week ago)
@@ -49,7 +49,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (2 weeks ago)
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model (3 weeks ago)
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) - Community contributions for hooks and reference providers in Ruby (4 weeks ago)
+- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) - Community contributions for hooks and reference providers in Ruby (1 month ago)
 
 #### 📚 Latest Blog posts
 
