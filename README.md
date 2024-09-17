@@ -65,6 +65,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [tranngoclam](https://github.com/tranngoclam)
 - [mdsavian](https://github.com/mdsavian)
 - [mrluanma](https://github.com/mrluanma)
-- [foreverLoveWisdom](https://github.com/foreverLoveWisdom)
