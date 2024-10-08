@@ -9,7 +9,7 @@ My name is Thomas Poignant. I live in Paris 🇫🇷 and my timezone is UTC+2.
 I am an AWS Community Builder.
 
 The open-source projects that I'm currently focusing on are:
-- [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) _- Feature flags solution written in Golang._
+- [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) _- A simple, complete and lightweight self-hosted feature flag solution 100% Open Source. ._
 - [open-feature](https://github.com/open-feature) _- OpenFeature is an open specification that provides a vendor-agnostic, community-driven API for feature flagging that works with your favorite feature flag management tool or in-house solution._
 - [scim-patch](https://github.com/thomaspoignant/scim-patch) _- SCIM Patch library for nodejs._
 
@@ -31,7 +31,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
 - [go-feature-flag/app-api](https://github.com/go-feature-flag/app-api) - API to manage your feature flags. (4 days ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (4 weeks ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 month ago)
