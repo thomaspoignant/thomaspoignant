@@ -25,14 +25,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.36.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.36.0), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.9.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.9.0), 6 days ago) - Community contributions for hooks and reference providers
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.36.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.36.0), 2 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.9.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.9.0), 1 week ago) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/prefab/v0.0.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/prefab/v0.0.2), 3 weeks ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [go-feature-flag/app-api](https://github.com/go-feature-flag/app-api) - API to manage your feature flags. (6 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [go-feature-flag/app-api](https://github.com/go-feature-flag/app-api) - API to manage your feature flags. (1 week ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 month ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 month ago)
 - [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) - OpenFeature Providers and Hooks for PHP (1 month ago)
@@ -48,7 +48,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 #### ⭐ Recent Stars
 
 - [XenitAB/go-oidc-middleware](https://github.com/XenitAB/go-oidc-middleware) - OpenID Connect (OIDC) http middleware for Go (1 week ago)
-- [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic. (2 weeks ago)
+- [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic. (3 weeks ago)
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (1 month ago)
 
 #### 📚 Latest Blog posts
