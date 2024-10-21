@@ -25,8 +25,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.9.3](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.9.3), today) - Community contributions for hooks and reference providers
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flipt-v0.0.5](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flipt-v0.0.5), 3 days ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.9.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.9.2), 5 days ago) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/prefab/v0.0.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/prefab/v0.0.2), 1 month ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
