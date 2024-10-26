@@ -61,6 +61,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [clemsau](https://github.com/clemsau) (today)
 - [cybozu](https://github.com/cybozu) (3 months ago)
 
 #### 👯 Check out some of my recent followers
