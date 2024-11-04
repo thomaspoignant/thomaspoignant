@@ -66,6 +66,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [cesc1802](https://github.com/cesc1802)
 - [eust-w](https://github.com/eust-w)
 - [tomflenner](https://github.com/tomflenner)
-- [tranngoclam](https://github.com/tranngoclam)
