@@ -25,14 +25,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.38.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.38.0), 3 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flipt/v0.1.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flipt/v0.1.3), 4 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.10.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.10.0), 1 week ago) - Community contributions for hooks and reference providers
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.38.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.38.0), 4 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flipt/v0.1.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flipt/v0.1.3), 5 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.10.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.10.0), 2 weeks ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [go-feature-flag/app-api](https://github.com/go-feature-flag/app-api) - API to manage your feature flags. (5 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [go-feature-flag/app-api](https://github.com/go-feature-flag/app-api) - API to manage your feature flags. (6 days ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (3 weeks ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 months ago)
 - [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) - OpenFeature Providers and Hooks for PHP (2 months ago)
@@ -47,7 +47,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [atc0005/go-teams-notify](https://github.com/atc0005/go-teams-notify) - A package to send messages to a Microsoft Teams channel (3 days ago)
+- [atc0005/go-teams-notify](https://github.com/atc0005/go-teams-notify) - A package to send messages to a Microsoft Teams channel (4 days ago)
 - [XenitAB/go-oidc-middleware](https://github.com/XenitAB/go-oidc-middleware) - OpenID Connect (OIDC) http middleware for Go (1 month ago)
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic. (1 month ago)
 
@@ -61,8 +61,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [giulbia](https://github.com/giulbia) (5 days ago)
-- [efugier](https://github.com/efugier) (6 days ago)
+- [giulbia](https://github.com/giulbia) (6 days ago)
+- [efugier](https://github.com/efugier) (1 week ago)
 - [clemsau](https://github.com/clemsau) (2 weeks ago)
 - [cybozu](https://github.com/cybozu) (3 months ago)
 
