@@ -31,7 +31,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (6 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 week ago)
 - [go-feature-flag/app-api](https://github.com/go-feature-flag/app-api) - API to manage your feature flags. (1 week ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 month ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 months ago)
@@ -47,7 +47,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [open-feature/toggle-shop](https://github.com/open-feature/toggle-shop) - ToggleShop is a demo e-commerce app for showcasing OpenFeature (1 day ago)
+- [open-feature/toggle-shop](https://github.com/open-feature/toggle-shop) - ToggleShop is a demo e-commerce app for showcasing OpenFeature (2 days ago)
 - [atc0005/go-teams-notify](https://github.com/atc0005/go-teams-notify) - A package to send messages to a Microsoft Teams channel (1 week ago)
 - [XenitAB/go-oidc-middleware](https://github.com/XenitAB/go-oidc-middleware) - OpenID Connect (OIDC) http middleware for Go (1 month ago)
 
