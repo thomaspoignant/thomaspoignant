@@ -25,15 +25,15 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v0.4.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v0.4.0), 1 day ago) - Community contributions for hooks and reference providers
-- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.1.0](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.1.0), 4 days ago) - .NET implementation of the OpenFeature SDK
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v0.4.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v0.4.0), 2 days ago) - Community contributions for hooks and reference providers
+- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.1.0](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.1.0), 5 days ago) - .NET implementation of the OpenFeature SDK
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.38.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.38.0), 2 weeks ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) -  (1 day ago)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) -  (2 days ago)
+- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 days ago)
 - [go-feature-flag/app-api](https://github.com/go-feature-flag/app-api) - API to manage your feature flags. (2 weeks ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 month ago)
 
@@ -47,7 +47,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [open-feature/toggle-shop](https://github.com/open-feature/toggle-shop) - ToggleShop is a demo e-commerce app for showcasing OpenFeature (6 days ago)
+- [open-feature/toggle-shop](https://github.com/open-feature/toggle-shop) - ToggleShop is a demo e-commerce app for showcasing OpenFeature (1 week ago)
 - [atc0005/go-teams-notify](https://github.com/atc0005/go-teams-notify) - A package to send messages to a Microsoft Teams channel (2 weeks ago)
 - [XenitAB/go-oidc-middleware](https://github.com/XenitAB/go-oidc-middleware) - OpenID Connect (OIDC) http middleware for Go (1 month ago)
 
@@ -63,7 +63,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 - [giulbia](https://github.com/giulbia) (2 weeks ago)
 - [efugier](https://github.com/efugier) (2 weeks ago)
-- [clemsau](https://github.com/clemsau) (3 weeks ago)
+- [clemsau](https://github.com/clemsau) (4 weeks ago)
 - [cybozu](https://github.com/cybozu) (4 months ago)
 
 #### 👯 Check out some of my recent followers
