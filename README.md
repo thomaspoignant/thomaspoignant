@@ -32,8 +32,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 #### 👷 Check out what I'm currently working on
 
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) -  (2 days ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 days ago)
+- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) -  (2 days ago)
 - [go-feature-flag/app-api](https://github.com/go-feature-flag/app-api) - API to manage your feature flags. (2 weeks ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 month ago)
 
