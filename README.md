@@ -67,6 +67,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [reed6868](https://github.com/reed6868)
 - [opmarq](https://github.com/opmarq)
 - [joshbrgs](https://github.com/joshbrgs)
-- [Arzanico](https://github.com/Arzanico)
