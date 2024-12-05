@@ -47,9 +47,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (today)
 - [open-feature/toggle-shop](https://github.com/open-feature/toggle-shop) - ToggleShop is a demo e-commerce app for showcasing OpenFeature (2 weeks ago)
 - [atc0005/go-teams-notify](https://github.com/atc0005/go-teams-notify) - A package to send messages to a Microsoft Teams channel (3 weeks ago)
-- [XenitAB/go-oidc-middleware](https://github.com/XenitAB/go-oidc-middleware) - OpenID Connect (OIDC) http middleware for Go (2 months ago)
 
 #### 📚 Latest Blog posts
 
