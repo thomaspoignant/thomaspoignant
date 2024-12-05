@@ -25,17 +25,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.tools.junitopenfeature-v0.1.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.tools.junitopenfeature-v0.1.2), 1 day ago) - Community contributions for hooks and reference providers
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.2](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.2), 2 days ago) - Community contributions for hooks and reference providers in Ruby
-- [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) ([v1.1.0](https://github.com/go-feature-flag/gofeatureflag-lint-action/releases/tag/v1.1.0), 1 week ago) - GitHub Action to lint your GO Feature Flag 🏁 configuration file.
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([kotlin-provider-v0.1.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/kotlin-provider-v0.1.1), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.tools.junitopenfeature-v0.1.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.tools.junitopenfeature-v0.1.2), 2 days ago) - Community contributions for hooks and reference providers
+- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.2](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.2), 3 days ago) - Community contributions for hooks and reference providers in Ruby
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (2 days ago)
 - [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (1 week ago)
 - [go-feature-flag/flag-management](https://github.com/go-feature-flag/flag-management) - API to manage your feature flags. (1 week ago)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 week ago)
+- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -62,7 +62,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [giulbia](https://github.com/giulbia) (4 weeks ago)
-- [efugier](https://github.com/efugier) (4 weeks ago)
+- [efugier](https://github.com/efugier) (1 month ago)
 - [cybozu](https://github.com/cybozu) (4 months ago)
 
 #### 👯 Check out some of my recent followers
