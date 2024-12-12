@@ -65,6 +65,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [Goldendragon1029](https://github.com/Goldendragon1029)
 - [reed6868](https://github.com/reed6868)
-- [opmarq](https://github.com/opmarq)
