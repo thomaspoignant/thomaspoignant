@@ -25,9 +25,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.2.0](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.2.0), today) - .NET implementation of the OpenFeature SDK
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([kotlin-provider-v0.1.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/kotlin-provider-v0.1.1), 1 week ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.tools.junitopenfeature-v0.1.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.tools.junitopenfeature-v0.1.2), 1 week ago) - Community contributions for hooks and reference providers
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.2](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.2), 1 week ago) - Community contributions for hooks and reference providers in Ruby
 
 #### 👷 Check out what I'm currently working on
 
