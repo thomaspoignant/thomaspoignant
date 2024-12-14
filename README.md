@@ -25,15 +25,15 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) ([0.2.1](https://github.com/open-feature/swift-sdk/releases/tag/0.2.1), today) - Swift implementation of the OpenFeature SDK for iOS clients
-- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.2.0](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.2.0), 1 day ago) - .NET implementation of the OpenFeature SDK
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([kotlin-provider-v0.1.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/kotlin-provider-v0.1.1), 1 week ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.40.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.40.0), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) ([0.2.1](https://github.com/open-feature/swift-sdk/releases/tag/0.2.1), 1 day ago) - Swift implementation of the OpenFeature SDK for iOS clients
+- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.2.0](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.2.0), 2 days ago) - .NET implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [go-feature-flag/flag-management](https://github.com/go-feature-flag/flag-management) - API to manage your feature flags. (3 days ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [go-feature-flag/flag-management](https://github.com/go-feature-flag/flag-management) - API to manage your feature flags. (4 days ago)
 - [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (2 weeks ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (3 weeks ago)
 
@@ -47,9 +47,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (6 days ago)
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (1 week ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (1 week ago)
-- [open-feature/toggle-shop](https://github.com/open-feature/toggle-shop) - ToggleShop is a demo e-commerce app for showcasing OpenFeature (3 weeks ago)
+- [open-feature/toggle-shop](https://github.com/open-feature/toggle-shop) - ToggleShop is a demo e-commerce app for showcasing OpenFeature (4 weeks ago)
 
 #### 📚 Latest Blog posts
 
