@@ -32,7 +32,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 #### 👷 Check out what I'm currently working on
 
 - [go-feature-flag/flag-management](https://github.com/go-feature-flag/flag-management) - API to manage your feature flags. (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (3 days ago)
 - [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (3 weeks ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (3 weeks ago)
@@ -47,9 +47,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [jmattheis/goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by defining function signatures. (today)
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (1 week ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (1 week ago)
-- [open-feature/toggle-shop](https://github.com/open-feature/toggle-shop) - ToggleShop is a demo e-commerce app for showcasing OpenFeature (1 month ago)
 
 #### 📚 Latest Blog posts
 
