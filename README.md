@@ -25,15 +25,15 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.40.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.40.0), 4 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) ([0.2.1](https://github.com/open-feature/swift-sdk/releases/tag/0.2.1), 4 days ago) - Swift implementation of the OpenFeature SDK for iOS clients
-- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.2.0](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.2.0), 5 days ago) - .NET implementation of the OpenFeature SDK
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.40.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.40.0), 5 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) ([0.2.1](https://github.com/open-feature/swift-sdk/releases/tag/0.2.1), 5 days ago) - Swift implementation of the OpenFeature SDK for iOS clients
+- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.2.0](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.2.0), 6 days ago) - .NET implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [go-feature-flag/flag-management](https://github.com/go-feature-flag/flag-management) - API to manage your feature flags. (1 day ago)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (4 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [go-feature-flag/flag-management](https://github.com/go-feature-flag/flag-management) - API to manage your feature flags. (2 days ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (5 days ago)
 - [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (3 weeks ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (3 weeks ago)
 
@@ -47,8 +47,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [ahuangg/json-rules](https://github.com/ahuangg/json-rules) - json parser for golang rules engine (today)
-- [jmattheis/goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by defining function signatures. (1 day ago)
+- [ahuangg/json-rules](https://github.com/ahuangg/json-rules) - json parser for golang rules engine (1 day ago)
+- [jmattheis/goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by defining function signatures. (2 days ago)
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (1 week ago)
 
 #### 📚 Latest Blog posts
