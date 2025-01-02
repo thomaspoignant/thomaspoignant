@@ -27,7 +27,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([kotlin-provider-v0.2.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/kotlin-provider-v0.2.0), 1 week ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) ([0.2.1](https://github.com/open-feature/swift-sdk/releases/tag/0.2.1), 2 weeks ago) - Swift implementation of the OpenFeature SDK for iOS clients
-- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.2.0](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.2.0), 2 weeks ago) - .NET implementation of the OpenFeature SDK
+- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.2.0](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.2.0), 3 weeks ago) - .NET implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
