@@ -47,9 +47,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (today)
 - [ahuangg/json-rules](https://github.com/ahuangg/json-rules) - json parser for golang rules engine (1 month ago)
 - [jmattheis/goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by defining function signatures. (1 month ago)
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (1 month ago)
 
 #### 📚 Latest Blog posts
 
