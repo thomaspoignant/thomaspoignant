@@ -25,17 +25,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v0.4.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v0.4.1), today) - Community contributions for hooks and reference providers
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([python-provider-v0.4.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/python-provider-v0.4.0), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v0.7.4](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v0.7.4), 4 days ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.hooks.otel-v3.2.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.hooks.otel-v3.2.1), 1 week ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (today)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (4 days ago)
 - [go-feature-flag/flag-management](https://github.com/go-feature-flag/flag-management) - API to manage your feature flags. (1 month ago)
 - [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (1 month ago)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 months ago)
 
 #### 🌱 My latest projects
 
