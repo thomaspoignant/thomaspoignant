@@ -25,9 +25,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/cloudbees-provider-1.1.0](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/cloudbees-provider-1.1.0), today) - OpenFeature Providers and Hooks for PHP
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.2.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.2.2), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-web-provider-v0.2.5](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-web-provider-v0.2.5), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
-- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) ([v0.3.0](https://github.com/go-feature-flag/openfeature-swift-provider/releases/tag/v0.3.0), 3 days ago) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻
 
 #### 👷 Check out what I'm currently working on
 
