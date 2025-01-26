@@ -25,17 +25,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/cloudbees-provider-1.1.0](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/cloudbees-provider-1.1.0), 1 day ago) - OpenFeature Providers and Hooks for PHP
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.2.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.2.2), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-web-provider-v0.2.5](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-web-provider-v0.2.5), 2 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/cloudbees-provider-1.1.0](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/cloudbees-provider-1.1.0), 2 days ago) - OpenFeature Providers and Hooks for PHP
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.2.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.2.2), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-web-provider-v0.2.5](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-web-provider-v0.2.5), 3 days ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) - Community contributions for hooks and reference providers in Ruby (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 days ago)
-- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (3 days ago)
-- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (4 days ago)
+- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) - Community contributions for hooks and reference providers in Ruby (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (3 days ago)
+- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (4 days ago)
+- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -47,9 +47,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini. (4 days ago)
-- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) - Python SDK for OpenFeature (5 days ago)
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (6 days ago)
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini. (5 days ago)
+- [open-feature/python-sdk](https://github.com/open-feature/python-sdk) - Python SDK for OpenFeature (6 days ago)
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (1 week ago)
 
 #### 📚 Latest Blog posts
 
