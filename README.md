@@ -65,6 +65,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [ehan701](https://github.com/ehan701)
 - [dexeril974](https://github.com/dexeril974)
 - [ccoVeille](https://github.com/ccoVeille)
-- [itsKayWat](https://github.com/itsKayWat)
