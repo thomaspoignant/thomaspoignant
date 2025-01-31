@@ -25,14 +25,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) ([0.3.0](https://github.com/open-feature/swift-sdk/releases/tag/0.3.0), today) - Swift implementation of the OpenFeature SDK for iOS clients
 - [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.3](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.3), 4 days ago) - Community contributions for hooks and reference providers in Ruby
 - [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/cloudbees-provider-1.1.0](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/cloudbees-provider-1.1.0), 1 week ago) - OpenFeature Providers and Hooks for PHP
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.2.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.2.2), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
 - [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) - OpenFeature Providers and Hooks for PHP (2 days ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
 - [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) - Community contributions for hooks and reference providers in Ruby (6 days ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 week ago)
 - [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (1 week ago)
@@ -56,8 +56,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 - [Implement Vendor Agnostic Feature Flags in your Node.js Application using OpenFeature ](https://faun.pub/implement-vendor-agnostic-feature-flags-in-your-node-js-application-using-openfeature-b89fde448f6c?source=rss-9a58464dd8e9------2) (1 year ago)
 - [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (2 years ago)
 - [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (3 years ago)
-- [How To Design Pipelines and Sort by Dependencies in Python](https://betterprogramming.pub/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (3 years ago)
-- [Golang: Automate Your Product Release Cycles Using Go-Feature-Flag](https://betterprogramming.pub/automate-your-product-release-cycles-using-go-feature-flag-6ab73f869f?source=rss-9a58464dd8e9------2) (3 years ago)
+- [How To Design Pipelines and Sort by Dependencies in Python](https://medium.com/better-programming/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (3 years ago)
+- [Golang: Automate Your Product Release Cycles Using Go-Feature-Flag](https://medium.com/better-programming/automate-your-product-release-cycles-using-go-feature-flag-6ab73f869f?source=rss-9a58464dd8e9------2) (3 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
