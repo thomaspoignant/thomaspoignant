@@ -25,17 +25,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-provider-v0.2.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-provider-v0.2.1), 3 days ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.2), 3 days ago) - Community contributions for hooks and reference providers
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.2.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.2.3), 6 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-provider-v0.2.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-provider-v0.2.1), 4 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.2), 4 days ago) - Community contributions for hooks and reference providers
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.2.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.2.3), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (4 days ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (6 days ago)
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (6 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (5 days ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 week ago)
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 week ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (2 weeks ago)
 
 #### 🌱 My latest projects
 
