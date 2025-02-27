@@ -67,4 +67,4 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 - [XiaomingX](https://github.com/XiaomingX)
 - [LinuxJS](https://github.com/LinuxJS)
-- [ehan701](https://github.com/ehan701)
+- [dexeril974](https://github.com/dexeril974)
