@@ -25,13 +25,13 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-meta_provider/v0.0.4](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-meta_provider/v0.0.4), 1 day ago) - Community contributions for hooks and reference providers in Ruby
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.4](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.4), 1 day ago) - Community contributions for hooks and reference providers
+- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-meta_provider/v0.0.4](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-meta_provider/v0.0.4), 2 days ago) - Community contributions for hooks and reference providers in Ruby
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.4](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.4), 2 days ago) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.2.6](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.2.6), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
 - [thomaspoignant/in-memory-queue-with-offset](https://github.com/thomaspoignant/in-memory-queue-with-offset) - A POC of a in memory queue with offset (1 week ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 weeks ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (2 weeks ago)
@@ -49,7 +49,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [richardszalay/mockhttp](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft&#39;s HttpClient library. Create canned responses using a fluent API. (3 weeks ago)
-- [adevinta/observability-operator](https://github.com/adevinta/observability-operator) - A k8s operator to orchestrate telemetry gathering from workloads and forwarding it to their desired destination. (4 weeks ago)
+- [adevinta/observability-operator](https://github.com/adevinta/observability-operator) - A k8s operator to orchestrate telemetry gathering from workloads and forwarding it to their desired destination. (1 month ago)
 
 #### 📚 Latest Blog posts
 
