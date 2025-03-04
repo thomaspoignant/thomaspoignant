@@ -25,9 +25,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([config-cat-provider-v0.7.3](https://github.com/open-feature/js-sdk-contrib/releases/tag/config-cat-provider-v0.7.3), today) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-meta_provider/v0.0.5](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-meta_provider/v0.0.5), 1 day ago) - Community contributions for hooks and reference providers in Ruby
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.4](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.4), 4 days ago) - Community contributions for hooks and reference providers
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.2.6](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.2.6), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
