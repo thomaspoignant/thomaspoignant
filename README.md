@@ -65,6 +65,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [gaetanboedec](https://github.com/gaetanboedec)
 - [standardgalactic](https://github.com/standardgalactic)
 - [XiaomingX](https://github.com/XiaomingX)
-- [LinuxJS](https://github.com/LinuxJS)
