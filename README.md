@@ -25,9 +25,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.6](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.6), 2 days ago) - Community contributions for hooks and reference providers
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/configcat/v0.2.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/configcat/v0.2.2), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.42.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.42.0), 5 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([launchdarkly-client-provider-v0.3.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/launchdarkly-client-provider-v0.3.2), today) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.7](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.7), today) - Community contributions for hooks and reference providers
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.EnvVar-v0.0.2](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.EnvVar-v0.0.2), today) - OpenFeature Providers and Hooks for .NET
 
 #### 👷 Check out what I'm currently working on
 
