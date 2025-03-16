@@ -26,7 +26,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 #### 🚀 Latest releases I've contributed to
 
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([config-cat-web-provider-v0.1.5](https://github.com/open-feature/js-sdk-contrib/releases/tag/config-cat-web-provider-v0.1.5), 2 days ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.6](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.6), 2 days ago) - 
+- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.6](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.6), 2 days ago) - Experimential ServerSide Dark SDK For OpenFeature
 - [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) ([v0.4.0](https://github.com/go-feature-flag/openfeature-swift-provider/releases/tag/v0.4.0), 3 days ago) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻
 
 #### 👷 Check out what I'm currently working on
