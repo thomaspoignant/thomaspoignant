@@ -25,17 +25,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.7](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.7), 1 day ago) - Experimential ServerSide Dark SDK For OpenFeature
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.8](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.8), 2 days ago) - Community contributions for hooks and reference providers
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagsmith-client-provider-v0.1.3](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagsmith-client-provider-v0.1.3), 2 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.7.3](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.7.3), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.7](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.7), 2 days ago) - Experimential ServerSide Dark SDK For OpenFeature
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.8](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.8), 3 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (2 days ago)
 - [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (1 week ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 weeks ago)
-- [thomaspoignant/in-memory-queue-with-offset](https://github.com/thomaspoignant/in-memory-queue-with-offset) - A POC of a in memory queue with offset (3 weeks ago)
+- [thomaspoignant/in-memory-queue-with-offset](https://github.com/thomaspoignant/in-memory-queue-with-offset) - A POC of a in memory queue with offset (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -47,7 +47,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 weeks ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [richardszalay/mockhttp](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft&#39;s HttpClient library. Create canned responses using a fluent API. (1 month ago)
 - [adevinta/observability-operator](https://github.com/adevinta/observability-operator) - A k8s operator to orchestrate telemetry gathering from workloads and forwarding it to their desired destination. (1 month ago)
 
