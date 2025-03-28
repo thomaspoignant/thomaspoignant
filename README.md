@@ -32,10 +32,10 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 #### 👷 Check out what I'm currently working on
 
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) - JavaScript SDK for OpenFeature (today)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 week ago)
 - [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (2 weeks ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (3 weeks ago)
-- [thomaspoignant/in-memory-queue-with-offset](https://github.com/thomaspoignant/in-memory-queue-with-offset) - A POC of a in memory queue with offset (1 month ago)
 
 #### 🌱 My latest projects
 
