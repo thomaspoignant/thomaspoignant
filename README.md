@@ -25,9 +25,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.8](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.8), today) - Experimential ServerSide Dark SDK For OpenFeature
 - [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.3.2](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.3.2), 6 days ago) - .NET implementation of the OpenFeature SDK
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([aws-ssm-provider-v0.1.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/aws-ssm-provider-v0.1.2), 6 days ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.7](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.7), 2 weeks ago) - Experimential ServerSide Dark SDK For OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
