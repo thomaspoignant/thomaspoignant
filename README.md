@@ -25,16 +25,16 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.8](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.8), today) - Experimential ServerSide Dark SDK For OpenFeature
-- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.3.2](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.3.2), 6 days ago) - .NET implementation of the OpenFeature SDK
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([aws-ssm-provider-v0.1.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/aws-ssm-provider-v0.1.2), 6 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.8](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.8), 1 day ago) - Experimential ServerSide Dark SDK For OpenFeature
+- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.3.2](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.3.2), 1 week ago) - .NET implementation of the OpenFeature SDK
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([aws-ssm-provider-v0.1.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/aws-ssm-provider-v0.1.2), 1 week ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) - JavaScript SDK for OpenFeature (5 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) - JavaScript SDK for OpenFeature (6 days ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (2 weeks ago)
-- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (2 weeks ago)
+- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (3 weeks ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (4 weeks ago)
 
 #### 🌱 My latest projects
