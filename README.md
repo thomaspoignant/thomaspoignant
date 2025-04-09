@@ -25,9 +25,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([config-cat-web-provider-v0.1.6](https://github.com/open-feature/js-sdk-contrib/releases/tag/config-cat-web-provider-v0.1.6), today) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.9](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.9), 1 day ago) - Experimential ServerSide Dark SDK For OpenFeature
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.43.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.43.0), 6 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) ([v2.3.2](https://github.com/open-feature/dotnet-sdk/releases/tag/v2.3.2), 1 week ago) - .NET implementation of the OpenFeature SDK
 
 #### 👷 Check out what I'm currently working on
 
