@@ -25,9 +25,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flipt-web-provider-v0.1.3](https://github.com/open-feature/js-sdk-contrib/releases/tag/flipt-web-provider-v0.1.3), today) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([core-v1.8.0](https://github.com/open-feature/js-sdk/releases/tag/core-v1.8.0), today) - JavaScript SDK for OpenFeature
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.43.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.43.1), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([config-cat-provider-v0.7.5](https://github.com/open-feature/js-sdk-contrib/releases/tag/config-cat-provider-v0.7.5), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.9](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.9), 2 days ago) - Experimential ServerSide Dark SDK For OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
