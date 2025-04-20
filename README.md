@@ -25,9 +25,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([angular-sdk-v0.0.13](https://github.com/open-feature/js-sdk/releases/tag/angular-sdk-v0.0.13), today) - JavaScript SDK for OpenFeature
 - [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-flipt-provider/v0.0.2](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-flipt-provider/v0.0.2), 4 days ago) - Community contributions for hooks and reference providers in Ruby
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagsmith-v0.0.10](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagsmith-v0.0.10), 5 days ago) - Community contributions for hooks and reference providers
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([react-sdk-v1.0.0](https://github.com/open-feature/js-sdk/releases/tag/react-sdk-v1.0.0), 6 days ago) - JavaScript SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
