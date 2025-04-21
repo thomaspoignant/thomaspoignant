@@ -25,13 +25,13 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([angular-sdk-v0.0.13](https://github.com/open-feature/js-sdk/releases/tag/angular-sdk-v0.0.13), today) - JavaScript SDK for OpenFeature
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-flipt-provider/v0.0.2](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-flipt-provider/v0.0.2), 4 days ago) - Community contributions for hooks and reference providers in Ruby
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagsmith-v0.0.10](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagsmith-v0.0.10), 5 days ago) - Community contributions for hooks and reference providers
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([angular-sdk-v0.0.13](https://github.com/open-feature/js-sdk/releases/tag/angular-sdk-v0.0.13), 1 day ago) - JavaScript SDK for OpenFeature
+- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-flipt-provider/v0.0.2](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-flipt-provider/v0.0.2), 5 days ago) - Community contributions for hooks and reference providers in Ruby
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagsmith-v0.0.10](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagsmith-v0.0.10), 6 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (3 days ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
 - [open-feature/js-sdk](https://github.com/open-feature/js-sdk) - JavaScript SDK for OpenFeature (3 weeks ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 month ago)
@@ -61,7 +61,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [cybozu](https://github.com/cybozu) (8 months ago)
+- [cybozu](https://github.com/cybozu) (9 months ago)
 
 #### 👯 Check out some of my recent followers
 
