@@ -5,15 +5,19 @@
 [![Email](https://img.shields.io/badge/email--_.svg?logo=Gmail&style=social)](mailto:thomas.poignant@gmail.com)
 -----------
 
-My name is Thomas Poignant. I live in Paris 🇫🇷 and my timezone is UTC+2.  
-I am an AWS Community Builder.
+My name is Thomas Poignant. I live in Paris 🇫🇷 and my timezone is UTC+2. 
+I am an opensource enthousiast on my free time, and I work as Head Of Engineering @ [leboncoin](https://www.leboncoin.fr/).
 
-The open-source projects that I'm currently focusing on are:
+I really like to share on what I am working, so feel free to contact me any time: thomas.poignant@gofeatureflag.org
+
+
+
+**The open-source projects that I'm currently focusing on are:**
 - [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) _- A simple, complete and lightweight self-hosted feature flag solution 100% Open Source._
 - [open-feature](https://github.com/open-feature) _- OpenFeature is an open specification that provides a vendor-agnostic, community-driven API for feature flagging that works with your favorite feature flag management tool or in-house solution._
 - [scim-patch](https://github.com/thomaspoignant/scim-patch) _- SCIM Patch library for nodejs._
 
-I've also contributed to:
+**I've also contributed to:**
 - [scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) _- parse and filter SCIM queries._
 - [mac-dev-setup](https://github.com/thomaspoignant/mac-dev-setup) _- script to install your developer environment on your mac._
 - [yamllint-checkstyle](https://github.com/thomaspoignant/yamllint-checkstyle) _- convert yamlint results into checkstyle_.
