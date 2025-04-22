@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/email--_.svg?logo=Gmail&style=social)](mailto:thomas.poignant@gmail.com)
 -----------
 
-My name is Thomas Poignant. I live in Paris 🇫🇷 and my timezone is UTC+2. 
+My name is Thomas Poignant. I live in Paris 🇫🇷 and my timezone is UTC+2.  
 I am an opensource enthousiast on my free time, and I work as Head Of Engineering @ [leboncoin](https://www.leboncoin.fr/).
 
 I really like to share on what I am working, so feel free to contact me any time: thomas.poignant@gofeatureflag.org
@@ -51,9 +51,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [GeorgeD19/json-logic-go](https://github.com/GeorgeD19/json-logic-go) - Build complex rules, serialize them as JSON, and execute them in GO (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 months ago)
 - [richardszalay/mockhttp](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft&#39;s HttpClient library. Create canned responses using a fluent API. (2 months ago)
+- [adevinta/observability-operator](https://github.com/adevinta/observability-operator) - A k8s operator to orchestrate telemetry gathering from workloads and forwarding it to their desired destination. (2 months ago)
 
 #### 📚 Latest Blog posts
 
