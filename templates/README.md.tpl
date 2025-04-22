@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/email--_.svg?logo=Gmail&style=social)](mailto:thomas.poignant@gmail.com)
 -----------
 
-My name is Thomas Poignant. I live in Paris 🇫🇷 and my timezone is UTC+2. 
+My name is Thomas Poignant. I live in Paris 🇫🇷 and my timezone is UTC+2.  
 I am an opensource enthousiast on my free time, and I work as Head Of Engineering @ [leboncoin](https://www.leboncoin.fr/).
 
 I really like to share on what I am working, so feel free to contact me any time: thomas.poignant@gofeatureflag.org
