@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Twitter](https://img.shields.io/twitter/follow/thomaspoignant?label=Twitter&style=social)](https://twitter.com/thomaspoignant)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/thomaspoignant.bsky.social)
 [![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/poignantthomas/)
 [![Medium](https://img.shields.io/badge/medium--_.svg?style=social&logo=medium)](https://thomaspoignant.medium.com/)
 [![Email](https://img.shields.io/badge/email--_.svg?logo=Gmail&style=social)](mailto:thomas.poignant@gmail.com)
@@ -10,7 +10,7 @@ I am an opensource enthousiast on my free time, and I work as Head Of Engineerin
 
 I really like to share on what I am working, so feel free to contact me any time: thomas.poignant@gofeatureflag.org
 
-
+-----------
 
 **The open-source projects that I'm currently focusing on are:**
 - [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) _- A simple, complete and lightweight self-hosted feature flag solution 100% Open Source._
