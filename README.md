@@ -3,6 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/poignantthomas/)
 [![Medium](https://img.shields.io/badge/medium--_.svg?style=social&logo=medium)](https://thomaspoignant.medium.com/)
 [![Email](https://img.shields.io/badge/email--_.svg?logo=Gmail&style=social)](mailto:thomas.poignant@gmail.com)
+[![Sessionize](https://img.shields.io/badge/-Sessionize-1AB394?style=flat&logo=sessionize&logoColor=white)](https://sessionize.com/thomas-poignant/)
+
 -----------
 
 My name is Thomas Poignant. I live in Paris 🇫🇷 and my timezone is UTC+2.  
