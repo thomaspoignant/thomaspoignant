@@ -15,7 +15,7 @@ I really like to share on what I am working, so feel free to contact me any time
 -----------
 
 **The open-source projects that I'm currently focusing on are:**
-- [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) _- A simple, complete and lightweight self-hosted feature flag solution 100% Open Source._
+- [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) _- [A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.](https://gofeatureflag.org)_ 
 - [open-feature](https://github.com/open-feature) _- OpenFeature is an open specification that provides a vendor-agnostic, community-driven API for feature flagging that works with your favorite feature flag management tool or in-house solution._
 - [scim-patch](https://github.com/thomaspoignant/scim-patch) _- SCIM Patch library for nodejs._
 
