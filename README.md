@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.EnvVar-v0.0.6](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.EnvVar-v0.0.6), today) - OpenFeature Providers and Hooks for .NET
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.env-var-v0.0.10](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.env-var-v0.0.10), 6 days ago) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/multi-provider/v0.0.4](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/multi-provider/v0.0.4), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flagsmith-v0.2.1](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flagsmith-v0.2.1), 2 weeks ago) - OpenFeature Providers and Hooks for .NET
 
 #### 👷 Check out what I'm currently working on
 
