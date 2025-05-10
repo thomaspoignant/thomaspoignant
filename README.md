@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([vTestRelease](https://github.com/thomaspoignant/go-feature-flag/releases/tag/vTestRelease), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.EnvVar-v0.0.7](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.EnvVar-v0.0.7), 2 days ago) - OpenFeature Providers and Hooks for .NET
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.env-var-v0.0.10](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.env-var-v0.0.10), 1 week ago) - Community contributions for hooks and reference providers
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/multi-provider/v0.0.4](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/multi-provider/v0.0.4), 2 weeks ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
