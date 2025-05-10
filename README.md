@@ -71,6 +71,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [KnoxRyder999](https://github.com/KnoxRyder999)
 - [Makeuptehrani](https://github.com/Makeuptehrani)
 - [reemtariqq](https://github.com/reemtariqq)
-- [ACEKaito1412](https://github.com/ACEKaito1412)
