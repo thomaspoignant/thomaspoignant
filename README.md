@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.9](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.9), today) - Community contributions for hooks and reference providers
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flipt-web-provider-v0.1.4](https://github.com/open-feature/js-sdk-contrib/releases/tag/flipt-web-provider-v0.1.4), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.FeatureManagement-v0.1.1](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.FeatureManagement-v0.1.1), 6 days ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([nestjs-sdk-v0.2.5](https://github.com/open-feature/js-sdk/releases/tag/nestjs-sdk-v0.2.5), 1 week ago) - JavaScript SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
@@ -71,6 +71,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [harri88](https://github.com/harri88)
 - [KnoxRyder999](https://github.com/KnoxRyder999)
 - [Makeuptehrani](https://github.com/Makeuptehrani)
-- [reemtariqq](https://github.com/reemtariqq)
