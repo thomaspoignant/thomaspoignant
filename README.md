@@ -31,16 +31,16 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([hooks/open-telemetry/v0.3.5](https://github.com/open-feature/go-sdk-contrib/releases/tag/hooks/open-telemetry/v0.3.5), today) - Community maintained OpenFeature Providers and Hooks for Go
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.45.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.45.1), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.3.0](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.3.0), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flipt-web-provider-v0.1.5](https://github.com/open-feature/js-sdk-contrib/releases/tag/flipt-web-provider-v0.1.5), 1 week ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (today)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 days ago)
 - [open-feature/ofrep-swift-client-provider](https://github.com/open-feature/ofrep-swift-client-provider) - OFREP Provider for your iOS, macOS, ipadOS, tvOS, watchOS applications (4 days ago)
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
 - [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (2 weeks ago)
 
 #### 🌱 My latest projects
