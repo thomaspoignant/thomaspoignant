@@ -31,16 +31,16 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tools/flagd-http-connector/v0.0.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/tools/flagd-http-connector/v0.0.2), today) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.10](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.10), 1 day ago) - Experimential ServerSide Dark SDK For OpenFeature
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.10](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.10), 1 day ago) - Community contributions for hooks and reference providers
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/ofrep/v0.1.6](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/ofrep/v0.1.6), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.10](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.10), 2 days ago) - Experimential ServerSide Dark SDK For OpenFeature
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.10](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.10), 2 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 day ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (3 days ago)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (4 days ago)
-- [open-feature/ofrep-swift-client-provider](https://github.com/open-feature/ofrep-swift-client-provider) - OFREP Provider for your iOS, macOS, ipadOS, tvOS, watchOS applications (6 days ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (2 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (4 days ago)
+- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (5 days ago)
+- [open-feature/ofrep-swift-client-provider](https://github.com/open-feature/ofrep-swift-client-provider) - OFREP Provider for your iOS, macOS, ipadOS, tvOS, watchOS applications (1 week ago)
 - [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -67,7 +67,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [cybozu](https://github.com/cybozu) (10 months ago)
+- [cybozu](https://github.com/cybozu) (11 months ago)
 
 #### 👯 Check out some of my recent followers
 
