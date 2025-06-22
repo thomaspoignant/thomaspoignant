@@ -31,16 +31,16 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag-in-process/v0.1.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag-in-process/v0.1.1), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.10](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.10), 3 days ago) - Experimential ServerSide Dark SDK For OpenFeature
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.10](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.10), 3 days ago) - Community contributions for hooks and reference providers
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag-in-process/v0.1.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag-in-process/v0.1.1), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.10](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.10), 4 days ago) - Experimential ServerSide Dark SDK For OpenFeature
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.10](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.10), 4 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 day ago)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (6 days ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 days ago)
+- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 week ago)
 - [open-feature/ofrep-swift-client-provider](https://github.com/open-feature/ofrep-swift-client-provider) - OFREP Provider for your iOS, macOS, ipadOS, tvOS, watchOS applications (1 week ago)
 
 #### 🌱 My latest projects
@@ -55,7 +55,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg (1 week ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (1 week ago)
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable user interfaces. (1 week ago)
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable user interfaces. (2 weeks ago)
 
 #### 📚 Latest Blog posts
 
