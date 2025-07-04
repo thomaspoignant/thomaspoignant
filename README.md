@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) ([0.3.1](https://github.com/open-feature/swift-sdk/releases/tag/0.3.1), today) - Swift implementation of the OpenFeature SDK for iOS clients
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Hooks.Otel-v0.2.1](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Hooks.Otel-v0.2.1), 1 day ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([core-v1.8.1](https://github.com/open-feature/js-sdk/releases/tag/core-v1.8.1), 1 week ago) - JavaScript SDK for OpenFeature
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flagd-v0.3.3](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flagd-v0.3.3), today) - OpenFeature Providers and Hooks for .NET
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.configcat-v0.1.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.configcat-v0.1.1), today) - Community contributions for hooks and reference providers
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-core-v1.1.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-core-v1.1.0), today) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
