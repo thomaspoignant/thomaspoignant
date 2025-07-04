@@ -31,13 +31,13 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/swift-sdk](https://github.com/open-feature/swift-sdk) ([0.3.1](https://github.com/open-feature/swift-sdk/releases/tag/0.3.1), today) - Swift implementation of the OpenFeature SDK for iOS clients
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Hooks.Otel-v0.2.1](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Hooks.Otel-v0.2.1), 1 day ago) - OpenFeature Providers and Hooks for .NET
 - [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([core-v1.8.1](https://github.com/open-feature/js-sdk/releases/tag/core-v1.8.1), 1 week ago) - JavaScript SDK for OpenFeature
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([hooks/open-telemetry/v0.3.6](https://github.com/open-feature/go-sdk-contrib/releases/tag/hooks/open-telemetry/v0.3.6), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (3 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (4 days ago)
 - [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (4 days ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 week ago)
