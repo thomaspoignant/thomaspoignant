@@ -31,15 +31,15 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flagd-v0.3.3](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flagd-v0.3.3), 2 days ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.configcat-v0.1.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.configcat-v0.1.1), 2 days ago) - Community contributions for hooks and reference providers
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-core-v1.1.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-core-v1.1.0), 2 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flagd-v0.3.3](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flagd-v0.3.3), 3 days ago) - OpenFeature Providers and Hooks for .NET
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.configcat-v0.1.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.configcat-v0.1.1), 3 days ago) - Community contributions for hooks and reference providers
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-core-v1.1.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-core-v1.1.0), 3 days ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (6 days ago)
-- [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (6 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (3 days ago)
+- [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (1 week ago)
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (1 week ago)
 - [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev) - OpenFeature Website (1 week ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 week ago)
 
@@ -54,7 +54,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 #### ⭐ Recent Stars
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 week ago)
-- [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol (1 week ago)
+- [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol (2 weeks ago)
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg (3 weeks ago)
 
 #### 📚 Latest Blog posts
