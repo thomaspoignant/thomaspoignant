@@ -31,13 +31,13 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([python-provider-v0.4.4](https://github.com/thomaspoignant/go-feature-flag/releases/tag/python-provider-v0.4.4), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.parent-v0.2.3](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.parent-v0.2.3), 1 day ago) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/statsig/v0.0.4](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/statsig/v0.0.4), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.45.3](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.45.3), 1 week ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
 - [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (1 week ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 week ago)
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) - Go SDK for OpenFeature (2 weeks ago)
