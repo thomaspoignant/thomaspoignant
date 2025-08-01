@@ -31,14 +31,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.4](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.4), 1 day ago) - Community contributions for hooks and reference providers in Ruby
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([angular-sdk-v0.0.16](https://github.com/open-feature/js-sdk/releases/tag/angular-sdk-v0.0.16), 6 days ago) - JavaScript SDK for OpenFeature
+- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.4](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.4), 2 days ago) - Community contributions for hooks and reference providers in Ruby
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([angular-sdk-v0.0.16](https://github.com/open-feature/js-sdk/releases/tag/angular-sdk-v0.0.16), 1 week ago) - JavaScript SDK for OpenFeature
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagsmith/v0.1.5](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagsmith/v0.1.5), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
-- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop. (4 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop. (5 days ago)
 - [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (1 week ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (3 weeks ago)
@@ -71,6 +71,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [clacaba](https://github.com/clacaba)
 - [hagemt](https://github.com/hagemt)
 - [Arthur199212](https://github.com/Arthur199212)
-- [mikethemelanson](https://github.com/mikethemelanson)
