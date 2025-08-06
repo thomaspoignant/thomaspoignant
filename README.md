@@ -31,16 +31,16 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.4](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.4), 6 days ago) - Community contributions for hooks and reference providers in Ruby
+- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.4](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.4), 1 week ago) - Community contributions for hooks and reference providers in Ruby
 - [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([angular-sdk-v0.0.16](https://github.com/open-feature/js-sdk/releases/tag/angular-sdk-v0.0.16), 1 week ago) - JavaScript SDK for OpenFeature
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagsmith/v0.1.5](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagsmith/v0.1.5), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagsmith/v0.1.5](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagsmith/v0.1.5), 2 weeks ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (today)
-- [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (today)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (today)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 day ago)
+- [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (1 day ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 day ago)
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop. (1 week ago)
 
 #### 🌱 My latest projects
