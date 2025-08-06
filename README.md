@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Statsig-v0.1.1](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Statsig-v0.1.1), today) - OpenFeature Providers and Hooks for .NET
 - [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.4](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.4), 1 week ago) - Community contributions for hooks and reference providers in Ruby
 - [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([angular-sdk-v0.0.16](https://github.com/open-feature/js-sdk/releases/tag/angular-sdk-v0.0.16), 1 week ago) - JavaScript SDK for OpenFeature
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagsmith/v0.1.5](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagsmith/v0.1.5), 2 weeks ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
