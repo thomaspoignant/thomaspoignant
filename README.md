@@ -31,7 +31,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v1.6.1](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v1.6.1), today) - JavaScript SDK for OpenFeature
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([server-sdk-v1.19.0](https://github.com/open-feature/js-sdk/releases/tag/server-sdk-v1.19.0), 1 day ago) - JavaScript SDK for OpenFeature
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Statsig-v0.1.1](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Statsig-v0.1.1), 1 week ago) - OpenFeature Providers and Hooks for .NET
 - [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.4](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.4), 2 weeks ago) - Community contributions for hooks and reference providers in Ruby
 
@@ -53,8 +53,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. (2 days ago)
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (2 days ago)
+- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. (3 days ago)
+- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (3 days ago)
 - [pytorch/torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems (3 weeks ago)
 
 #### 📚 Latest Blog posts
