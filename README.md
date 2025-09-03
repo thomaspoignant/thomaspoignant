@@ -31,7 +31,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.11](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.11), 6 days ago) - Experimential ServerSide Dark SDK For OpenFeature
+- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.12](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.12), today) - Experimential ServerSide Dark SDK For OpenFeature
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-core-v1.1.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-core-v1.1.0), 1 week ago) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.unleash-v0.1.3-alpha](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.unleash-v0.1.3-alpha), 1 week ago) - Community contributions for hooks and reference providers
 
