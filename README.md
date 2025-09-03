@@ -31,14 +31,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.11](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.11), 5 days ago) - Experimential ServerSide Dark SDK For OpenFeature
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-core-v1.1.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-core-v1.1.0), 6 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.11](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.11), 6 days ago) - Experimential ServerSide Dark SDK For OpenFeature
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-core-v1.1.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-core-v1.1.0), 1 week ago) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.unleash-v0.1.3-alpha](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.unleash-v0.1.3-alpha), 1 week ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (1 week ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (2 weeks ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (4 weeks ago)
 - [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (4 weeks ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (4 weeks ago)
@@ -53,8 +53,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project (1 day ago)
-- [abistama/support-hero](https://github.com/abistama/support-hero) -  (5 days ago)
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project (2 days ago)
+- [abistama/support-hero](https://github.com/abistama/support-hero) -  (6 days ago)
 - [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - Cursor for design - Open Source (2 weeks ago)
 
 #### 📚 Latest Blog posts
