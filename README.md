@@ -31,7 +31,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v1.5.0](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v1.5.0), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/rocketflag/v0.0.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/rocketflag/v0.0.2), today) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.15](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.15), 3 days ago) - Community contributions for hooks and reference providers
 - [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.12](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.12), 5 days ago) - Experimential ServerSide Dark SDK For OpenFeature
 
