@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [depado](https://github.com/depado)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Chadiii](https://github.com/Chadiii)
-- [clacaba](https://github.com/clacaba)
