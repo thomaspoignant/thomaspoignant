@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (today)
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥 (1 day ago)
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project (2 weeks ago)
-- [abistama/support-hero](https://github.com/abistama/support-hero) -  (2 weeks ago)
 
 #### 📚 Latest Blog posts
 
