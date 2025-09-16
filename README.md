@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([launchdarkly-client-provider-v0.3.3](https://github.com/open-feature/js-sdk-contrib/releases/tag/launchdarkly-client-provider-v0.3.3), today) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.env-var-v0.0.12](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.env-var-v0.0.12), 1 week ago) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/rocketflag/v0.0.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/rocketflag/v0.0.2), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.12](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.12), 1 week ago) - Experimential ServerSide Dark SDK For OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
