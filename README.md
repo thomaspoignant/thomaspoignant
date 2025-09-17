@@ -31,14 +31,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([launchdarkly-client-provider-v0.3.3](https://github.com/open-feature/js-sdk-contrib/releases/tag/launchdarkly-client-provider-v0.3.3), today) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([launchdarkly-client-provider-v0.3.3](https://github.com/open-feature/js-sdk-contrib/releases/tag/launchdarkly-client-provider-v0.3.3), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.env-var-v0.0.12](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.env-var-v0.0.12), 1 week ago) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/rocketflag/v0.0.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/rocketflag/v0.0.2), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
-- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (3 weeks ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [open-feature/protocol](https://github.com/open-feature/protocol) - OpenFeature Remote Evaluation Protocol (4 weeks ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 month ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 month ago)
 - [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (1 month ago)
@@ -53,8 +53,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (1 day ago)
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥 (2 days ago)
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (2 days ago)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥 (3 days ago)
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project (2 weeks ago)
 
 #### 📚 Latest Blog posts
@@ -67,7 +67,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [AltaModaTech](https://github.com/AltaModaTech) (6 days ago)
+- [AltaModaTech](https://github.com/AltaModaTech) (1 week ago)
 - [cybozu](https://github.com/cybozu) (1 year ago)
 
 #### 👯 Check out some of my recent followers
