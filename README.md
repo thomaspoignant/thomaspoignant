@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagsmith-provider-v0.1.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagsmith-provider-v0.1.1), today) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([core-v1.9.1](https://github.com/open-feature/js-sdk/releases/tag/core-v1.9.1), today) - JavaScript SDK for OpenFeature
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.16.0](https://github.com/open-feature/go-sdk/releases/tag/v1.16.0), 5 days ago) - Go SDK for OpenFeature
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.46.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.46.1), 6 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (today)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you&#39;ll ever need (1 week ago)
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (2 weeks ago)
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥 (2 weeks ago)
 
 #### 📚 Latest Blog posts
 
