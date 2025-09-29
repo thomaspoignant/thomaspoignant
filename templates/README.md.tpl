@@ -28,8 +28,6 @@ I really like to share on what I am working, so feel free to contact me any time
 
 If you find my open-source contributions valuable, please consider [sponsoring me on GitHub](https://github.com/sponsors/thomaspoignant/).
 
-<iframe src="https://github.com/sponsors/thomaspoignant/card" title="Sponsor thomaspoignant" height="225" width="600" style="border: 0;"></iframe>
-
 -----------
 #### 🚀 Latest releases I've contributed to
 {{range recentReleases 3}}
