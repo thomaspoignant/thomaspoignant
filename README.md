@@ -31,8 +31,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v1.6.2](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v1.6.2), today) - JavaScript SDK for OpenFeature
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagsmith-provider-v0.1.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagsmith-provider-v0.1.1), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([core-v1.9.1](https://github.com/open-feature/js-sdk/releases/tag/core-v1.9.1), 1 day ago) - JavaScript SDK for OpenFeature
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.16.0](https://github.com/open-feature/go-sdk/releases/tag/v1.16.0), 6 days ago) - Go SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
