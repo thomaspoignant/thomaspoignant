@@ -54,7 +54,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 #### ⭐ Recent Stars
 
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 days ago)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you&#39;ll ever need (1 week ago)
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics and Knowledge Engine for RAG over large-scale, heterogeneous data. - The only MCP Server you&#39;ll ever need (1 week ago)
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (2 weeks ago)
 
 #### 📚 Latest Blog posts
