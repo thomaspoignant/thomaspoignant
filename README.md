@@ -31,13 +31,13 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v1.6.2](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v1.6.2), today) - JavaScript SDK for OpenFeature
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagsmith-provider-v0.1.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagsmith-provider-v0.1.1), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.16.0](https://github.com/open-feature/go-sdk/releases/tag/v1.16.0), 6 days ago) - Go SDK for OpenFeature
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v1.6.2](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v1.6.2), 1 day ago) - JavaScript SDK for OpenFeature
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagsmith-provider-v0.1.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagsmith-provider-v0.1.1), 2 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.16.0](https://github.com/open-feature/go-sdk/releases/tag/v1.16.0), 1 week ago) - Go SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
 - [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (1 week ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 week ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
@@ -53,7 +53,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (1 day ago)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 days ago)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you&#39;ll ever need (1 week ago)
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (2 weeks ago)
 
@@ -67,7 +67,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [AltaModaTech](https://github.com/AltaModaTech) (2 weeks ago)
+- [AltaModaTech](https://github.com/AltaModaTech) (3 weeks ago)
 - [cybozu](https://github.com/cybozu) (1 year ago)
 
 #### 👯 Check out some of my recent followers
