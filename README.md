@@ -31,13 +31,13 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.13](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.13), 4 days ago) - Experimential ServerSide Dark SDK For OpenFeature
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Ofrep-v0.1.2](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Ofrep-v0.1.2), 4 days ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v1.6.2](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v1.6.2), 5 days ago) - JavaScript SDK for OpenFeature
+- [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.13](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.13), 5 days ago) - Experimential ServerSide Dark SDK For OpenFeature
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Ofrep-v0.1.2](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Ofrep-v0.1.2), 5 days ago) - OpenFeature Providers and Hooks for .NET
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v1.6.2](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v1.6.2), 6 days ago) - JavaScript SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (3 days ago)
 - [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (1 week ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 weeks ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (2 weeks ago)
@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (6 days ago)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (1 week ago)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics and Knowledge Engine for RAG over large-scale, heterogeneous data. - The only MCP Server you&#39;ll ever need (2 weeks ago)
-- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (2 weeks ago)
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (3 weeks ago)
 
 #### 📚 Latest Blog posts
 
