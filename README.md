@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagsmith-provider-v0.1.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagsmith-provider-v0.1.2), today) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.13](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.13), 1 week ago) - Experimential ServerSide Dark SDK For OpenFeature
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Ofrep-v0.1.2](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Ofrep-v0.1.2), 1 week ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v1.6.2](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v1.6.2), 1 week ago) - JavaScript SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
