@@ -31,25 +31,25 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) ([module/evaluation/v1.2.6](https://github.com/thomaspoignant/goff-fork/releases/tag/module/evaluation/v1.2.6), today) - 
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([open-telemetry-hooks-v1.0.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/open-telemetry-hooks-v1.0.0), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/dart-server-sdk](https://github.com/open-feature/dart-server-sdk) ([v0.0.13](https://github.com/open-feature/dart-server-sdk/releases/tag/v0.0.13), 1 week ago) - Experimential ServerSide Dark SDK For OpenFeature
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Ofrep-v0.1.2](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Ofrep-v0.1.2), 1 week ago) - OpenFeature Providers and Hooks for .NET
 
 #### 👷 Check out what I'm currently working on
 
+- [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) -  (today)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (4 days ago)
 - [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (2 weeks ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 weeks ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (3 weeks ago)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) - 
 - [thomaspoignant/in-memory-queue-with-offset](https://github.com/thomaspoignant/in-memory-queue-with-offset) - A POC of a in memory queue with offset
 - [thomaspoignant/gofeatureflag-python-provider](https://github.com/thomaspoignant/gofeatureflag-python-provider) - An OpenFeature provider in python for GO Feature Flag
 - [thomaspoignant/openfeature-go-feature-flag-node-demo](https://github.com/thomaspoignant/openfeature-go-feature-flag-node-demo) - Demonstration on how to use GO Feature Flag with the openfeature nodeJS SDK
 - [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website
-- [thomaspoignant/go-feature-flag-demo](https://github.com/thomaspoignant/go-feature-flag-demo) - A visual demo app to play with go-feature-flag
 
 #### ⭐ Recent Stars
 
