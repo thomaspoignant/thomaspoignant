@@ -31,13 +31,13 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) ([module/evaluation/v1.5.0](https://github.com/thomaspoignant/goff-fork/releases/tag/module/evaluation/v1.5.0), today) - 
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([modules/evaluation/v0.1.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/modules/evaluation/v0.1.0), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) ([module/evaluation/v1.2.8](https://github.com/thomaspoignant/goff-fork/releases/tag/module/evaluation/v1.2.8), 1 day ago) - 
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([open-telemetry-hooks-v1.0.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/open-telemetry-hooks-v1.0.0), 2 days ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) -  (1 day ago)
+- [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) -  (today)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
 - [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (2 weeks ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (3 weeks ago)
