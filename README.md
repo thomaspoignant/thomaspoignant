@@ -31,8 +31,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.17](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.17), today) - Community contributions for hooks and reference providers
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([modules/evaluation/v0.1.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/modules/evaluation/v0.1.2), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.16](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.16), 1 day ago) - Community contributions for hooks and reference providers
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([debounce-hook-v0.1.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/debounce-hook-v0.1.1), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
