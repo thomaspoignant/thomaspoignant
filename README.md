@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [edverma/git-smart-squash](https://github.com/edverma/git-smart-squash) -  (today)
 - [skrub-data/skrub](https://github.com/skrub-data/skrub) - Machine learning with dataframes (1 day ago)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (4 days ago)
-- [wispbit-ai/wispbit](https://github.com/wispbit-ai/wispbit) - Keep codebase standards alive (4 days ago)
 
 #### 📚 Latest Blog posts
 
