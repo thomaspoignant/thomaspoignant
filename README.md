@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [StanfordBDHG/OpenTSLM](https://github.com/StanfordBDHG/OpenTSLM) - OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data (today)
 - [edverma/git-smart-squash](https://github.com/edverma/git-smart-squash) -  (2 days ago)
 - [skrub-data/skrub](https://github.com/skrub-data/skrub) - Machine learning with dataframes (3 days ago)
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (6 days ago)
 
 #### 📚 Latest Blog posts
 
