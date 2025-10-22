@@ -31,13 +31,13 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([angular-sdk-v0.0.19](https://github.com/open-feature/js-sdk/releases/tag/angular-sdk-v0.0.19), today) - JavaScript SDK for OpenFeature
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Ofrep-v0.1.3](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Ofrep-v0.1.3), 4 days ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.17](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.17), 6 days ago) - Community contributions for hooks and reference providers
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([server-sdk-v1.20.0](https://github.com/open-feature/js-sdk/releases/tag/server-sdk-v1.20.0), 1 day ago) - JavaScript SDK for OpenFeature
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Ofrep-v0.1.3](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Ofrep-v0.1.3), 5 days ago) - OpenFeature Providers and Hooks for .NET
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.17](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.17), 1 week ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
 - [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) -  (1 week ago)
 - [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (4 weeks ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 month ago)
@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [StanfordBDHG/OpenTSLM](https://github.com/StanfordBDHG/OpenTSLM) - OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data (1 day ago)
-- [edverma/git-smart-squash](https://github.com/edverma/git-smart-squash) -  (3 days ago)
-- [skrub-data/skrub](https://github.com/skrub-data/skrub) - Machine learning with dataframes (4 days ago)
+- [StanfordBDHG/OpenTSLM](https://github.com/StanfordBDHG/OpenTSLM) - OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data (2 days ago)
+- [edverma/git-smart-squash](https://github.com/edverma/git-smart-squash) -  (4 days ago)
+- [skrub-data/skrub](https://github.com/skrub-data/skrub) - Machine learning with dataframes (5 days ago)
 
 #### 📚 Latest Blog posts
 
