@@ -31,14 +31,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.47.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.47.0), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([multi-provider-v0.1.3](https://github.com/open-feature/js-sdk-contrib/releases/tag/multi-provider-v0.1.3), 3 days ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v1.7.0](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v1.7.0), 5 days ago) - JavaScript SDK for OpenFeature
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.47.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.47.1), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([multi-provider-v0.1.3](https://github.com/open-feature/js-sdk-contrib/releases/tag/multi-provider-v0.1.3), 4 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v1.7.0](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v1.7.0), 6 days ago) - JavaScript SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (5 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (6 days ago)
 - [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) -  (2 weeks ago)
 - [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (1 month ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 month ago)
@@ -53,8 +53,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​. (1 day ago)
-- [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown (5 days ago)
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​. (2 days ago)
+- [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown (6 days ago)
 - [StanfordBDHG/OpenTSLM](https://github.com/StanfordBDHG/OpenTSLM) - OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data (1 week ago)
 
 #### 📚 Latest Blog posts
