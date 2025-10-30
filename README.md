@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag-in-process/v0.1.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag-in-process/v0.1.2), today) - Community maintained OpenFeature Providers and Hooks for Go
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.47.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.47.1), 3 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([multi-provider-v0.1.3](https://github.com/open-feature/js-sdk-contrib/releases/tag/multi-provider-v0.1.3), 6 days ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([web-sdk-v1.7.0](https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v1.7.0), 1 week ago) - JavaScript SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data (today)
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular. (2 days ago)
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​. (4 days ago)
-- [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown (1 week ago)
 
 #### 📚 Latest Blog posts
 
