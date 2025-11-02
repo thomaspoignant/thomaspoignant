@@ -31,13 +31,13 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/configcat/v0.2.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/configcat/v0.2.3), today) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([react-sdk-v1.0.2](https://github.com/open-feature/js-sdk/releases/tag/react-sdk-v1.0.2), 1 day ago) - JavaScript SDK for OpenFeature
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.47.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.47.1), 5 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/configcat/v0.2.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/configcat/v0.2.3), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([react-sdk-v1.0.2](https://github.com/open-feature/js-sdk/releases/tag/react-sdk-v1.0.2), 2 days ago) - JavaScript SDK for OpenFeature
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.47.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.47.1), 6 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 week ago)
 - [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) -  (2 weeks ago)
 - [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (1 month ago)
@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer. (1 day ago)
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (2 days ago)
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data (2 days ago)
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer. (2 days ago)
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (3 days ago)
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data (3 days ago)
 
 #### 📚 Latest Blog posts
 
