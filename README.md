@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/configcat/v0.2.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/configcat/v0.2.3), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([react-sdk-v1.0.2](https://github.com/open-feature/js-sdk/releases/tag/react-sdk-v1.0.2), 3 days ago) - JavaScript SDK for OpenFeature
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.47.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.47.1), 1 week ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([cmd/wasm/v0.0.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/cmd/wasm/v0.0.2), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/configcat/v0.2.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/configcat/v0.2.3), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([react-sdk-v1.0.2](https://github.com/open-feature/js-sdk/releases/tag/react-sdk-v1.0.2), 4 days ago) - JavaScript SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer. (3 days ago)
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (4 days ago)
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data (4 days ago)
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer. (4 days ago)
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (5 days ago)
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data (5 days ago)
 
 #### 📚 Latest Blog posts
 
