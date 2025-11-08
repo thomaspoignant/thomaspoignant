@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [skovtunenko](https://github.com/skovtunenko)
 - [adrien3d](https://github.com/adrien3d)
 - [ilya-tkachov](https://github.com/ilya-tkachov)
-- [Cdayz](https://github.com/Cdayz)
