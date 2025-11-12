@@ -31,15 +31,15 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.6](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.6), today) - Community contributions for hooks and reference providers in Ruby
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/multi-provider/v0.0.5](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/multi-provider/v0.0.5), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.17.0](https://github.com/open-feature/go-sdk/releases/tag/v1.17.0), 6 days ago) - Go SDK for OpenFeature
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.GOFeatureFlag-v1.0.0](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.GOFeatureFlag-v1.0.0), 1 day ago) - OpenFeature Providers and Hooks for .NET
+- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.6](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.6), 1 day ago) - Community contributions for hooks and reference providers in Ruby
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/multi-provider/v0.0.5](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/multi-provider/v0.0.5), 4 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 weeks ago)
-- [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) -  (4 weeks ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (3 weeks ago)
+- [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) -  (1 month ago)
 - [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (1 month ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 month ago)
 
@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [enolive/slidev-theme-enolive](https://github.com/enolive/slidev-theme-enolive) - personal highly opinionated slidev theme (1 day ago)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (1 day ago)
-- [afedukov/searchtweak](https://github.com/afedukov/searchtweak) - Optimize and Enhance Your Search Quality (1 day ago)
+- [enolive/slidev-theme-enolive](https://github.com/enolive/slidev-theme-enolive) - personal highly opinionated slidev theme (2 days ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (2 days ago)
+- [afedukov/searchtweak](https://github.com/afedukov/searchtweak) - Optimize and Enhance Your Search Quality (2 days ago)
 
 #### 📚 Latest Blog posts
 
