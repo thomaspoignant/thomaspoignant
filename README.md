@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.GOFeatureFlag-v1.0.0](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.GOFeatureFlag-v1.0.0), 1 day ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.6](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.6), 1 day ago) - Community contributions for hooks and reference providers in Ruby
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/multi-provider/v0.0.5](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/multi-provider/v0.0.5), 4 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.GOFeatureFlag-v1.0.0](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.GOFeatureFlag-v1.0.0), 2 days ago) - OpenFeature Providers and Hooks for .NET
+- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-go-feature-flag-provider/v0.1.6](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-go-feature-flag-provider/v0.1.6), 2 days ago) - Community contributions for hooks and reference providers in Ruby
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/multi-provider/v0.0.5](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/multi-provider/v0.0.5), 5 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [enolive/slidev-theme-enolive](https://github.com/enolive/slidev-theme-enolive) - personal highly opinionated slidev theme (2 days ago)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (2 days ago)
-- [afedukov/searchtweak](https://github.com/afedukov/searchtweak) - Optimize and Enhance Your Search Quality (2 days ago)
+- [enolive/slidev-theme-enolive](https://github.com/enolive/slidev-theme-enolive) - personal highly opinionated slidev theme (3 days ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (3 days ago)
+- [afedukov/searchtweak](https://github.com/afedukov/searchtweak) - Optimize and Enhance Your Search Quality (3 days ago)
 
 #### 📚 Latest Blog posts
 
