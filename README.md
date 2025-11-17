@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [enolive/slidev-theme-enolive](https://github.com/enolive/slidev-theme-enolive) - personal highly opinionated slidev theme (1 week ago)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (1 week ago)
-- [afedukov/searchtweak](https://github.com/afedukov/searchtweak) - Optimize and Enhance Your Search Quality (1 week ago)
+- [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI &amp; optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models. (today)
+- [andreaTP/go4j](https://github.com/andreaTP/go4j) - POC high level bindings to execute Go in pure Java (today)
+- [open-feature/dotnet-sdk](https://github.com/open-feature/dotnet-sdk) - .NET implementation of the OpenFeature SDK (today)
 
 #### 📚 Latest Blog posts
 
