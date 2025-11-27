@@ -31,25 +31,25 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/launchdarkly/v0.1.6](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/launchdarkly/v0.1.6), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.3.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.3.1), today) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v1.1.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v1.1.0), 2 days ago) - Community contributions for hooks and reference providers
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-web-provider-v0.3.5](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-web-provider-v0.3.5), 3 days ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
+- [thomaspoignant/firefox-homepage](https://github.com/thomaspoignant/firefox-homepage) - My custom firefox home (today)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 month ago)
 - [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) -  (1 month ago)
-- [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (2 months ago)
 
 #### 🌱 My latest projects
 
+- [thomaspoignant/firefox-homepage](https://github.com/thomaspoignant/firefox-homepage) - My custom firefox home
 - [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) - 
 - [thomaspoignant/in-memory-queue-with-offset](https://github.com/thomaspoignant/in-memory-queue-with-offset) - A POC of a in memory queue with offset
 - [thomaspoignant/gofeatureflag-python-provider](https://github.com/thomaspoignant/gofeatureflag-python-provider) - An OpenFeature provider in python for GO Feature Flag
 - [thomaspoignant/openfeature-go-feature-flag-node-demo](https://github.com/thomaspoignant/openfeature-go-feature-flag-node-demo) - Demonstration on how to use GO Feature Flag with the openfeature nodeJS SDK
-- [thomaspoignant/gofeatureflag.org](https://github.com/thomaspoignant/gofeatureflag.org) - This repository contains the gofeatureflag.org website
 
 #### ⭐ Recent Stars
 
