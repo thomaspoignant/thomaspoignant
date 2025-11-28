@@ -31,14 +31,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.3.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.3.1), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v1.6.0](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v1.6.0), today) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v1.1.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v1.1.0), 3 days ago) - Community contributions for hooks and reference providers
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-web-provider-v0.3.5](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-web-provider-v0.3.5), 4 days ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [thomaspoignant/firefox-homepage](https://github.com/thomaspoignant/firefox-homepage) - My custom firefox home (1 day ago)
+- [thomaspoignant/firefox-homepage](https://github.com/thomaspoignant/firefox-homepage) - My custom firefox home (today)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 month ago)
 - [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) -  (1 month ago)
@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [emilycodestar](https://github.com/emilycodestar)
 - [shovon](https://github.com/shovon)
 - [TCQ391](https://github.com/TCQ391)
-- [skovtunenko](https://github.com/skovtunenko)
