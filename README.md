@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [clemsau/search-playground](https://github.com/clemsau/search-playground) - Modern information retrival explained simply  (today)
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity &amp; Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. (2 weeks ago)
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI &amp; optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models. (2 weeks ago)
-- [andreaTP/go4j](https://github.com/andreaTP/go4j) - POC high level bindings to execute Go in pure Java (2 weeks ago)
 
 #### 📚 Latest Blog posts
 
