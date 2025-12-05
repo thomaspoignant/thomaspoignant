@@ -31,7 +31,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v1.0.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v1.0.0), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v1.0.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v1.0.1), today) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v0.2.7](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v0.2.7), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v1.1.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v1.1.0), 1 week ago) - Community contributions for hooks and reference providers
 
