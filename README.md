@@ -37,11 +37,11 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (today)
 - [go-feature-flag/helm-charts](https://github.com/go-feature-flag/helm-charts) - Repository to store go-feature-flag helm-charts (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (6 days ago)
 - [thomaspoignant/firefox-homepage](https://github.com/thomaspoignant/firefox-homepage) - My custom firefox home (1 week ago)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [7suyash](https://github.com/7suyash)
 - [RohanSodha1215](https://github.com/RohanSodha1215)
 - [emilycodestar](https://github.com/emilycodestar)
-- [shovon](https://github.com/shovon)
