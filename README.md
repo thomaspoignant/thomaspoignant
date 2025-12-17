@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [guedesgomero](https://github.com/guedesgomero)
 - [RohanSodha1215](https://github.com/RohanSodha1215)
 - [emilycodestar](https://github.com/emilycodestar)
-- [shovon](https://github.com/shovon)
