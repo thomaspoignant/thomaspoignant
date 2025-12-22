@@ -31,14 +31,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v1.0.4](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v1.0.4), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([angular-sdk-v0.0.20](https://github.com/open-feature/js-sdk/releases/tag/angular-sdk-v0.0.20), 5 days ago) - JavaScript SDK for OpenFeature
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-flagsmith-provider/v0.1.1](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-flagsmith-provider/v0.1.1), 6 days ago) - Community contributions for hooks and reference providers in Ruby
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v1.0.4](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v1.0.4), 2 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([angular-sdk-v0.0.20](https://github.com/open-feature/js-sdk/releases/tag/angular-sdk-v0.0.20), 6 days ago) - JavaScript SDK for OpenFeature
+- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-flagsmith-provider/v0.1.1](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-flagsmith-provider/v0.1.1), 1 week ago) - Community contributions for hooks and reference providers in Ruby
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 week ago)
 - [go-feature-flag/helm-charts](https://github.com/go-feature-flag/helm-charts) - Repository to store go-feature-flag helm-charts (1 week ago)
 - [thomaspoignant/firefox-homepage](https://github.com/thomaspoignant/firefox-homepage) - My custom firefox home (3 weeks ago)
@@ -55,7 +55,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability (1 week ago)
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards &amp; B2B apps with unmatched flexibility. (2 weeks ago)
-- [clemsau/search-playground](https://github.com/clemsau/search-playground) - Modern information retrival explained simply  (2 weeks ago)
+- [clemsau/search-playground](https://github.com/clemsau/search-playground) - Modern information retrival explained simply  (3 weeks ago)
 
 #### 📚 Latest Blog posts
 
