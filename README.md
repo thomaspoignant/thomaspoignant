@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/flagd-provider-1.1.0](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/flagd-provider-1.1.0), today) - OpenFeature Providers and Hooks for PHP
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v1.0.4](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v1.0.4), 3 days ago) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([angular-sdk-v0.0.20](https://github.com/open-feature/js-sdk/releases/tag/angular-sdk-v0.0.20), 1 week ago) - JavaScript SDK for OpenFeature
-- [open-feature/ruby-sdk-contrib](https://github.com/open-feature/ruby-sdk-contrib) ([openfeature-flagsmith-provider/v0.1.1](https://github.com/open-feature/ruby-sdk-contrib/releases/tag/openfeature-flagsmith-provider/v0.1.1), 1 week ago) - Community contributions for hooks and reference providers in Ruby
 
 #### 👷 Check out what I'm currently working on
 
@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [UntaArabia](https://github.com/UntaArabia)
 - [guedesgomero](https://github.com/guedesgomero)
 - [RohanSodha1215](https://github.com/RohanSodha1215)
-- [emilycodestar](https://github.com/emilycodestar)
