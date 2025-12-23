@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs) - This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications.  (today)
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability (1 week ago)
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards &amp; B2B apps with unmatched flexibility. (3 weeks ago)
-- [clemsau/search-playground](https://github.com/clemsau/search-playground) - Modern information retrival explained simply  (3 weeks ago)
 
 #### 📚 Latest Blog posts
 
