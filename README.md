@@ -31,8 +31,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/flagsmith-provider-0.1.1](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/flagsmith-provider-0.1.1), today) - OpenFeature Providers and Hooks for PHP
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v1.0.5](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v1.0.5), 1 week ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/flagd-provider-1.1.0](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/flagd-provider-1.1.0), 1 week ago) - OpenFeature Providers and Hooks for PHP
 - [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([angular-sdk-v0.0.20](https://github.com/open-feature/js-sdk/releases/tag/angular-sdk-v0.0.20), 2 weeks ago) - JavaScript SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
