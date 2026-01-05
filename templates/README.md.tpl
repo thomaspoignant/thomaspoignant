@@ -19,7 +19,7 @@ I really like to share on what I am working, so feel free to contact me any time
 - [open-feature](https://github.com/open-feature) _- OpenFeature is an open specification that provides a vendor-agnostic, community-driven API for feature flagging that works with your favorite feature flag management tool or in-house solution._
 - [scim-patch](https://github.com/thomaspoignant/scim-patch) _- SCIM Patch library for nodejs._
 
-**I've also contributed to:**
+**I've also built/contributed to:**
 - [scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) _- parse and filter SCIM queries._
 - [mac-dev-setup](https://github.com/thomaspoignant/mac-dev-setup) _- script to install your developer environment on your mac._
 - [yamllint-checkstyle](https://github.com/thomaspoignant/yamllint-checkstyle) _- convert yamlint results into checkstyle_.
