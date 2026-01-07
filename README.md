@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flipt-web-provider-v0.1.6](https://github.com/open-feature/js-sdk-contrib/releases/tag/flipt-web-provider-v0.1.6), today) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.19](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.19), 1 day ago) - Community contributions for hooks and reference providers
 - [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/flagsmith-provider-0.1.1](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/flagsmith-provider-0.1.1), 2 days ago) - OpenFeature Providers and Hooks for PHP
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v1.0.5](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v1.0.5), 1 week ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
