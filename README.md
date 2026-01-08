@@ -8,7 +8,7 @@
 -----------
 
 My name is Thomas Poignant. I live in Paris 🇫🇷 and my timezone is UTC+2.  
-I am an opensource enthousiast on my free time, and I work as Head Of Engineering @ [leboncoin](https://www.leboncoin.fr/).
+I am an opensource enthousiast on my free time, and I work as CTO @ [Gens de Confiance](https://gensdeconfiance.com/).
 
 I really like to share on what I am working, so feel free to contact me any time: thomas.poignant@gofeatureflag.org
 
@@ -31,13 +31,13 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flipt-web-provider-v0.1.6](https://github.com/open-feature/js-sdk-contrib/releases/tag/flipt-web-provider-v0.1.6), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Ofrep-v0.1.4](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Ofrep-v0.1.4), today) - OpenFeature Providers and Hooks for .NET
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-provider-v0.2.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-provider-v0.2.2), today) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.19](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.19), 2 days ago) - Community contributions for hooks and reference providers
-- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/flagsmith-provider-0.1.1](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/flagsmith-provider-0.1.1), 3 days ago) - OpenFeature Providers and Hooks for PHP
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (4 weeks ago)
 - [go-feature-flag/helm-charts](https://github.com/go-feature-flag/helm-charts) - Repository to store go-feature-flag helm-charts (4 weeks ago)
