@@ -8,7 +8,7 @@
 -----------
 
 My name is Thomas Poignant. I live in Paris 🇫🇷 and my timezone is UTC+2.  
-I am an opensource enthousiast on my free time, and I work as Head Of Engineering @ [leboncoin](https://www.leboncoin.fr/).
+I am an opensource enthousiast on my free time, and I work as CTO @ [Gens de Confiance](https://gensdeconfiance.com/).
 
 I really like to share on what I am working, so feel free to contact me any time: thomas.poignant@gofeatureflag.org
 
