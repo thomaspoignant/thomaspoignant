@@ -31,15 +31,15 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flipt-web-provider-v0.1.6](https://github.com/open-feature/js-sdk-contrib/releases/tag/flipt-web-provider-v0.1.6), today) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.19](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.19), 1 day ago) - Community contributions for hooks and reference providers
-- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/flagsmith-provider-0.1.1](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/flagsmith-provider-0.1.1), 2 days ago) - OpenFeature Providers and Hooks for PHP
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flipt-web-provider-v0.1.6](https://github.com/open-feature/js-sdk-contrib/releases/tag/flipt-web-provider-v0.1.6), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.19](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.19), 2 days ago) - Community contributions for hooks and reference providers
+- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/flagsmith-provider-0.1.1](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/flagsmith-provider-0.1.1), 3 days ago) - OpenFeature Providers and Hooks for PHP
 
 #### 👷 Check out what I'm currently working on
 
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (3 weeks ago)
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (4 weeks ago)
 - [go-feature-flag/helm-charts](https://github.com/go-feature-flag/helm-charts) - Repository to store go-feature-flag helm-charts (4 weeks ago)
 - [thomaspoignant/firefox-homepage](https://github.com/thomaspoignant/firefox-homepage) - My custom firefox home (1 month ago)
 
@@ -67,7 +67,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [AltaModaTech](https://github.com/AltaModaTech) (3 months ago)
+- [AltaModaTech](https://github.com/AltaModaTech) (4 months ago)
 - [cybozu](https://github.com/cybozu) (1 year ago)
 
 #### 👯 Check out some of my recent followers
