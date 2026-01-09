@@ -31,13 +31,13 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([modules/core/v0.3.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/modules/core/v0.3.1), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Ofrep-v0.1.4](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Ofrep-v0.1.4), 1 day ago) - OpenFeature Providers and Hooks for .NET
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-provider-v0.2.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-provider-v0.2.2), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.19](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.19), 3 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (4 weeks ago)
 - [go-feature-flag/helm-charts](https://github.com/go-feature-flag/helm-charts) - Repository to store go-feature-flag helm-charts (1 month ago)
