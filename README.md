@@ -31,16 +31,16 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Ofrep-v0.1.4](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Ofrep-v0.1.4), today) - OpenFeature Providers and Hooks for .NET
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-provider-v0.2.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-provider-v0.2.2), today) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.19](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.19), 2 days ago) - Community contributions for hooks and reference providers
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Ofrep-v0.1.4](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Ofrep-v0.1.4), 1 day ago) - OpenFeature Providers and Hooks for .NET
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-provider-v0.2.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-provider-v0.2.2), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.19](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.19), 3 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (4 weeks ago)
-- [go-feature-flag/helm-charts](https://github.com/go-feature-flag/helm-charts) - Repository to store go-feature-flag helm-charts (4 weeks ago)
+- [go-feature-flag/helm-charts](https://github.com/go-feature-flag/helm-charts) - Repository to store go-feature-flag helm-charts (1 month ago)
 - [thomaspoignant/firefox-homepage](https://github.com/thomaspoignant/firefox-homepage) - My custom firefox home (1 month ago)
 
 #### 🌱 My latest projects
@@ -54,7 +54,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 #### ⭐ Recent Stars
 
 - [cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs) - This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications.  (2 weeks ago)
-- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability (4 weeks ago)
+- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability (1 month ago)
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards &amp; B2B apps with unmatched flexibility. (1 month ago)
 
 #### 📚 Latest Blog posts
