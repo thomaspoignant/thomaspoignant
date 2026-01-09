@@ -31,7 +31,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([modules/core/v0.3.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/modules/core/v0.3.1), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([modules/evaluation/v0.2.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/modules/evaluation/v0.2.1), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Ofrep-v0.1.4](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Ofrep-v0.1.4), 1 day ago) - OpenFeature Providers and Hooks for .NET
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-provider-v0.2.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-provider-v0.2.2), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
 
@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [Spookywy](https://github.com/Spookywy)
 - [UntaArabia](https://github.com/UntaArabia)
 - [guedesgomero](https://github.com/guedesgomero)
-- [RohanSodha1215](https://github.com/RohanSodha1215)
