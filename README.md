@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [bh7532657](https://github.com/bh7532657)
 - [Spookywy](https://github.com/Spookywy)
 - [UntaArabia](https://github.com/UntaArabia)
-- [guedesgomero](https://github.com/guedesgomero)
