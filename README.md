@@ -31,17 +31,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([cmd/wasm/v0.1.3](https://github.com/thomaspoignant/go-feature-flag/releases/tag/cmd/wasm/v0.1.3), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([react-sdk-v1.2.0](https://github.com/open-feature/js-sdk/releases/tag/react-sdk-v1.2.0), 6 days ago) - JavaScript SDK for OpenFeature
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.3.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.3.2), 6 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([cmd/wasm/v0.1.3](https://github.com/thomaspoignant/go-feature-flag/releases/tag/cmd/wasm/v0.1.3), 2 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([react-sdk-v1.2.0](https://github.com/open-feature/js-sdk/releases/tag/react-sdk-v1.2.0), 1 week ago) - JavaScript SDK for OpenFeature
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.3.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.3.2), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (today)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (today)
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 day ago)
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 day ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 day ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -53,7 +53,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (6 days ago)
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (1 week ago)
 - [cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs) - This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications.  (1 month ago)
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability (1 month ago)
 
