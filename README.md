@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [Trojan3877](https://github.com/Trojan3877)
 - [LouisVN](https://github.com/LouisVN)
 - [G1DO](https://github.com/G1DO)
-- [bh7532657](https://github.com/bh7532657)
