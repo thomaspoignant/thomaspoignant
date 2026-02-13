@@ -31,15 +31,15 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.7.4](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.7.4), today) - OpenFeature Providers and Hooks for JavaScript
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([modules/core/v0.6.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/modules/core/v0.6.0), today) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.20](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.20), 2 days ago) - Community contributions for hooks and reference providers
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.7.4](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.7.4), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([modules/core/v0.6.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/modules/core/v0.6.0), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.20](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.20), 3 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
-- [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) -  (3 days ago)
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (5 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 day ago)
+- [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) -  (4 days ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (6 days ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 week ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
 
@@ -53,8 +53,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App (3 days ago)
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (5 days ago)
+- [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App (4 days ago)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (6 days ago)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (1 week ago)
 
 #### 📚 Latest Blog posts
