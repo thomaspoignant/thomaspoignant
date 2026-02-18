@@ -31,17 +31,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v1.3.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v1.3.0), 4 days ago) - OpenFeature Providers and Hooks for JavaScript
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([cmd/wasm/v0.2.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/cmd/wasm/v0.2.0), 4 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v1.3.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v1.3.0), 5 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([cmd/wasm/v0.2.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/cmd/wasm/v0.2.0), 5 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.11.20](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.11.20), 1 week ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (4 days ago)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (4 days ago)
-- [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (4 days ago)
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (4 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (3 days ago)
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (5 days ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (5 days ago)
+- [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (5 days ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy &#34;cheatsheet&#34;. Whether it&#39;s the &#34;ultimate&#34; guide to Claude Code will be up to the reader :) (today)
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely (1 day ago)
-- [jordimas/Awesome-LLMOps](https://github.com/jordimas/Awesome-LLMOps) - An awesome &amp; curated list of best LLMOps tools for developers (2 days ago)
+- [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy &#34;cheatsheet&#34;. Whether it&#39;s the &#34;ultimate&#34; guide to Claude Code will be up to the reader :) (1 day ago)
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely (2 days ago)
+- [jordimas/Awesome-LLMOps](https://github.com/jordimas/Awesome-LLMOps) - An awesome &amp; curated list of best LLMOps tools for developers (3 days ago)
 
 #### 📚 Latest Blog posts
 
