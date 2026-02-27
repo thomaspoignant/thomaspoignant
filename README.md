@@ -31,17 +31,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.tools.flagdcore-v0.0.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.tools.flagdcore-v0.0.2), 1 day ago) - Community contributions for hooks and reference providers
 - [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([angular-sdk-v1.1.0](https://github.com/open-feature/js-sdk/releases/tag/angular-sdk-v1.1.0), 1 week ago) - JavaScript SDK for OpenFeature
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v1.3.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v1.3.0), 1 week ago) - OpenFeature Providers and Hooks for JavaScript
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([cmd/wasm/v0.2.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/cmd/wasm/v0.2.0), 1 week ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v1.3.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v1.3.0), 2 weeks ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (5 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (6 days ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 week ago)
-- [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (1 week ago)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (2 weeks ago)
+- [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (2 weeks ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (2 weeks ago)
 
 #### 🌱 My latest projects
 
