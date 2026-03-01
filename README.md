@@ -31,7 +31,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.tools.flagdcore-v0.0.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.tools.flagdcore-v0.0.2), 2 days ago) - Community contributions for hooks and reference providers
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.tools.flagdcore-v0.0.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.tools.flagdcore-v0.0.2), 3 days ago) - Community contributions for hooks and reference providers
 - [open-feature/js-sdk](https://github.com/open-feature/js-sdk) ([angular-sdk-v1.1.0](https://github.com/open-feature/js-sdk/releases/tag/angular-sdk-v1.1.0), 1 week ago) - JavaScript SDK for OpenFeature
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v1.3.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v1.3.0), 2 weeks ago) - OpenFeature Providers and Hooks for JavaScript
 
