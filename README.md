@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [HersheyPlus](https://github.com/HersheyPlus)
 - [aquint-g](https://github.com/aquint-g)
 - [Trojan3877](https://github.com/Trojan3877)
-- [LouisVN](https://github.com/LouisVN)
