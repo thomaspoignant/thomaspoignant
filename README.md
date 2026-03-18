@@ -31,17 +31,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.9.0](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.9.0), today) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([cmd/wasm/v0.2.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/cmd/wasm/v0.2.1), 2 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.12.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.12.0), 1 week ago) - Community contributions for hooks and reference providers
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flagd-v0.4.0](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flagd-v0.4.0), 1 week ago) - OpenFeature Providers and Hooks for .NET
 
 #### 👷 Check out what I'm currently working on
 
 - [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (today)
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (today)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (4 weeks ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 month ago)
-- [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (1 month ago)
 
 #### 🌱 My latest projects
 
