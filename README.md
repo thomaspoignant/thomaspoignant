@@ -31,7 +31,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-web-provider-v0.2.9](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-web-provider-v0.2.9), 4 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-provider-v0.2.4](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-provider-v0.2.4), today) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v2.0.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v2.0.2), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.9.0](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.9.0), 1 week ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
 
@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [WatchMeJoustMyFlags/kubecon-material](https://github.com/WatchMeJoustMyFlags/kubecon-material) -  (today)
 - [open-feature/cli](https://github.com/open-feature/cli) - OpenFeature’s official command-line tool (1 week ago)
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (3 weeks ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 month ago)
 
 #### 📚 Latest Blog posts
 
@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [martincgdc](https://github.com/martincgdc)
 - [HersheyPlus](https://github.com/HersheyPlus)
 - [aquint-g](https://github.com/aquint-g)
-- [Trojan3877](https://github.com/Trojan3877)
