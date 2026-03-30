@@ -31,14 +31,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-web-provider-v0.3.6](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-web-provider-v0.3.6), 2 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-web-provider-v0.3.6](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-web-provider-v0.3.6), 3 days ago) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v2.0.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v2.0.2), 1 week ago) - Community maintained OpenFeature Providers and Hooks for Go
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.9.0](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.9.0), 1 week ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/python-sdk-contrib](https://github.com/open-feature/python-sdk-contrib) - Community contributions for hooks and reference providers in python (3 days ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (4 days ago)
+- [open-feature/python-sdk-contrib](https://github.com/open-feature/python-sdk-contrib) - Community contributions for hooks and reference providers in python (4 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (5 days ago)
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (1 week ago)
 - [thomaspoignant/scim2-parse-filter](https://github.com/thomaspoignant/scim2-parse-filter) - RFC7643 SCIM(System for Cross-domain Identity Management) 2.0 filter parser. (1 week ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 month ago)
@@ -53,7 +53,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [WatchMeJoustMyFlags/kubecon-material](https://github.com/WatchMeJoustMyFlags/kubecon-material) -  (2 days ago)
+- [WatchMeJoustMyFlags/kubecon-material](https://github.com/WatchMeJoustMyFlags/kubecon-material) -  (3 days ago)
 - [open-feature/cli](https://github.com/open-feature/cli) - OpenFeature’s official command-line tool (1 week ago)
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (3 weeks ago)
 
