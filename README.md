@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks. (today)
 - [WatchMeJoustMyFlags/kubecon-material](https://github.com/WatchMeJoustMyFlags/kubecon-material) -  (4 days ago)
 - [open-feature/cli](https://github.com/open-feature/cli) - OpenFeature’s official command-line tool (1 week ago)
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (3 weeks ago)
 
 #### 📚 Latest Blog posts
 
