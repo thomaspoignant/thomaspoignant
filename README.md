@@ -31,17 +31,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.52.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.52.1), 3 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Flagd-v0.6.0](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Flagd-v0.6.0), 5 days ago) - OpenFeature Providers and Hooks for .NET
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.52.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.52.1), 4 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Flagd-v0.6.0](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Flagd-v0.6.0), 6 days ago) - OpenFeature Providers and Hooks for .NET
 - [open-feature/go-sdk](https://github.com/open-feature/go-sdk) ([v1.17.2](https://github.com/open-feature/go-sdk/releases/tag/v1.17.2), 1 week ago) - Go SDK for OpenFeature
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 days ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (3 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (3 days ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 weeks ago)
-- [open-feature/python-sdk-contrib](https://github.com/open-feature/python-sdk-contrib) - Community contributions for hooks and reference providers in python (2 weeks ago)
+- [open-feature/python-sdk-contrib](https://github.com/open-feature/python-sdk-contrib) - Community contributions for hooks and reference providers in python (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. (3 days ago)
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (4 days ago)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (4 days ago)
+- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. (4 days ago)
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (5 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (5 days ago)
 
 #### 📚 Latest Blog posts
 
