@@ -37,25 +37,25 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
+- [thomaspoignant/linktree](https://github.com/thomaspoignant/linktree) - A linktree to share for conference (today)
 - [thomaspoignant/openfeature-devoxx-paris-2026](https://github.com/thomaspoignant/openfeature-devoxx-paris-2026) - A repository containing my openfeature devoxx presentation (3 days ago)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 week ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 week ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [thomaspoignant/linktree](https://github.com/thomaspoignant/linktree) - A linktree to share for conference
 - [thomaspoignant/openfeature-devoxx-paris-2026](https://github.com/thomaspoignant/openfeature-devoxx-paris-2026) - A repository containing my openfeature devoxx presentation
 - [thomaspoignant/goff-fork](https://github.com/thomaspoignant/goff-fork) - 
 - [thomaspoignant/skills](https://github.com/thomaspoignant/skills) - A set of skills to use with AI Agents
 - [thomaspoignant/firefox-homepage](https://github.com/thomaspoignant/firefox-homepage) - My custom firefox home
-- [thomaspoignant/in-memory-queue-with-offset](https://github.com/thomaspoignant/in-memory-queue-with-offset) - A POC of a in memory queue with offset
 
 #### ⭐ Recent Stars
 
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph (today)
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. (1 week ago)
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 week ago)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 week ago)
 
 #### 📚 Latest Blog posts
 
