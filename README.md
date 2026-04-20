@@ -37,11 +37,11 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/openfeature-devoxx-paris-2026](https://github.com/thomaspoignant/openfeature-devoxx-paris-2026) - A repository containing my openfeature devoxx presentation (2 days ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (6 days ago)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (6 days ago)
+- [thomaspoignant/openfeature-devoxx-paris-2026](https://github.com/thomaspoignant/openfeature-devoxx-paris-2026) - A repository containing my openfeature devoxx presentation (3 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 week ago)
+- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 week ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 weeks ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (3 weeks ago)
 
 #### 🌱 My latest projects
 
