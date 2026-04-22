@@ -31,16 +31,16 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.tools.flagdcore-v1.0.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.tools.flagdcore-v1.0.1), today) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/optimizely/v0.0.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/optimizely/v0.0.2), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.52.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.52.1), 1 week ago) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Flagd-v0.6.0](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Flagd-v0.6.0), 1 week ago) - OpenFeature Providers and Hooks for .NET
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/linktree](https://github.com/thomaspoignant/linktree) - A linktree to share for conference (2 days ago)
-- [thomaspoignant/openfeature-devoxx-paris-2026](https://github.com/thomaspoignant/openfeature-devoxx-paris-2026) - A repository containing my openfeature devoxx presentation (5 days ago)
+- [thomaspoignant/linktree](https://github.com/thomaspoignant/linktree) - A linktree to share for conference (today)
+- [thomaspoignant/openfeature-devoxx-paris-2026](https://github.com/thomaspoignant/openfeature-devoxx-paris-2026) - A repository containing my openfeature devoxx presentation (today)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (today)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 week ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ (1 week ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks. (today)
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code &amp; Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time. (today)
 - [disaster37/opensearch](https://github.com/disaster37/opensearch) - Opensearch client for Go base on olivere/elastic (1 day ago)
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph (2 days ago)
 
 #### 📚 Latest Blog posts
 
