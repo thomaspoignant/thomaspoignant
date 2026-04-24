@@ -31,7 +31,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([localstorage-provider-v0.1.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/localstorage-provider-v0.1.1), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([localstorage-provider-v0.1.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/localstorage-provider-v0.1.2), today) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.tools.flagdcore-v1.0.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.tools.flagdcore-v1.0.1), 2 days ago) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/optimizely/v0.0.2](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/optimizely/v0.0.2), 4 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 
