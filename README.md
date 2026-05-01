@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-provider-v0.15.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-provider-v0.15.1), today) - OpenFeature Providers and Hooks for JavaScript
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.13.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.13.1), 1 day ago) - Community contributions for hooks and reference providers
 - [open-feature/python-sdk-contrib](https://github.com/open-feature/python-sdk-contrib) ([openfeature-provider-flagd/v0.4.1](https://github.com/open-feature/python-sdk-contrib/releases/tag/openfeature-provider-flagd/v0.4.1), 1 day ago) - Community contributions for hooks and reference providers in python
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Flagd-v0.6.1](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Flagd-v0.6.1), 1 day ago) - OpenFeature Providers and Hooks for .NET
 
 #### 👷 Check out what I'm currently working on
 
@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [mabuu69046](https://github.com/mabuu69046)
 - [martincgdc](https://github.com/martincgdc)
 - [HersheyPlus](https://github.com/HersheyPlus)
-- [aquint-g](https://github.com/aquint-g)
