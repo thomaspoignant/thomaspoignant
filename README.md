@@ -31,17 +31,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.5.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.5.1), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-provider-v0.15.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-provider-v0.15.1), 2 days ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.13.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.13.1), 3 days ago) - Community contributions for hooks and reference providers
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagd/v0.5.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagd/v0.5.1), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-provider-v0.15.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-provider-v0.15.1), 3 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.13.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.13.1), 4 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️ (today)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️ (1 day ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 week ago)
 - [thomaspoignant/linktree](https://github.com/thomaspoignant/linktree) - A linktree to share for conference (1 week ago)
 - [thomaspoignant/openfeature-devoxx-paris-2026](https://github.com/thomaspoignant/openfeature-devoxx-paris-2026) - A repository containing my openfeature devoxx presentation (1 week ago)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 weeks ago)
+- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -53,7 +53,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills (3 days ago)
+- [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills (4 days ago)
 - [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a Full-Stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic. (1 week ago)
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks. (1 week ago)
 
