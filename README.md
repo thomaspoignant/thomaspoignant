@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (today)
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills (4 days ago)
 - [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a Full-Stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic. (1 week ago)
-- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks. (1 week ago)
 
 #### 📚 Latest Blog posts
 
