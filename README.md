@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (today)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (1 day ago)
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills (5 days ago)
-- [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a Full-Stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic. (1 week ago)
 
 #### 📚 Latest Blog posts
 
