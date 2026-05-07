@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.tools.flagdcore-v1.1.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.tools.flagdcore-v1.1.0), today) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/flagsmith/v0.1.6](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/flagsmith/v0.1.6), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-provider-v0.15.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-provider-v0.15.1), 6 days ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.13.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.13.1), 1 week ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
