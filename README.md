@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flagsmith-v0.3.0](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flagsmith-v0.3.0), today) - OpenFeature Providers and Hooks for .NET
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.13.3](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.13.3), 1 day ago) - Community contributions for hooks and reference providers
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v1.1.0](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v1.1.0), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/python-sdk-contrib](https://github.com/open-feature/python-sdk-contrib) ([openfeature-provider-ofrep/v0.3.0](https://github.com/open-feature/python-sdk-contrib/releases/tag/openfeature-provider-ofrep/v0.3.0), 5 days ago) - Community contributions for hooks and reference providers in python
 
 #### 👷 Check out what I'm currently working on
 
