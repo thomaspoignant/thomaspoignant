@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [hanix](https://github.com/hanix)
 - [mabuu69046](https://github.com/mabuu69046)
 - [martincgdc](https://github.com/martincgdc)
-- [HersheyPlus](https://github.com/HersheyPlus)
