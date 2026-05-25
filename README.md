@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.GOFeatureFlag-v1.1.0](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.GOFeatureFlag-v1.1.0), today) - OpenFeature Providers and Hooks for .NET
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v1.3.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v1.3.1), today) - OpenFeature Providers and Hooks for JavaScript
 - [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) ([v0.9.1](https://github.com/thomaspoignant/scim-patch/releases/tag/v0.9.1), 4 days ago) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([openfeature/providers/python-provider/v1.0.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/openfeature/providers/python-provider/v1.0.1), 1 week ago) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
