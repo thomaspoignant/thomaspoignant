@@ -31,15 +31,15 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Unleash-v0.1.1](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Unleash-v0.1.1), today) - OpenFeature Providers and Hooks for .NET
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.tools.junitopenfeature-v0.2.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.tools.junitopenfeature-v0.2.2), 1 day ago) - Community contributions for hooks and reference providers
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.54.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.54.1), 6 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Unleash-v0.1.1](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Unleash-v0.1.1), 1 day ago) - OpenFeature Providers and Hooks for .NET
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.tools.junitopenfeature-v0.2.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.tools.junitopenfeature-v0.2.2), 2 days ago) - Community contributions for hooks and reference providers
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.54.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.54.1), 1 week ago) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️ (2 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️ (3 days ago)
 - [thomaspoignant/toggle-shop-fork](https://github.com/thomaspoignant/toggle-shop-fork) -  (1 week ago)
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (2 weeks ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (3 weeks ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (3 weeks ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (3 weeks ago)
 
@@ -55,7 +55,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (1 week ago)
 - [flaglint/flaglint](https://github.com/flaglint/flaglint) - Migrate LaunchDarkly to OpenFeature safely. (2 weeks ago)
-- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (4 weeks ago)
+- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (1 month ago)
 
 #### 📚 Latest Blog posts
 
