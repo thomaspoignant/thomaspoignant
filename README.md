@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [cookiy-ai/user-research-skill](https://github.com/cookiy-ai/user-research-skill) - Cookiy AI Skill for AI agents (Claude, Codex, Cursor, OpenClaw) — end-to-end user research: AI interviews, synthetic users, quant surveys, participant recruitment. (today)
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (2 weeks ago)
 - [flaglint/flaglint](https://github.com/flaglint/flaglint) - Migrate LaunchDarkly to OpenFeature safely. (3 weeks ago)
-- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (1 month ago)
 
 #### 📚 Latest Blog posts
 
