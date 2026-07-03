@@ -73,6 +73,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [chrisipanaque](https://github.com/chrisipanaque)
 - [nekser](https://github.com/nekser)
 - [mountainousmolehill](https://github.com/mountainousmolehill)
-- [hanix](https://github.com/hanix)
