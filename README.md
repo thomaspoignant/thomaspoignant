@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([hooks/codereadiness/v0.1.1](https://github.com/open-feature/go-sdk-contrib/releases/tag/hooks/codereadiness/v0.1.1), today) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([azure-app-configuration-provider-v0.1.1](https://github.com/open-feature/js-sdk-contrib/releases/tag/azure-app-configuration-provider-v0.1.1), 5 days ago) - OpenFeature Providers and Hooks for JavaScript
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.55.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.55.1), 1 week ago) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️
-- [open-feature/python-sdk-contrib](https://github.com/open-feature/python-sdk-contrib) ([openfeature-provider-flagd/v0.5.1](https://github.com/open-feature/python-sdk-contrib/releases/tag/openfeature-provider-flagd/v0.5.1), 1 week ago) - Community contributions for hooks and reference providers in python
 
 #### 👷 Check out what I'm currently working on
 
