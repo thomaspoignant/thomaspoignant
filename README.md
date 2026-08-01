@@ -31,17 +31,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/python-sdk-contrib](https://github.com/open-feature/python-sdk-contrib) ([openfeature-provider-flagd/v0.5.2](https://github.com/open-feature/python-sdk-contrib/releases/tag/openfeature-provider-flagd/v0.5.2), today) - Community contributions for hooks and reference providers in python
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-web-provider-v0.4.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-web-provider-v0.4.2), 4 days ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v1.2.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v1.2.1), 6 days ago) - Community contributions for hooks and reference providers
+- [open-feature/python-sdk-contrib](https://github.com/open-feature/python-sdk-contrib) ([openfeature-provider-flagd/v0.5.2](https://github.com/open-feature/python-sdk-contrib/releases/tag/openfeature-provider-flagd/v0.5.2), 1 day ago) - Community contributions for hooks and reference providers in python
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-web-provider-v0.4.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-web-provider-v0.4.2), 5 days ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v1.2.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v1.2.1), 1 week ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (today)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (1 day ago)
 - [go-feature-flag/studio](https://github.com/go-feature-flag/studio) - A WIP repository to work on an UI (2 weeks ago)
 - [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (3 weeks ago)
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (4 weeks ago)
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (4 weeks ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 month ago)
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -59,7 +59,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 📚 Latest Blog posts
 
-- [Implement Vendor Agnostic Feature Flags in your Node.js Application using OpenFeature ](https://faun.pub/implement-vendor-agnostic-feature-flags-in-your-node-js-application-using-openfeature-b89fde448f6c?source=rss-9a58464dd8e9------2) (2 years ago)
+- [Implement Vendor Agnostic Feature Flags in your Node.js Application using OpenFeature ](https://faun.pub/implement-vendor-agnostic-feature-flags-in-your-node-js-application-using-openfeature-b89fde448f6c?source=rss-9a58464dd8e9------2) (3 years ago)
 - [ Feature Flags in Dev’Obs Podcast ](https://thomaspoignant.medium.com/feature-flags-in-devobs-podcast-ec11079f8a4b?source=rss-9a58464dd8e9------2) (4 years ago)
 - [Why &amp; How to Collect Your Technical Debt](https://medium.com/geekculture/why-how-to-collect-your-technical-debt-bd917960eee?source=rss-9a58464dd8e9------2) (4 years ago)
 - [How To Design Pipelines and Sort by Dependencies in Python](https://medium.com/better-programming/how-to-design-pipelines-and-sort-by-dependencies-in-python-ed876495a826?source=rss-9a58464dd8e9------2) (4 years ago)
