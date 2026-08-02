@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [fernandoparreiras](https://github.com/fernandoparreiras)
 - [AlexandreLuedo](https://github.com/AlexandreLuedo)
 - [ligrudler](https://github.com/ligrudler)
-- [chrisipanaque](https://github.com/chrisipanaque)
