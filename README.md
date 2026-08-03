@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([cmd/wasm/v0.2.4](https://github.com/thomaspoignant/go-feature-flag/releases/tag/cmd/wasm/v0.2.4), today) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️
 - [open-feature/python-sdk-contrib](https://github.com/open-feature/python-sdk-contrib) ([openfeature-provider-flagd/v0.5.2](https://github.com/open-feature/python-sdk-contrib/releases/tag/openfeature-provider-flagd/v0.5.2), 3 days ago) - Community contributions for hooks and reference providers in python
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-web-provider-v0.4.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-web-provider-v0.4.2), 1 week ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v1.2.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v1.2.1), 1 week ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
