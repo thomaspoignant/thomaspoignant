@@ -31,14 +31,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([cmd/wasm/v0.2.4](https://github.com/thomaspoignant/go-feature-flag/releases/tag/cmd/wasm/v0.2.4), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️
-- [open-feature/python-sdk-contrib](https://github.com/open-feature/python-sdk-contrib) ([openfeature-provider-flagd/v0.5.2](https://github.com/open-feature/python-sdk-contrib/releases/tag/openfeature-provider-flagd/v0.5.2), 4 days ago) - Community contributions for hooks and reference providers in python
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([cmd/wasm/v0.2.4](https://github.com/thomaspoignant/go-feature-flag/releases/tag/cmd/wasm/v0.2.4), 2 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️
+- [open-feature/python-sdk-contrib](https://github.com/open-feature/python-sdk-contrib) ([openfeature-provider-flagd/v0.5.2](https://github.com/open-feature/python-sdk-contrib/releases/tag/openfeature-provider-flagd/v0.5.2), 5 days ago) - Community contributions for hooks and reference providers in python
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([ofrep-web-provider-v0.4.2](https://github.com/open-feature/js-sdk-contrib/releases/tag/ofrep-web-provider-v0.4.2), 1 week ago) - OpenFeature Providers and Hooks for JavaScript
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (today)
-- [go-feature-flag/studio](https://github.com/go-feature-flag/studio) - A WIP repository to work on an UI (2 weeks ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (1 day ago)
+- [go-feature-flag/studio](https://github.com/go-feature-flag/studio) - A WIP repository to work on an UI (3 weeks ago)
 - [go-feature-flag/gofeatureflag-lint-action](https://github.com/go-feature-flag/gofeatureflag-lint-action) - GitHub Action to lint your GO Feature Flag 🏁 configuration file. (3 weeks ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 month ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 month ago)
@@ -53,7 +53,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌 (3 weeks ago)
+- [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌 (4 weeks ago)
 - [AICMO/AiCMO-Marketing-Prompt-Collection](https://github.com/AICMO/AiCMO-Marketing-Prompt-Collection) - AI CMO Prompts Collection and Knowledge Base (1 month ago)
 - [cookiy-ai/user-research-skill](https://github.com/cookiy-ai/user-research-skill) - Cookiy AI Skill for AI agents (Claude, Codex, Cursor, OpenClaw) — end-to-end user research: AI interviews, synthetic users, quant surveys, participant recruitment. (1 month ago)
 
