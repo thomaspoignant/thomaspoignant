@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (today)
 - [kweinmeister/cosmic-guestbook](https://github.com/kweinmeister/cosmic-guestbook) - Demo application for Google Cloud DevOps scenarios (1 day ago)
 - [fabriziodemaria/swift-sdk](https://github.com/fabriziodemaria/swift-sdk) - Swift implementation of the OpenFeature SDK for iOS clients (1 week ago)
-- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. (1 week ago)
 
 #### 📚 Latest Blog posts
 
