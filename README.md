@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [anandprabhu](https://github.com/anandprabhu)
 - [naonaoyh](https://github.com/naonaoyh)
 - [NocturneSky3715092](https://github.com/NocturneSky3715092)
-- [fernandoparreiras](https://github.com/fernandoparreiras)
