@@ -31,16 +31,16 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [pablor21/echo-etag](https://github.com/pablor21/echo-etag) ([v5.0.0](https://github.com/pablor21/echo-etag/releases/tag/v5.0.0), today) - Etag middleware for Echo Framework
-- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) ([v0.5.0](https://github.com/go-feature-flag/openfeature-swift-provider/releases/tag/v0.5.0), 2 days ago) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flagsmith-v0.3.1](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flagsmith-v0.3.1), 3 days ago) - OpenFeature Providers and Hooks for .NET
+- [pablor21/echo-etag](https://github.com/pablor21/echo-etag) ([v5.0.0](https://github.com/pablor21/echo-etag/releases/tag/v5.0.0), 1 day ago) - Etag middleware for Echo Framework
+- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) ([v0.5.0](https://github.com/go-feature-flag/openfeature-swift-provider/releases/tag/v0.5.0), 3 days ago) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Contrib.Providers.Flagsmith-v0.3.1](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Contrib.Providers.Flagsmith-v0.3.1), 4 days ago) - OpenFeature Providers and Hooks for .NET
 
 #### 👷 Check out what I'm currently working on
 
-- [pablor21/echo-etag](https://github.com/pablor21/echo-etag) - Etag middleware for Echo Framework (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (today)
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (1 day ago)
-- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (2 days ago)
+- [pablor21/echo-etag](https://github.com/pablor21/echo-etag) - Etag middleware for Echo Framework (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (1 day ago)
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (2 days ago)
+- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (3 days ago)
 - [go-feature-flag/studio](https://github.com/go-feature-flag/studio) - A WIP repository to work on an UI (1 month ago)
 
 #### 🌱 My latest projects
@@ -55,7 +55,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust (2 weeks ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (2 weeks ago)
-- [kweinmeister/cosmic-guestbook](https://github.com/kweinmeister/cosmic-guestbook) - Demo application for Google Cloud DevOps scenarios (2 weeks ago)
+- [kweinmeister/cosmic-guestbook](https://github.com/kweinmeister/cosmic-guestbook) - Demo application for Google Cloud DevOps scenarios (3 weeks ago)
 
 #### 📚 Latest Blog posts
 
