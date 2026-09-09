@@ -31,16 +31,16 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.55.3](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.55.3), today) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️
-- [pablor21/echo-etag](https://github.com/pablor21/echo-etag) ([v5.0.0](https://github.com/pablor21/echo-etag/releases/tag/v5.0.0), 1 day ago) - Etag middleware for Echo Framework
-- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) ([v0.5.0](https://github.com/go-feature-flag/openfeature-swift-provider/releases/tag/v0.5.0), 3 days ago) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.55.3](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.55.3), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️
+- [pablor21/echo-etag](https://github.com/pablor21/echo-etag) ([v5.0.0](https://github.com/pablor21/echo-etag/releases/tag/v5.0.0), 2 days ago) - Etag middleware for Echo Framework
+- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) ([v0.5.0](https://github.com/go-feature-flag/openfeature-swift-provider/releases/tag/v0.5.0), 4 days ago) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (today)
-- [pablor21/echo-etag](https://github.com/pablor21/echo-etag) - Etag middleware for Echo Framework (1 day ago)
-- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (2 days ago)
-- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (3 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (1 day ago)
+- [pablor21/echo-etag](https://github.com/pablor21/echo-etag) - Etag middleware for Echo Framework (2 days ago)
+- [thomaspoignant/scim-patch](https://github.com/thomaspoignant/scim-patch) - Simple library to perform SCIM patch as describe in RFC 7644 https://tools.ietf.org/html/rfc7644#section-3.5.2 (3 days ago)
+- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (4 days ago)
 - [go-feature-flag/studio](https://github.com/go-feature-flag/studio) - A WIP repository to work on an UI (1 month ago)
 
 #### 🌱 My latest projects
@@ -54,7 +54,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 #### ⭐ Recent Stars
 
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust (2 weeks ago)
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (2 weeks ago)
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (3 weeks ago)
 - [kweinmeister/cosmic-guestbook](https://github.com/kweinmeister/cosmic-guestbook) - Demo application for Google Cloud DevOps scenarios (3 weeks ago)
 
 #### 📚 Latest Blog posts
