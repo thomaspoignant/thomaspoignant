@@ -31,9 +31,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([hooks/open-telemetry/v0.3.8](https://github.com/open-feature/go-sdk-contrib/releases/tag/hooks/open-telemetry/v0.3.8), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) ([openfeature-swift-provider-v0.6.0](https://github.com/go-feature-flag/openfeature-swift-provider/releases/tag/openfeature-swift-provider-v0.6.0), 1 week ago) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.flagd-v0.14.2](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.flagd-v0.14.2), 1 week ago) - Community contributions for hooks and reference providers
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v2.3.0](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v2.3.0), today) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([flagd-web-provider-v0.8.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/flagd-web-provider-v0.8.0), today) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.tools.flagdapitestkit-v0.3.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.tools.flagdapitestkit-v0.3.0), today) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
