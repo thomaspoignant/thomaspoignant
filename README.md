@@ -31,14 +31,14 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v2.0.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v2.0.0), today) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v2.3.0](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v2.3.0), 5 days ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.tools.flagdapitestkit-v0.3.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.tools.flagdapitestkit-v0.3.0), 5 days ago) - Community contributions for hooks and reference providers
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-provider-v2.0.0](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-provider-v2.0.0), 1 day ago) - OpenFeature Providers and Hooks for JavaScript
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([tests/flagd/v2.3.0](https://github.com/open-feature/go-sdk-contrib/releases/tag/tests/flagd/v2.3.0), 6 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.tools.flagdapitestkit-v0.3.0](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.tools.flagdapitestkit-v0.3.0), 6 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (6 days ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (1 week ago)
 - [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (1 week ago)
 - [go-feature-flag/.github](https://github.com/go-feature-flag/.github) - GO Feature Flag organisation ✨special ✨ repository (1 week ago)
 - [pablor21/echo-etag](https://github.com/pablor21/echo-etag) - Etag middleware for Echo Framework (3 weeks ago)
