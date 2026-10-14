@@ -31,16 +31,16 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v1.1.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v1.1.3), 1 day ago) - Community maintained OpenFeature Providers and Hooks for Go
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.56.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.56.1), 1 day ago) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v2.0.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v2.0.1), 5 days ago) - Community contributions for hooks and reference providers
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/go-feature-flag/v1.1.3](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/go-feature-flag/v1.1.3), 2 days ago) - Community maintained OpenFeature Providers and Hooks for Go
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.56.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.56.1), 2 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) ([dev.openfeature.contrib.providers.go-feature-flag-v2.0.1](https://github.com/open-feature/java-sdk-contrib/releases/tag/dev.openfeature.contrib.providers.go-feature-flag-v2.0.1), 6 days ago) - Community contributions for hooks and reference providers
 
 #### 👷 Check out what I'm currently working on
 
-- [go-feature-flag/studio](https://github.com/go-feature-flag/studio) - A WIP repository to work on an UI (today)
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (1 day ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (1 day ago)
-- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (5 days ago)
+- [go-feature-flag/studio](https://github.com/go-feature-flag/studio) - A WIP repository to work on an UI (1 day ago)
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (2 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (2 days ago)
+- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (6 days ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (today)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (2 days ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (3 days ago)
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (1 day ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (3 days ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (4 days ago)
 
 #### 📚 Latest Blog posts
 
