@@ -37,11 +37,11 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (today)
+- [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (today)
 - [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (1 day ago)
 - [go-feature-flag/studio](https://github.com/go-feature-flag/studio) - A WIP repository to work on an UI (4 days ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
-- [thomaspoignant/firefox-homepage](https://github.com/thomaspoignant/firefox-homepage) - My custom firefox home (1 week ago)
 
 #### 🌱 My latest projects
 
