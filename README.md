@@ -31,25 +31,25 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
+- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/from-env/v0.1.7](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/from-env/v0.1.7), today) - Community maintained OpenFeature Providers and Hooks for Go
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) ([go-feature-flag-web-provider-v0.2.11](https://github.com/open-feature/js-sdk-contrib/releases/tag/go-feature-flag-web-provider-v0.2.11), 2 days ago) - OpenFeature Providers and Hooks for JavaScript
-- [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) ([providers/launchdarkly/v0.2.0](https://github.com/open-feature/go-sdk-contrib/releases/tag/providers/launchdarkly/v0.2.0), 3 days ago) - Community maintained OpenFeature Providers and Hooks for Go
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.57.2](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.57.2), 6 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️
 
 #### 👷 Check out what I'm currently working on
 
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (today)
-- [go-feature-flag/studio](https://github.com/go-feature-flag/studio) - A WIP repository to work on an UI (3 days ago)
+- [thomaspoignant/koanf-http-provider](https://github.com/thomaspoignant/koanf-http-provider) -  (today)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (3 days ago)
-- [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (1 week ago)
+- [go-feature-flag/studio](https://github.com/go-feature-flag/studio) - A WIP repository to work on an UI (3 days ago)
 - [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (1 week ago)
 
 #### 🌱 My latest projects
 
+- [thomaspoignant/koanf-http-provider](https://github.com/thomaspoignant/koanf-http-provider) - 
 - [thomaspoignant/toggle-shop-fork](https://github.com/thomaspoignant/toggle-shop-fork) - 
 - [thomaspoignant/linktree](https://github.com/thomaspoignant/linktree) - A linktree to share for conference
 - [thomaspoignant/openfeature-devoxx-paris-2026](https://github.com/thomaspoignant/openfeature-devoxx-paris-2026) - A repository containing my openfeature devoxx presentation
 - [thomaspoignant/firefox-homepage](https://github.com/thomaspoignant/firefox-homepage) - My custom firefox home
-- [thomaspoignant/gofeatureflag-python-provider](https://github.com/thomaspoignant/gofeatureflag-python-provider) - An OpenFeature provider in python for GO Feature Flag
 
 #### ⭐ Recent Stars
 
