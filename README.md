@@ -41,7 +41,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 - [thomaspoignant/koanf-http-provider](https://github.com/thomaspoignant/koanf-http-provider) -  (1 day ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (4 days ago)
 - [go-feature-flag/studio](https://github.com/go-feature-flag/studio) - A WIP repository to work on an UI (4 days ago)
-- [go-feature-flag/openfeature-swift-provider](https://github.com/go-feature-flag/openfeature-swift-provider) - 🚩 Use GO Feature Flag with OpenFeature in your iOS / macOS / tvOS apps. 📱💻 (1 week ago)
+- [go-feature-flag/wasm-releases](https://github.com/go-feature-flag/wasm-releases) - This repository contains the wasm distributions (1 week ago)
 
 #### 🌱 My latest projects
 
