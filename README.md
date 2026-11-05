@@ -31,17 +31,17 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/go-feature-flag-provider-1.1.1](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/go-feature-flag-provider-1.1.1), today) - OpenFeature Providers and Hooks for PHP
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([cmd/wasm/v0.3.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/cmd/wasm/v0.3.0), 2 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️
-- [thomaspoignant/koanf-http-provider](https://github.com/thomaspoignant/koanf-http-provider) ([v0.0.1](https://github.com/thomaspoignant/koanf-http-provider/releases/tag/v0.0.1), 2 days ago) - 
+- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/go-feature-flag-provider-1.1.1](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/go-feature-flag-provider-1.1.1), 1 day ago) - OpenFeature Providers and Hooks for PHP
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([cmd/wasm/v0.3.0](https://github.com/thomaspoignant/go-feature-flag/releases/tag/cmd/wasm/v0.3.0), 3 days ago) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️
+- [thomaspoignant/koanf-http-provider](https://github.com/thomaspoignant/koanf-http-provider) ([v0.0.1](https://github.com/thomaspoignant/koanf-http-provider/releases/tag/v0.0.1), 3 days ago) - 
 
 #### 👷 Check out what I'm currently working on
 
-- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) - OpenFeature Providers and Hooks for PHP (today)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (today)
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 day ago)
-- [go-feature-flag/studio](https://github.com/go-feature-flag/studio) - A WIP repository to work on an UI (1 day ago)
-- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 day ago)
+- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) - OpenFeature Providers and Hooks for PHP (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (1 day ago)
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (2 days ago)
+- [go-feature-flag/studio](https://github.com/go-feature-flag/studio) - A WIP repository to work on an UI (2 days ago)
+- [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -53,7 +53,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (today)
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (1 day ago)
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (3 weeks ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (3 weeks ago)
 
