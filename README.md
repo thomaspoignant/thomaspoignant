@@ -72,6 +72,6 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👯 Check out some of my recent followers
 
+- [chabir](https://github.com/chabir)
 - [seckinyasar](https://github.com/seckinyasar)
 - [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
-- [Vadim-Matsul](https://github.com/Vadim-Matsul)
