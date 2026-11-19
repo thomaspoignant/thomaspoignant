@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) - Rewrite your whole app in Rust, one piece at a time, checked against the original&#39;s recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java. (today)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (2 weeks ago)
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (1 month ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 month ago)
 
 #### 📚 Latest Blog posts
 
@@ -73,5 +73,5 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 #### 👯 Check out some of my recent followers
 
 - [chabir](https://github.com/chabir)
-- [seckinyasar](https://github.com/seckinyasar)
 - [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
+- [Vadim-Matsul](https://github.com/Vadim-Matsul)
