@@ -37,7 +37,7 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (1 day ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (today)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (4 days ago)
 - [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib) - Community maintained OpenFeature Providers and Hooks for Go (4 days ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (4 days ago)
@@ -53,9 +53,9 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
+- [cribelo/cribelo](https://github.com/cribelo/cribelo) - The reading map of a pull request: which files to read, in which order, which to skip, and why. Local CLI and GitHub Action, no LLM. (today)
 - [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) - Rewrite your whole app in Rust, one piece at a time, checked against the original&#39;s recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java. (2 days ago)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (2 weeks ago)
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (1 month ago)
 
 #### 📚 Latest Blog posts
 
