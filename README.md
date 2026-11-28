@@ -31,15 +31,15 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 -----------
 #### 🚀 Latest releases I've contributed to
 
-- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Flagd-v0.8.2](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Flagd-v0.8.2), 2 days ago) - OpenFeature Providers and Hooks for .NET
-- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/split-provider-1.0.1](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/split-provider-1.0.1), 6 days ago) - OpenFeature Providers and Hooks for PHP
+- [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) ([OpenFeature.Providers.Flagd-v0.8.2](https://github.com/open-feature/dotnet-sdk-contrib/releases/tag/OpenFeature.Providers.Flagd-v0.8.2), 3 days ago) - OpenFeature Providers and Hooks for .NET
+- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) ([open-feature/split-provider-1.0.1](https://github.com/open-feature/php-sdk-contrib/releases/tag/open-feature/split-provider-1.0.1), 1 week ago) - OpenFeature Providers and Hooks for PHP
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ([v1.59.1](https://github.com/thomaspoignant/go-feature-flag/releases/tag/v1.59.1), 1 week ago) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️
 
 #### 👷 Check out what I'm currently working on
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (today)
 - [go-feature-flag/studio](https://github.com/go-feature-flag/studio) - A WIP repository to work on an UI (1 day ago)
-- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) - OpenFeature Providers and Hooks for PHP (5 days ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ (1 day ago)
+- [open-feature/php-sdk-contrib](https://github.com/open-feature/php-sdk-contrib) - OpenFeature Providers and Hooks for PHP (6 days ago)
 - [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib) - OpenFeature Providers and Hooks for .NET (1 week ago)
 - [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib) - OpenFeature Providers and Hooks for JavaScript (1 week ago)
 
@@ -53,8 +53,8 @@ If you find my open-source contributions valuable, please consider [sponsoring m
 
 #### ⭐ Recent Stars
 
-- [elliottbelinb/companion-GDC](https://github.com/elliottbelinb/companion-GDC) - L&#39;appli Mac qui te prévient avant chaque rendez-vous, avec un petit animal 🦊 (today)
-- [cribelo/cribelo](https://github.com/cribelo/cribelo) - The reading map of a pull request: which files to read, in which order, which to skip, and why. Local CLI and GitHub Action, no LLM. (6 days ago)
+- [elliottbelinb/companion-GDC](https://github.com/elliottbelinb/companion-GDC) - L&#39;appli Mac qui te prévient avant chaque rendez-vous, avec un petit animal 🦊 (1 day ago)
+- [cribelo/cribelo](https://github.com/cribelo/cribelo) - The reading map of a pull request: which files to read, in which order, which to skip, and why. Local CLI and GitHub Action, no LLM. (1 week ago)
 - [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) - Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell. (1 week ago)
 
 #### 📚 Latest Blog posts
